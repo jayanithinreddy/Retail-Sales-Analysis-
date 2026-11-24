@@ -1,0 +1,1201 @@
+Index,Order_ID,Order_Date,Customer_ID,Customer_Name,City,State,Region,Category,Sub_Category,Product,Sales,Quantity,Discount,Profit,Payment_Mode,Shipping_Mode
+1,ORD-00001,06-03-2024 00:00,CUST-1301,Ira Mehta,Kolkata,West Bengal,East,Furniture,Home & Office,Study Table,19500,3,0,3070.19,Debit Card,Standard
+2,ORD-00002,05-09-2025 00:00,CUST-1325,Aadhya Kumar,Ahmedabad,Gujarat,West,Furniture,Home & Office,Office Chair,19890,3,0.15,1465.65,Credit Card,Standard
+3,ORD-00003,18-09-2025 00:00,CUST-1266,Meera Mehta,Kolkata,West Bengal,East,Office Supplies,Stationery,Notebook Pack,525,2,0.25,50.47,UPI,Standard
+4,ORD-00004,29-12-2024 00:00,CUST-1240,Rohan Nair,Bengaluru,Karnataka,South,Technology,Electronics,Monitor,28125,3,0.25,202.33,Credit Card,Standard
+5,ORD-00005,03-12-2024 00:00,CUST-1080,Rahul Joshi,Chennai,Tamil Nadu,South,Furniture,Home & Office,Study Table,17550,3,0.1,2309.21,Net Banking,Standard
+6,ORD-00006,17-10-2025 00:00,CUST-1049,Rahul Rao,Mumbai,Maharashtra,West,Office Supplies,Stationery,Desk Organizer,850,1,0,227.14,Debit Card,Express
+7,ORD-00007,09-02-2025 00:00,CUST-1049,Neha Das,Ahmedabad,Gujarat,West,Office Supplies,Stationery,Notebook Pack,297.5,1,0.15,60.85,Debit Card,Express
+8,ORD-00008,16-02-2025 00:00,CUST-1107,Sai Nair,Delhi,Delhi,North,Furniture,Home & Office,Sofa,21600,1,0.1,1716.11,Net Banking,Standard
+9,ORD-00009,22-08-2025 00:00,CUST-1103,Sneha Rao,Bengaluru,Karnataka,South,Technology,Electronics,Headphones,7560,3,0.1,1300.04,Credit Card,Express
+10,ORD-00010,22-08-2024 00:00,CUST-1032,Rohan Das,Hyderabad,Telangana,South,Technology,Electronics,Laptop,140400,3,0.1,13515.6,UPI,Express
+11,ORD-00011,27-12-2024 00:00,CUST-1106,Ishaan Reddy,Ahmedabad,Gujarat,West,Furniture,Home & Office,Office Chair,22230,3,0.05,2174.59,Cash,Same Day
+12,ORD-00012,27-12-2024 00:00,CUST-1340,Ira Kumar,Lucknow,Uttar Pradesh,North,Technology,Electronics,Monitor,31875,3,0.15,2188.52,UPI,Same Day
+13,ORD-00013,03-04-2024 00:00,CUST-1108,Aarav Mehta,Ahmedabad,Gujarat,West,Technology,Electronics,Monitor,25000,2,0,4096.21,Debit Card,Standard
+14,ORD-00014,13-08-2024 00:00,CUST-1228,Vihaan Gupta,Jaipur,Rajasthan,North,Office Supplies,Stationery,Notebook Pack,315,1,0.1,67.72,UPI,Standard
+15,ORD-00015,09-05-2025 00:00,CUST-1060,Riya Singh,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Desk Organizer,3825,5,0.1,587.45,UPI,Same Day
+16,ORD-00016,01-11-2024 00:00,CUST-1029,Vihaan Singh,Ahmedabad,Gujarat,West,Office Supplies,Stationery,Notebook Pack,630,2,0.1,137.57,Credit Card,Standard
+17,ORD-00017,27-11-2025 00:00,CUST-1154,Priya Reddy,Mumbai,Maharashtra,West,Furniture,Home & Office,Sofa,20400,1,0.15,528.89,Credit Card,Standard
+18,ORD-00018,01-05-2025 00:00,CUST-1231,Riya Verma,Lucknow,Uttar Pradesh,North,Technology,Electronics,Smartphone,56100,3,0.15,4295.49,UPI,Standard
+19,ORD-00019,13-04-2024 00:00,CUST-1291,Riya Iyer,Delhi,Delhi,North,Furniture,Home & Office,Study Table,24700,4,0.05,4379.05,Credit Card,Standard
+20,ORD-00020,24-12-2025 00:00,CUST-1016,Vivaan Mehta,Patna,Bihar,East,Technology,Electronics,Keyboard,2100,2,0.25,93.06,Net Banking,Express
+21,ORD-00021,25-03-2024 00:00,CUST-1271,Ira Mehta,Delhi,Delhi,North,Technology,Electronics,Laptop,148200,3,0.05,22929.34,UPI,Same Day
+22,ORD-00022,22-11-2025 00:00,CUST-1291,Ira Verma,Hyderabad,Telangana,South,Technology,Electronics,Laptop,52000,1,0,11259.88,UPI,Standard
+23,ORD-00023,29-12-2025 00:00,CUST-1176,Sai Reddy,Kolkata,West Bengal,East,Home Appliances,Appliances,Electric Kettle,1500,1,0,367.78,Debit Card,Standard
+24,ORD-00024,04-08-2024 00:00,CUST-1204,Vivaan Mehta,Delhi,Delhi,North,Office Supplies,Stationery,Desk Organizer,722.5,1,0.15,126.36,UPI,Standard
+25,ORD-00025,18-02-2025 00:00,CUST-1106,Priya Iyer,Patna,Bihar,East,Furniture,Home & Office,Sofa,40800,2,0.15,2261.75,Cash,Standard
+26,ORD-00026,11-03-2025 00:00,CUST-1038,Vihaan Singh,Delhi,Delhi,North,Office Supplies,Stationery,Stapler,198,1,0.1,64.38,Cash,Express
+27,ORD-00027,11-11-2024 00:00,CUST-1007,Aadhya Kumar,Ahmedabad,Gujarat,West,Office Supplies,Stationery,Stapler,187,1,0.15,23.75,Credit Card,Standard
+28,ORD-00028,12-11-2025 00:00,CUST-1145,Sneha Verma,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Printer Paper,864,2,0.1,151.76,Credit Card,Standard
+29,ORD-00029,15-07-2024 00:00,CUST-1286,Ananya Patel,Hyderabad,Telangana,South,Office Supplies,Stationery,Stapler,220,1,0,55.72,Net Banking,Standard
+30,ORD-00030,05-11-2025 00:00,CUST-1058,Priya Sharma,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Air Fryer,6200,1,0,716.89,UPI,Standard
+31,ORD-00031,29-08-2025 00:00,CUST-1239,Ira Verma,Bengaluru,Karnataka,South,Office Supplies,Stationery,Pen Set,342,2,0.05,90.82,Net Banking,Standard
+32,ORD-00032,25-12-2024 00:00,CUST-1088,Aarav Nair,Hyderabad,Telangana,South,Technology,Electronics,Smartphone,39600,2,0.1,2729.37,Credit Card,Standard
+33,ORD-00033,09-03-2024 00:00,CUST-1324,Arjun Mishra,Bhubaneswar,Odisha,East,Technology,Electronics,Keyboard,1120,1,0.2,97.84,Net Banking,Express
+34,ORD-00034,03-04-2025 00:00,CUST-1048,Kiran Gupta,Jaipur,Rajasthan,North,Office Supplies,Stationery,Desk Organizer,1530,2,0.1,343.92,Credit Card,Express
+35,ORD-00035,01-07-2024 00:00,CUST-1168,Priya Nair,Mumbai,Maharashtra,West,Technology,Electronics,Keyboard,2660,2,0.05,387.44,UPI,Standard
+36,ORD-00036,13-05-2024 00:00,CUST-1333,Aadhya Das,Lucknow,Uttar Pradesh,North,Technology,Electronics,Monitor,56250,5,0.1,8855.74,Net Banking,Express
+37,ORD-00037,27-05-2024 00:00,CUST-1222,Kavya Rao,Kolkata,West Bengal,East,Furniture,Home & Office,Sofa,20400,1,0.15,-152.13,Net Banking,Standard
+38,ORD-00038,26-11-2025 00:00,CUST-1255,Sneha Mishra,Jaipur,Rajasthan,North,Technology,Electronics,Monitor,10000,1,0.2,543.26,Net Banking,Standard
+39,ORD-00039,20-11-2024 00:00,CUST-1332,Priya Singh,Kolkata,West Bengal,East,Office Supplies,Stationery,Stapler,198,1,0.1,32.49,UPI,Standard
+40,ORD-00040,06-01-2024 00:00,CUST-1183,Arjun Singh,Delhi,Delhi,North,Furniture,Home & Office,Bookshelf,13260,3,0.15,1225.29,Cash,Standard
+41,ORD-00041,27-07-2025 00:00,CUST-1231,Ira Iyer,Chennai,Tamil Nadu,South,Technology,Electronics,Keyboard,2380,2,0.15,314.98,Net Banking,Express
+42,ORD-00042,08-04-2025 00:00,CUST-1111,Kavya Gupta,Mumbai,Maharashtra,West,Furniture,Home & Office,Bookshelf,5200,1,0,961.98,Credit Card,Express
+43,ORD-00043,08-05-2024 00:00,CUST-1274,Aarav Mehta,Delhi,Delhi,North,Home Appliances,Appliances,Electric Kettle,2850,2,0.05,590.59,Cash,Standard
+44,ORD-00044,16-07-2024 00:00,CUST-1043,Vivaan Gupta,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Notebook Pack,892.5,3,0.15,155.92,Net Banking,Standard
+45,ORD-00045,07-12-2025 00:00,CUST-1106,Ananya Mishra,Ahmedabad,Gujarat,West,Furniture,Home & Office,Office Chair,33150,5,0.15,884.47,Net Banking,Standard
+46,ORD-00046,21-07-2025 00:00,CUST-1350,Meera Verma,Bhubaneswar,Odisha,East,Technology,Electronics,Monitor,31875,3,0.15,3538.23,UPI,Standard
+47,ORD-00047,26-11-2024 00:00,CUST-1070,Aarav Sharma,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Stapler,935,5,0.15,145.26,UPI,Standard
+48,ORD-00048,16-12-2025 00:00,CUST-1298,Aditya Mehta,Kolkata,West Bengal,East,Technology,Electronics,Smartphone,18700,1,0.15,839.22,Debit Card,Express
+49,ORD-00049,21-11-2024 00:00,CUST-1044,Vivaan Joshi,Bengaluru,Karnataka,South,Technology,Electronics,Laptop,88400,2,0.15,6568.4,UPI,Express
+50,ORD-00050,08-02-2024 00:00,CUST-1249,Vivaan Singh,Hyderabad,Telangana,South,Technology,Electronics,Laptop,280800,6,0.1,33084.05,UPI,Express
+51,ORD-00051,01-12-2024 00:00,CUST-1033,Priya Mehta,Lucknow,Uttar Pradesh,North,Technology,Electronics,Smartphone,16500,1,0.25,-599.89,Debit Card,Standard
+52,ORD-00052,21-11-2024 00:00,CUST-1106,Diya Mishra,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Air Fryer,10540,2,0.15,355.33,UPI,Standard
+53,ORD-00053,19-05-2025 00:00,CUST-1042,Riya Nair,Pune,Maharashtra,West,Furniture,Home & Office,Office Chair,7410,1,0.05,1192.31,Credit Card,Express
+54,ORD-00054,10-12-2025 00:00,CUST-1077,Sai Nair,Pune,Maharashtra,West,Furniture,Home & Office,Sofa,68400,3,0.05,5645.27,Credit Card,Standard
+55,ORD-00055,10-03-2024 00:00,CUST-1246,Arjun Joshi,Delhi,Delhi,North,Office Supplies,Stationery,Pen Set,459,3,0.15,95.23,Credit Card,Standard
+56,ORD-00056,21-01-2025 00:00,CUST-1180,Neha Das,Jaipur,Rajasthan,North,Furniture,Home & Office,Sofa,57600,3,0.2,29.92,Credit Card,Express
+57,ORD-00057,28-06-2024 00:00,CUST-1173,Kiran Sharma,Mumbai,Maharashtra,West,Office Supplies,Stationery,Printer Paper,480,1,0,133.02,UPI,Standard
+58,ORD-00058,21-12-2024 00:00,CUST-1260,Diya Nair,Hyderabad,Telangana,South,Technology,Electronics,Laptop,44200,1,0.15,1530.36,UPI,Standard
+59,ORD-00059,02-05-2025 00:00,CUST-1336,Rahul Rao,Chennai,Tamil Nadu,South,Furniture,Home & Office,Bookshelf,26520,6,0.15,1008.04,Debit Card,Standard
+60,ORD-00060,06-11-2025 00:00,CUST-1074,Diya Joshi,Jaipur,Rajasthan,North,Technology,Electronics,Monitor,25000,2,0,4569.77,Cash,Standard
+61,ORD-00061,26-05-2024 00:00,CUST-1050,Kiran Mehta,Bhubaneswar,Odisha,East,Home Appliances,Appliances,Air Fryer,11160,2,0.1,1276.44,Credit Card,Standard
+62,ORD-00062,01-11-2025 00:00,CUST-1318,Vihaan Gupta,Chennai,Tamil Nadu,South,Technology,Electronics,Smartphone,20900,1,0.05,2924.68,Credit Card,Standard
+63,ORD-00063,11-01-2024 00:00,CUST-1296,Rahul Mehta,Chennai,Tamil Nadu,South,Technology,Electronics,Headphones,7140,3,0.15,897.25,UPI,Standard
+64,ORD-00064,26-06-2025 00:00,CUST-1296,Ananya Das,Delhi,Delhi,North,Furniture,Home & Office,Sofa,40800,2,0.15,2973.37,Net Banking,Standard
+65,ORD-00065,28-03-2024 00:00,CUST-1175,Sneha Verma,Bhubaneswar,Odisha,East,Furniture,Home & Office,Bookshelf,10400,2,0,1645.62,Debit Card,Standard
+66,ORD-00066,07-01-2024 00:00,CUST-1009,Aditya Singh,Pune,Maharashtra,West,Technology,Electronics,Smartphone,99000,5,0.1,9177.23,UPI,Standard
+67,ORD-00067,04-05-2024 00:00,CUST-1344,Meera Verma,Lucknow,Uttar Pradesh,North,Office Supplies,Stationery,Desk Organizer,2295,3,0.1,416.97,Debit Card,Same Day
+68,ORD-00068,31-03-2025 00:00,CUST-1040,Sneha Rao,Kolkata,West Bengal,East,Home Appliances,Appliances,Mixer Grinder,8640,3,0.1,752.23,Cash,Same Day
+69,ORD-00069,22-04-2024 00:00,CUST-1263,Priya Mehta,Mumbai,Maharashtra,West,Office Supplies,Stationery,Stapler,440,2,0,104.71,Credit Card,Same Day
+70,ORD-00070,19-09-2025 00:00,CUST-1145,Priya Joshi,Ahmedabad,Gujarat,West,Home Appliances,Appliances,Mixer Grinder,12800,4,0,2103.17,Cash,Express
+71,ORD-00071,23-06-2024 00:00,CUST-1018,Meera Mehta,Bengaluru,Karnataka,South,Furniture,Home & Office,Sofa,20400,1,0.15,-277.3,Net Banking,Express
+72,ORD-00072,14-10-2024 00:00,CUST-1083,Sneha Das,Kolkata,West Bengal,East,Technology,Electronics,Headphones,6720,3,0.2,650.51,Debit Card,Standard
+73,ORD-00073,08-07-2025 00:00,CUST-1236,Rahul Joshi,Pune,Maharashtra,West,Home Appliances,Appliances,Air Fryer,4960,1,0.2,229.52,UPI,Standard
+74,ORD-00074,23-11-2024 00:00,CUST-1311,Diya Mehta,Pune,Maharashtra,West,Technology,Electronics,Keyboard,1400,1,0,326.36,Net Banking,Same Day
+75,ORD-00075,10-04-2025 00:00,CUST-1048,Ira Singh,Mumbai,Maharashtra,West,Furniture,Home & Office,Bookshelf,7800,2,0.25,-403.8,Credit Card,Same Day
+76,ORD-00076,09-06-2024 00:00,CUST-1128,Ishaan Gupta,Ahmedabad,Gujarat,West,Technology,Electronics,Laptop,49400,1,0.05,7508.06,Debit Card,Standard
+77,ORD-00077,24-11-2024 00:00,CUST-1264,Ananya Kumar,Ahmedabad,Gujarat,West,Home Appliances,Appliances,Vacuum Cleaner,16910,2,0.05,1724.15,UPI,Same Day
+78,ORD-00078,11-08-2024 00:00,CUST-1207,Sai Iyer,Delhi,Delhi,North,Office Supplies,Stationery,Printer Paper,1368,3,0.05,247.72,UPI,Express
+79,ORD-00079,02-01-2024 00:00,CUST-1278,Rohan Mishra,Mumbai,Maharashtra,West,Office Supplies,Stationery,Printer Paper,1728,4,0.1,334.59,Debit Card,Express
+80,ORD-00080,05-05-2025 00:00,CUST-1065,Ishaan Mishra,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Pen Set,360,2,0,103.41,Credit Card,Standard
+81,ORD-00081,11-04-2024 00:00,CUST-1037,Sneha Gupta,Bengaluru,Karnataka,South,Home Appliances,Appliances,Air Fryer,5890,1,0.05,529.56,Credit Card,Standard
+82,ORD-00082,04-02-2024 00:00,CUST-1135,Sneha Iyer,Bengaluru,Karnataka,South,Technology,Electronics,Monitor,10625,1,0.15,735.63,Credit Card,Standard
+83,ORD-00083,20-04-2024 00:00,CUST-1302,Aarav Iyer,Bengaluru,Karnataka,South,Technology,Electronics,Keyboard,1260,1,0.1,148.18,Credit Card,Express
+84,ORD-00084,07-12-2024 00:00,CUST-1113,Ishaan Kumar,Bhubaneswar,Odisha,East,Technology,Electronics,Smartphone,19800,1,0.1,1285.57,UPI,Same Day
+85,ORD-00085,18-12-2024 00:00,CUST-1250,Aarav Verma,Bengaluru,Karnataka,South,Furniture,Home & Office,Sofa,24000,1,0,3007.4,UPI,Standard
+86,ORD-00086,19-08-2025 00:00,CUST-1218,Meera Joshi,Bengaluru,Karnataka,South,Technology,Electronics,Monitor,11250,1,0.1,1152.95,UPI,Express
+87,ORD-00087,24-01-2025 00:00,CUST-1271,Kavya Gupta,Jaipur,Rajasthan,North,Technology,Electronics,Headphones,10640,4,0.05,2090.96,Credit Card,Same Day
+88,ORD-00088,27-02-2024 00:00,CUST-1112,Priya Nair,Pune,Maharashtra,West,Office Supplies,Stationery,Notebook Pack,1260,4,0.1,301.44,UPI,Standard
+89,ORD-00089,21-09-2025 00:00,CUST-1007,Ishaan Mehta,Bengaluru,Karnataka,South,Furniture,Home & Office,Study Table,5525,1,0.15,685.35,UPI,Express
+90,ORD-00090,17-04-2024 00:00,CUST-1051,Aditya Mishra,Jaipur,Rajasthan,North,Technology,Electronics,Monitor,37500,3,0,7556.61,UPI,Standard
+91,ORD-00091,07-02-2025 00:00,CUST-1045,Vihaan Singh,Patna,Bihar,East,Office Supplies,Stationery,Printer Paper,1536,4,0.2,155.02,UPI,Standard
+92,ORD-00092,22-11-2024 00:00,CUST-1233,Vihaan Kumar,Jaipur,Rajasthan,North,Technology,Electronics,Smartphone,88000,4,0,16270.54,Net Banking,Standard
+93,ORD-00093,28-03-2025 00:00,CUST-1139,Sai Mehta,Jaipur,Rajasthan,North,Furniture,Home & Office,Bookshelf,13260,3,0.15,1054.16,Cash,Standard
+94,ORD-00094,05-11-2025 00:00,CUST-1279,Rahul Verma,Delhi,Delhi,North,Technology,Electronics,Laptop,93600,2,0.1,8639.13,Credit Card,Express
+95,ORD-00095,08-12-2024 00:00,CUST-1063,Arjun Patel,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Electric Kettle,1200,1,0.2,88.75,Credit Card,Express
+96,ORD-00096,15-04-2025 00:00,CUST-1181,Rohan Das,Bhubaneswar,Odisha,East,Furniture,Home & Office,Study Table,16575,3,0.15,1523.22,UPI,Same Day
+97,ORD-00097,25-05-2025 00:00,CUST-1035,Arjun Mishra,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Pen Set,153,1,0.15,26.02,UPI,Express
+98,ORD-00098,10-11-2025 00:00,CUST-1112,Aarav Singh,Bhubaneswar,Odisha,East,Furniture,Home & Office,Bookshelf,14040,3,0.1,987.27,Cash,Standard
+99,ORD-00099,19-02-2024 00:00,CUST-1138,Aarav Iyer,Hyderabad,Telangana,South,Furniture,Home & Office,Study Table,6500,1,0,1304.06,Cash,Standard
+100,ORD-00100,24-05-2024 00:00,CUST-1309,Aadhya Das,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Pen Set,171,1,0.05,31.72,Credit Card,Standard
+101,ORD-00101,03-04-2024 00:00,CUST-1336,Arjun Kumar,Bengaluru,Karnataka,South,Furniture,Home & Office,Office Chair,21060,3,0.1,1032.68,UPI,Express
+102,ORD-00102,08-08-2024 00:00,CUST-1345,Diya Reddy,Bhubaneswar,Odisha,East,Home Appliances,Appliances,Mixer Grinder,14400,6,0.25,-393.6,UPI,Standard
+103,ORD-00103,06-11-2024 00:00,CUST-1216,Aadhya Patel,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Air Fryer,12400,2,0,1871.96,Net Banking,Standard
+104,ORD-00104,17-01-2025 00:00,CUST-1130,Aarav Patel,Lucknow,Uttar Pradesh,North,Technology,Electronics,Headphones,4760,2,0.15,610.77,Cash,Standard
+105,ORD-00105,19-06-2024 00:00,CUST-1093,Vivaan Gupta,Bhubaneswar,Odisha,East,Technology,Electronics,Smartphone,88000,4,0,14953.47,UPI,Express
+106,ORD-00106,07-04-2024 00:00,CUST-1119,Sai Patel,Bhubaneswar,Odisha,East,Home Appliances,Appliances,Air Fryer,11780,2,0.05,789.02,Cash,Express
+107,ORD-00107,03-01-2024 00:00,CUST-1172,Ananya Reddy,Kolkata,West Bengal,East,Furniture,Home & Office,Study Table,11700,2,0.1,1312.66,UPI,Same Day
+108,ORD-00108,06-03-2024 00:00,CUST-1058,Neha Sharma,Ahmedabad,Gujarat,West,Home Appliances,Appliances,Mixer Grinder,6080,2,0.05,862.16,UPI,Same Day
+109,ORD-00109,02-01-2024 00:00,CUST-1163,Kiran Mishra,Mumbai,Maharashtra,West,Office Supplies,Stationery,Notebook Pack,630,2,0.1,136.33,Net Banking,Express
+110,ORD-00110,27-09-2024 00:00,CUST-1323,Vivaan Joshi,Ahmedabad,Gujarat,West,Technology,Electronics,Headphones,5600,2,0,1535.88,Debit Card,Express
+111,ORD-00111,10-04-2025 00:00,CUST-1324,Kavya Mishra,Kolkata,West Bengal,East,Technology,Electronics,Smartphone,37400,2,0.15,1911.5,UPI,Standard
+112,ORD-00112,17-10-2024 00:00,CUST-1054,Riya Iyer,Ahmedabad,Gujarat,West,Technology,Electronics,Keyboard,3780,3,0.1,617.73,Debit Card,Standard
+113,ORD-00113,09-08-2024 00:00,CUST-1166,Vivaan Rao,Jaipur,Rajasthan,North,Office Supplies,Stationery,Notebook Pack,1662.5,5,0.05,415.19,Net Banking,Standard
+114,ORD-00114,22-12-2025 00:00,CUST-1263,Vihaan Iyer,Ahmedabad,Gujarat,West,Home Appliances,Appliances,Air Fryer,33480,6,0.1,2207.34,Cash,Standard
+115,ORD-00115,20-06-2025 00:00,CUST-1197,Ishaan Nair,Lucknow,Uttar Pradesh,North,Furniture,Home & Office,Sofa,64800,3,0.1,3970.24,Debit Card,Standard
+116,ORD-00116,23-05-2025 00:00,CUST-1045,Ira Rao,Pune,Maharashtra,West,Furniture,Home & Office,Study Table,5525,1,0.15,401.28,UPI,Standard
+117,ORD-00117,10-08-2025 00:00,CUST-1302,Neha Kumar,Hyderabad,Telangana,South,Office Supplies,Stationery,Stapler,187,1,0.15,30.82,UPI,Standard
+118,ORD-00118,24-07-2024 00:00,CUST-1071,Kavya Singh,Lucknow,Uttar Pradesh,North,Home Appliances,Appliances,Air Fryer,10540,2,0.15,346.65,UPI,Express
+119,ORD-00119,16-02-2024 00:00,CUST-1140,Ira Verma,Mumbai,Maharashtra,West,Home Appliances,Appliances,Air Fryer,18600,3,0,2544.52,Credit Card,Standard
+120,ORD-00120,08-05-2024 00:00,CUST-1113,Kiran Iyer,Patna,Bihar,East,Home Appliances,Appliances,Electric Kettle,2700,2,0.1,379.48,UPI,Same Day
+121,ORD-00121,27-11-2025 00:00,CUST-1343,Aditya Gupta,Patna,Bihar,East,Home Appliances,Appliances,Vacuum Cleaner,22695,3,0.15,788.45,Credit Card,Standard
+122,ORD-00122,18-03-2025 00:00,CUST-1091,Meera Joshi,Jaipur,Rajasthan,North,Technology,Electronics,Smartphone,59400,3,0.1,7386.46,Net Banking,Standard
+123,ORD-00123,24-09-2024 00:00,CUST-1280,Riya Reddy,Bengaluru,Karnataka,South,Furniture,Home & Office,Study Table,26000,4,0,4812.02,Credit Card,Same Day
+124,ORD-00124,28-07-2024 00:00,CUST-1148,Riya Sharma,Hyderabad,Telangana,South,Technology,Electronics,Laptop,124800,3,0.2,8970.94,UPI,Express
+125,ORD-00125,01-07-2024 00:00,CUST-1233,Vihaan Nair,Mumbai,Maharashtra,West,Home Appliances,Appliances,Mixer Grinder,2560,1,0.2,133.97,Credit Card,Standard
+126,ORD-00126,03-08-2024 00:00,CUST-1348,Meera Mehta,Lucknow,Uttar Pradesh,North,Office Supplies,Stationery,Notebook Pack,1890,6,0.1,467.74,Cash,Standard
+127,ORD-00127,04-08-2024 00:00,CUST-1018,Meera Joshi,Ahmedabad,Gujarat,West,Furniture,Home & Office,Office Chair,22230,3,0.05,3368.25,Net Banking,Standard
+128,ORD-00128,15-10-2024 00:00,CUST-1281,Kavya Verma,Mumbai,Maharashtra,West,Office Supplies,Stationery,Desk Organizer,1360,2,0.2,161.23,UPI,Standard
+129,ORD-00129,12-08-2024 00:00,CUST-1019,Vivaan Sharma,Delhi,Delhi,North,Technology,Electronics,Keyboard,1260,1,0.1,179.05,Debit Card,Express
+130,ORD-00130,06-09-2024 00:00,CUST-1302,Aarav Reddy,Hyderabad,Telangana,South,Technology,Electronics,Laptop,187200,4,0.1,17007.81,Credit Card,Express
+131,ORD-00131,04-03-2025 00:00,CUST-1177,Diya Kumar,Mumbai,Maharashtra,West,Office Supplies,Stationery,Printer Paper,1296,3,0.1,155.53,UPI,Express
+132,ORD-00132,03-12-2025 00:00,CUST-1062,Meera Mishra,Chennai,Tamil Nadu,South,Technology,Electronics,Smartphone,18700,1,0.15,1058.45,UPI,Express
+133,ORD-00133,11-05-2024 00:00,CUST-1307,Riya Kumar,Ahmedabad,Gujarat,West,Furniture,Home & Office,Office Chair,37440,6,0.2,-353.51,Debit Card,Standard
+134,ORD-00134,02-07-2024 00:00,CUST-1193,Priya Sharma,Lucknow,Uttar Pradesh,North,Office Supplies,Stationery,Desk Organizer,2890,4,0.15,409.53,Credit Card,Standard
+135,ORD-00135,28-03-2025 00:00,CUST-1266,Rahul Kumar,Mumbai,Maharashtra,West,Furniture,Home & Office,Study Table,23400,4,0.1,2848.15,Credit Card,Standard
+136,ORD-00136,24-11-2024 00:00,CUST-1024,Rahul Rao,Delhi,Delhi,North,Office Supplies,Stationery,Stapler,209,1,0.05,45.74,UPI,Express
+137,ORD-00137,10-03-2024 00:00,CUST-1328,Aadhya Patel,Ahmedabad,Gujarat,West,Furniture,Home & Office,Sofa,22800,1,0.05,3260.68,Debit Card,Standard
+138,ORD-00138,13-10-2025 00:00,CUST-1148,Vihaan Iyer,Chennai,Tamil Nadu,South,Technology,Electronics,Laptop,52000,1,0,8514.27,UPI,Standard
+139,ORD-00139,18-01-2025 00:00,CUST-1214,Meera Reddy,Pune,Maharashtra,West,Technology,Electronics,Headphones,2240,1,0.2,175.08,UPI,Standard
+140,ORD-00140,01-12-2024 00:00,CUST-1299,Aditya Mishra,Jaipur,Rajasthan,North,Technology,Electronics,Laptop,132600,3,0.15,10909.61,UPI,Standard
+141,ORD-00141,15-02-2024 00:00,CUST-1202,Ishaan Gupta,Mumbai,Maharashtra,West,Home Appliances,Appliances,Mixer Grinder,12800,4,0,1944.71,Credit Card,Same Day
+142,ORD-00142,29-11-2025 00:00,CUST-1205,Sneha Reddy,Pune,Maharashtra,West,Furniture,Home & Office,Sofa,22800,1,0.05,2495.57,Net Banking,Standard
+143,ORD-00143,25-02-2025 00:00,CUST-1152,Ira Nair,Pune,Maharashtra,West,Furniture,Home & Office,Study Table,15600,3,0.2,12.6,UPI,Standard
+144,ORD-00144,08-12-2025 00:00,CUST-1231,Vivaan Nair,Delhi,Delhi,North,Furniture,Home & Office,Study Table,12350,2,0.05,2141.03,UPI,Standard
+145,ORD-00145,31-12-2024 00:00,CUST-1076,Priya Joshi,Lucknow,Uttar Pradesh,North,Furniture,Home & Office,Sofa,40800,2,0.15,779.79,Cash,Standard
+146,ORD-00146,17-03-2024 00:00,CUST-1331,Sneha Sharma,Lucknow,Uttar Pradesh,North,Technology,Electronics,Monitor,20000,2,0.2,808.2,UPI,Express
+147,ORD-00147,28-10-2025 00:00,CUST-1261,Aadhya Sharma,Delhi,Delhi,North,Technology,Electronics,Smartphone,79200,4,0.1,8545.36,Debit Card,Standard
+148,ORD-00148,04-10-2025 00:00,CUST-1198,Aditya Gupta,Bhubaneswar,Odisha,East,Furniture,Home & Office,Sofa,24000,1,0,2883.26,Credit Card,Same Day
+149,ORD-00149,25-02-2024 00:00,CUST-1066,Ananya Joshi,Patna,Bihar,East,Home Appliances,Appliances,Vacuum Cleaner,21360,3,0.2,-1198.51,Credit Card,Standard
+150,ORD-00150,10-04-2025 00:00,CUST-1149,Neha Joshi,Patna,Bihar,East,Office Supplies,Stationery,Stapler,396,2,0.1,66.61,Net Banking,Standard
+151,ORD-00151,30-05-2025 00:00,CUST-1009,Kavya Patel,Mumbai,Maharashtra,West,Home Appliances,Appliances,Mixer Grinder,5760,2,0.1,793.5,Debit Card,Standard
+152,ORD-00152,31-07-2025 00:00,CUST-1162,Kavya Patel,Jaipur,Rajasthan,North,Technology,Electronics,Keyboard,2660,2,0.05,481.21,UPI,Standard
+153,ORD-00153,08-01-2025 00:00,CUST-1284,Sneha Verma,Patna,Bihar,East,Furniture,Home & Office,Office Chair,46800,6,0,8725.73,Debit Card,Standard
+154,ORD-00154,07-04-2024 00:00,CUST-1188,Arjun Rao,Ahmedabad,Gujarat,West,Technology,Electronics,Smartphone,99000,6,0.25,-1171.06,UPI,Same Day
+155,ORD-00155,10-10-2024 00:00,CUST-1294,Rohan Patel,Bengaluru,Karnataka,South,Home Appliances,Appliances,Vacuum Cleaner,8900,1,0,1671.63,Credit Card,Same Day
+156,ORD-00156,28-09-2025 00:00,CUST-1156,Rahul Patel,Delhi,Delhi,North,Furniture,Home & Office,Sofa,18000,1,0.25,-512.1,UPI,Same Day
+157,ORD-00157,25-05-2024 00:00,CUST-1248,Ananya Mishra,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Mixer Grinder,9600,4,0.25,97.17,UPI,Express
+158,ORD-00158,07-08-2024 00:00,CUST-1315,Aadhya Gupta,Delhi,Delhi,North,Furniture,Home & Office,Sofa,122400,6,0.15,-6080.39,Credit Card,Standard
+159,ORD-00159,22-05-2024 00:00,CUST-1028,Kiran Singh,Pune,Maharashtra,West,Technology,Electronics,Monitor,33750,3,0.1,3753.07,UPI,Standard
+160,ORD-00160,20-09-2025 00:00,CUST-1077,Aarav Kumar,Hyderabad,Telangana,South,Home Appliances,Appliances,Vacuum Cleaner,14240,2,0.2,-558.86,UPI,Standard
+161,ORD-00161,12-11-2025 00:00,CUST-1199,Rahul Patel,Bengaluru,Karnataka,South,Technology,Electronics,Laptop,234000,5,0.1,25220.55,Net Banking,Standard
+162,ORD-00162,20-04-2025 00:00,CUST-1122,Riya Mishra,Bhubaneswar,Odisha,East,Home Appliances,Appliances,Mixer Grinder,3040,1,0.05,513.42,UPI,Express
+163,ORD-00163,31-03-2024 00:00,CUST-1113,Kiran Kumar,Delhi,Delhi,North,Technology,Electronics,Monitor,31875,3,0.15,3589.47,Debit Card,Standard
+164,ORD-00164,06-06-2025 00:00,CUST-1038,Rohan Gupta,Patna,Bihar,East,Technology,Electronics,Headphones,5040,2,0.1,836.21,Cash,Standard
+165,ORD-00165,09-01-2025 00:00,CUST-1024,Riya Sharma,Ahmedabad,Gujarat,West,Furniture,Home & Office,Sofa,68400,3,0.05,6183.31,Cash,Standard
+166,ORD-00166,26-12-2024 00:00,CUST-1022,Rohan Nair,Bhubaneswar,Odisha,East,Furniture,Home & Office,Bookshelf,17680,4,0.15,744.66,Debit Card,Express
+167,ORD-00167,16-07-2025 00:00,CUST-1232,Kavya Nair,Jaipur,Rajasthan,North,Furniture,Home & Office,Study Table,14625,3,0.25,-165.91,Net Banking,Standard
+168,ORD-00168,03-02-2024 00:00,CUST-1076,Ananya Singh,Lucknow,Uttar Pradesh,North,Furniture,Home & Office,Bookshelf,15600,3,0,2934.77,Debit Card,Express
+169,ORD-00169,18-06-2025 00:00,CUST-1335,Ishaan Das,Mumbai,Maharashtra,West,Technology,Electronics,Laptop,49400,1,0.05,7669.32,Net Banking,Express
+170,ORD-00170,03-05-2024 00:00,CUST-1126,Arjun Iyer,Lucknow,Uttar Pradesh,North,Technology,Electronics,Monitor,25000,2,0,5111.71,UPI,Standard
+171,ORD-00171,28-08-2025 00:00,CUST-1169,Arjun Gupta,Lucknow,Uttar Pradesh,North,Technology,Electronics,Keyboard,4760,4,0.15,617.85,Net Banking,Standard
+172,ORD-00172,04-09-2024 00:00,CUST-1164,Vihaan Iyer,Pune,Maharashtra,West,Technology,Electronics,Smartphone,41800,2,0.05,5138.13,UPI,Standard
+173,ORD-00173,11-01-2024 00:00,CUST-1130,Ananya Gupta,Ahmedabad,Gujarat,West,Technology,Electronics,Headphones,2380,1,0.15,271.62,Debit Card,Express
+174,ORD-00174,31-03-2025 00:00,CUST-1312,Rahul Reddy,Patna,Bihar,East,Office Supplies,Stationery,Pen Set,765,5,0.15,167.51,UPI,Standard
+175,ORD-00175,08-12-2024 00:00,CUST-1199,Ira Kumar,Ahmedabad,Gujarat,West,Furniture,Home & Office,Study Table,10400,2,0.2,1000.68,Debit Card,Express
+176,ORD-00176,16-07-2025 00:00,CUST-1312,Kiran Singh,Patna,Bihar,East,Home Appliances,Appliances,Mixer Grinder,5760,2,0.1,606.97,Cash,Standard
+177,ORD-00177,27-12-2025 00:00,CUST-1060,Rahul Nair,Delhi,Delhi,North,Technology,Electronics,Smartphone,22000,1,0,3200.05,Net Banking,Express
+178,ORD-00178,04-05-2025 00:00,CUST-1285,Sai Rao,Hyderabad,Telangana,South,Technology,Electronics,Smartphone,17600,1,0.2,343.17,Net Banking,Standard
+179,ORD-00179,02-12-2025 00:00,CUST-1093,Rahul Mehta,Mumbai,Maharashtra,West,Home Appliances,Appliances,Air Fryer,11160,2,0.1,877.49,Debit Card,Standard
+180,ORD-00180,22-06-2025 00:00,CUST-1002,Arjun Patel,Bhubaneswar,Odisha,East,Technology,Electronics,Monitor,18750,2,0.25,537.06,Credit Card,Express
+181,ORD-00181,14-07-2025 00:00,CUST-1262,Kavya Nair,Chennai,Tamil Nadu,South,Furniture,Home & Office,Study Table,12350,2,0.05,1597.78,Credit Card,Express
+182,ORD-00182,19-01-2025 00:00,CUST-1345,Vivaan Kumar,Jaipur,Rajasthan,North,Office Supplies,Stationery,Notebook Pack,630,2,0.1,134.8,Debit Card,Express
+183,ORD-00183,08-12-2025 00:00,CUST-1071,Vihaan Joshi,Chennai,Tamil Nadu,South,Furniture,Home & Office,Office Chair,7020,1,0.1,777.13,Net Banking,Express
+184,ORD-00184,09-04-2025 00:00,CUST-1090,Rohan Kumar,Mumbai,Maharashtra,West,Technology,Electronics,Laptop,41600,1,0.2,2051.01,Net Banking,Standard
+185,ORD-00185,05-07-2024 00:00,CUST-1224,Riya Joshi,Bengaluru,Karnataka,South,Technology,Electronics,Monitor,47500,4,0.05,8018.5,Net Banking,Standard
+186,ORD-00186,16-01-2025 00:00,CUST-1108,Aditya Mehta,Bengaluru,Karnataka,South,Home Appliances,Appliances,Air Fryer,15810,3,0.15,657.29,Cash,Express
+187,ORD-00187,12-12-2025 00:00,CUST-1185,Diya Reddy,Ahmedabad,Gujarat,West,Home Appliances,Appliances,Mixer Grinder,8160,3,0.15,95.04,UPI,Standard
+188,ORD-00188,05-05-2025 00:00,CUST-1139,Rahul Mehta,Delhi,Delhi,North,Office Supplies,Stationery,Stapler,704,4,0.2,111.11,Debit Card,Standard
+189,ORD-00189,04-08-2025 00:00,CUST-1337,Ananya Iyer,Hyderabad,Telangana,South,Office Supplies,Stationery,Pen Set,432,3,0.2,93.17,Debit Card,Standard
+190,ORD-00190,21-02-2024 00:00,CUST-1145,Riya Nair,Patna,Bihar,East,Technology,Electronics,Keyboard,5320,4,0.05,885.96,Cash,Express
+191,ORD-00191,23-07-2025 00:00,CUST-1118,Rohan Sharma,Mumbai,Maharashtra,West,Office Supplies,Stationery,Printer Paper,1224,3,0.15,151.59,UPI,Express
+192,ORD-00192,21-08-2024 00:00,CUST-1020,Kiran Nair,Delhi,Delhi,North,Furniture,Home & Office,Study Table,10400,2,0.2,542.87,Cash,Standard
+193,ORD-00193,19-09-2024 00:00,CUST-1304,Priya Das,Lucknow,Uttar Pradesh,North,Technology,Electronics,Keyboard,3360,3,0.2,150.44,Debit Card,Standard
+194,ORD-00194,03-08-2025 00:00,CUST-1336,Rohan Das,Hyderabad,Telangana,South,Technology,Electronics,Smartphone,56100,3,0.15,-344.13,Credit Card,Standard
+195,ORD-00195,14-02-2024 00:00,CUST-1311,Aditya Reddy,Jaipur,Rajasthan,North,Technology,Electronics,Laptop,197600,4,0.05,31620.89,Cash,Same Day
+196,ORD-00196,09-05-2025 00:00,CUST-1060,Ananya Sharma,Patna,Bihar,East,Furniture,Home & Office,Sofa,24000,1,0,2281.39,Cash,Standard
+197,ORD-00197,22-01-2024 00:00,CUST-1204,Ishaan Singh,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Desk Organizer,2167.5,3,0.15,324.54,Credit Card,Express
+198,ORD-00198,29-10-2024 00:00,CUST-1164,Diya Patel,Ahmedabad,Gujarat,West,Furniture,Home & Office,Office Chair,6630,1,0.15,429.52,UPI,Express
+199,ORD-00199,18-05-2025 00:00,CUST-1300,Rahul Kumar,Mumbai,Maharashtra,West,Office Supplies,Stationery,Desk Organizer,722.5,1,0.15,100.94,Debit Card,Same Day
+200,ORD-00200,22-03-2024 00:00,CUST-1102,Vihaan Singh,Mumbai,Maharashtra,West,Office Supplies,Stationery,Printer Paper,864,2,0.1,202.77,UPI,Express
+201,ORD-00201,26-03-2025 00:00,CUST-1026,Sneha Kumar,Lucknow,Uttar Pradesh,North,Office Supplies,Stationery,Desk Organizer,1530,2,0.1,241.1,Credit Card,Express
+202,ORD-00202,16-07-2025 00:00,CUST-1192,Vivaan Singh,Hyderabad,Telangana,South,Office Supplies,Stationery,Pen Set,486,3,0.1,131.54,Cash,Standard
+203,ORD-00203,01-12-2025 00:00,CUST-1259,Priya Verma,Delhi,Delhi,North,Office Supplies,Stationery,Stapler,198,1,0.1,14.84,Credit Card,Standard
+204,ORD-00204,07-12-2025 00:00,CUST-1064,Riya Gupta,Patna,Bihar,East,Furniture,Home & Office,Bookshelf,5200,1,0,830.97,Debit Card,Express
+205,ORD-00205,01-06-2025 00:00,CUST-1054,Vihaan Iyer,Bengaluru,Karnataka,South,Office Supplies,Stationery,Stapler,1100,5,0,295.91,Debit Card,Standard
+206,ORD-00206,30-07-2024 00:00,CUST-1318,Ananya Mishra,Kolkata,West Bengal,East,Technology,Electronics,Smartphone,37400,2,0.15,2843.09,UPI,Standard
+207,ORD-00207,12-09-2024 00:00,CUST-1204,Ishaan Singh,Mumbai,Maharashtra,West,Technology,Electronics,Monitor,56250,6,0.25,1805.6,Net Banking,Same Day
+208,ORD-00208,23-08-2024 00:00,CUST-1292,Diya Mishra,Hyderabad,Telangana,South,Furniture,Home & Office,Bookshelf,9360,2,0.1,1188.44,Net Banking,Express
+209,ORD-00209,02-12-2025 00:00,CUST-1192,Diya Nair,Mumbai,Maharashtra,West,Furniture,Home & Office,Bookshelf,9360,2,0.1,875.06,Debit Card,Standard
+210,ORD-00210,05-11-2024 00:00,CUST-1067,Aditya Mehta,Mumbai,Maharashtra,West,Technology,Electronics,Keyboard,5040,4,0.1,489.17,Credit Card,Standard
+211,ORD-00211,13-12-2025 00:00,CUST-1230,Rohan Singh,Mumbai,Maharashtra,West,Technology,Electronics,Smartphone,22000,1,0,3781.32,UPI,Express
+212,ORD-00212,15-03-2024 00:00,CUST-1156,Riya Verma,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Printer Paper,960,2,0,264.58,UPI,Standard
+213,ORD-00213,09-03-2025 00:00,CUST-1053,Vihaan Singh,Bhubaneswar,Odisha,East,Furniture,Home & Office,Bookshelf,4420,1,0.15,161.75,Cash,Standard
+214,ORD-00214,12-02-2025 00:00,CUST-1126,Aadhya Rao,Mumbai,Maharashtra,West,Furniture,Home & Office,Sofa,24000,1,0,3973.26,UPI,Standard
+215,ORD-00215,31-01-2025 00:00,CUST-1272,Neha Gupta,Jaipur,Rajasthan,North,Office Supplies,Stationery,Desk Organizer,2890,4,0.15,513.3,Credit Card,Standard
+216,ORD-00216,10-05-2024 00:00,CUST-1160,Kavya Verma,Bengaluru,Karnataka,South,Technology,Electronics,Keyboard,2800,2,0,540.7,UPI,Same Day
+217,ORD-00217,23-01-2025 00:00,CUST-1334,Vihaan Verma,Bengaluru,Karnataka,South,Home Appliances,Appliances,Air Fryer,5270,1,0.15,159.44,Cash,Standard
+218,ORD-00218,30-07-2025 00:00,CUST-1215,Priya Patel,Bengaluru,Karnataka,South,Home Appliances,Appliances,Mixer Grinder,8640,3,0.1,1154.6,Debit Card,Standard
+219,ORD-00219,28-05-2025 00:00,CUST-1166,Aditya Mehta,Lucknow,Uttar Pradesh,North,Home Appliances,Appliances,Air Fryer,11780,2,0.05,1171.19,UPI,Standard
+220,ORD-00220,02-10-2024 00:00,CUST-1330,Meera Nair,Hyderabad,Telangana,South,Furniture,Home & Office,Bookshelf,14820,3,0.05,2432.05,Net Banking,Standard
+221,ORD-00221,06-03-2025 00:00,CUST-1091,Aadhya Reddy,Jaipur,Rajasthan,North,Home Appliances,Appliances,Mixer Grinder,7200,3,0.25,-68.34,Debit Card,Standard
+222,ORD-00222,14-08-2024 00:00,CUST-1264,Ira Das,Bengaluru,Karnataka,South,Furniture,Home & Office,Sofa,22800,1,0.05,1770.44,Net Banking,Standard
+223,ORD-00223,07-08-2025 00:00,CUST-1041,Sai Patel,Patna,Bihar,East,Office Supplies,Stationery,Notebook Pack,1260,4,0.1,253.55,Debit Card,Standard
+224,ORD-00224,30-01-2025 00:00,CUST-1155,Diya Sharma,Mumbai,Maharashtra,West,Technology,Electronics,Smartphone,39600,2,0.1,3181.17,Credit Card,Standard
+225,ORD-00225,27-08-2024 00:00,CUST-1005,Rahul Joshi,Jaipur,Rajasthan,North,Technology,Electronics,Keyboard,1260,1,0.1,191.85,UPI,Standard
+226,ORD-00226,29-05-2024 00:00,CUST-1181,Vivaan Mehta,Jaipur,Rajasthan,North,Technology,Electronics,Monitor,22500,2,0.1,2114.86,Cash,Standard
+227,ORD-00227,16-12-2025 00:00,CUST-1100,Sneha Mishra,Jaipur,Rajasthan,North,Office Supplies,Stationery,Stapler,748,4,0.15,111.25,UPI,Standard
+228,ORD-00228,01-12-2025 00:00,CUST-1118,Aditya Joshi,Delhi,Delhi,North,Technology,Electronics,Monitor,75000,6,0,12917,UPI,Standard
+229,ORD-00229,20-04-2024 00:00,CUST-1046,Rahul Das,Patna,Bihar,East,Furniture,Home & Office,Office Chair,6240,1,0.2,187.09,UPI,Standard
+230,ORD-00230,07-01-2024 00:00,CUST-1340,Vihaan Gupta,Patna,Bihar,East,Furniture,Home & Office,Sofa,21600,1,0.1,532.72,UPI,Express
+231,ORD-00231,21-09-2025 00:00,CUST-1342,Diya Nair,Pune,Maharashtra,West,Furniture,Home & Office,Sofa,22800,1,0.05,1916.96,UPI,Express
+232,ORD-00232,03-12-2024 00:00,CUST-1093,Aadhya Gupta,Hyderabad,Telangana,South,Office Supplies,Stationery,Printer Paper,912,2,0.05,238.86,UPI,Express
+233,ORD-00233,10-02-2024 00:00,CUST-1316,Kavya Reddy,Delhi,Delhi,North,Technology,Electronics,Laptop,104000,2,0,15535.77,UPI,Express
+234,ORD-00234,08-09-2024 00:00,CUST-1328,Meera Mishra,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Stapler,561,3,0.15,75.55,UPI,Standard
+235,ORD-00235,22-03-2024 00:00,CUST-1063,Riya Kumar,Delhi,Delhi,North,Furniture,Home & Office,Sofa,72000,3,0,10315.25,UPI,Standard
+236,ORD-00236,08-07-2025 00:00,CUST-1012,Diya Nair,Hyderabad,Telangana,South,Technology,Electronics,Headphones,2660,1,0.05,540.35,UPI,Standard
+237,ORD-00237,26-08-2024 00:00,CUST-1071,Aarav Das,Chennai,Tamil Nadu,South,Technology,Electronics,Smartphone,49500,3,0.25,-28.37,Credit Card,Standard
+238,ORD-00238,25-01-2024 00:00,CUST-1296,Ira Joshi,Kolkata,West Bengal,East,Office Supplies,Stationery,Desk Organizer,3060,4,0.1,582.52,UPI,Same Day
+239,ORD-00239,25-12-2024 00:00,CUST-1270,Meera Mehta,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Electric Kettle,1275,1,0.15,154.65,Debit Card,Standard
+240,ORD-00240,14-01-2025 00:00,CUST-1097,Aadhya Kumar,Bhubaneswar,Odisha,East,Technology,Electronics,Monitor,25000,2,0,5569.52,Credit Card,Standard
+241,ORD-00241,05-02-2024 00:00,CUST-1313,Vivaan Nair,Bhubaneswar,Odisha,East,Technology,Electronics,Headphones,5320,2,0.05,1091.16,UPI,Standard
+242,ORD-00242,06-02-2024 00:00,CUST-1199,Meera Mishra,Chennai,Tamil Nadu,South,Furniture,Home & Office,Bookshelf,8840,2,0.15,481.34,Debit Card,Same Day
+243,ORD-00243,26-02-2025 00:00,CUST-1185,Ishaan Kumar,Bhubaneswar,Odisha,East,Technology,Electronics,Headphones,2380,1,0.15,389.08,Cash,Standard
+244,ORD-00244,14-09-2024 00:00,CUST-1021,Priya Das,Delhi,Delhi,North,Office Supplies,Stationery,Printer Paper,1224,3,0.15,162.66,UPI,Express
+245,ORD-00245,03-10-2024 00:00,CUST-1314,Ishaan Mehta,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Electric Kettle,1425,1,0.05,219.11,Credit Card,Standard
+246,ORD-00246,04-06-2025 00:00,CUST-1160,Rohan Reddy,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Vacuum Cleaner,32040,4,0.1,2663.32,UPI,Same Day
+247,ORD-00247,23-04-2025 00:00,CUST-1125,Kavya Verma,Patna,Bihar,East,Technology,Electronics,Smartphone,39600,2,0.1,2280.36,UPI,Express
+248,ORD-00248,23-03-2025 00:00,CUST-1229,Rahul Mishra,Bengaluru,Karnataka,South,Technology,Electronics,Laptop,88400,2,0.15,2248.71,Debit Card,Express
+249,ORD-00249,22-12-2024 00:00,CUST-1129,Aadhya Nair,Chennai,Tamil Nadu,South,Furniture,Home & Office,Sofa,45600,2,0.05,3224.98,UPI,Standard
+250,ORD-00250,17-05-2024 00:00,CUST-1220,Sneha Mehta,Hyderabad,Telangana,South,Technology,Electronics,Smartphone,41800,2,0.05,4619.39,UPI,Standard
+251,ORD-00251,12-07-2024 00:00,CUST-1319,Sneha Rao,Patna,Bihar,East,Furniture,Home & Office,Office Chair,31200,4,0,4965.32,Cash,Standard
+252,ORD-00252,14-01-2024 00:00,CUST-1045,Kiran Verma,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Notebook Pack,945,3,0.1,181.22,Debit Card,Standard
+253,ORD-00253,21-11-2024 00:00,CUST-1305,Vihaan Verma,Kolkata,West Bengal,East,Home Appliances,Appliances,Air Fryer,5580,1,0.1,516.05,Debit Card,Standard
+254,ORD-00254,15-01-2024 00:00,CUST-1247,Ira Mehta,Hyderabad,Telangana,South,Furniture,Home & Office,Bookshelf,5200,1,0,826.92,UPI,Standard
+255,ORD-00255,21-05-2024 00:00,CUST-1214,Vivaan Mehta,Patna,Bihar,East,Office Supplies,Stationery,Pen Set,342,2,0.05,84.08,UPI,Standard
+256,ORD-00256,28-11-2025 00:00,CUST-1265,Vivaan Iyer,Lucknow,Uttar Pradesh,North,Home Appliances,Appliances,Electric Kettle,2700,2,0.1,442.38,Credit Card,Standard
+257,ORD-00257,01-08-2024 00:00,CUST-1349,Rahul Iyer,Jaipur,Rajasthan,North,Home Appliances,Appliances,Air Fryer,5580,1,0.1,408.04,UPI,Standard
+258,ORD-00258,14-03-2024 00:00,CUST-1322,Ira Reddy,Kolkata,West Bengal,East,Furniture,Home & Office,Bookshelf,5200,1,0,914.07,UPI,Same Day
+259,ORD-00259,29-08-2024 00:00,CUST-1201,Ishaan Joshi,Hyderabad,Telangana,South,Technology,Electronics,Laptop,93600,2,0.1,10140.05,UPI,Standard
+260,ORD-00260,10-03-2024 00:00,CUST-1130,Meera Sharma,Lucknow,Uttar Pradesh,North,Home Appliances,Appliances,Vacuum Cleaner,17800,2,0,2690.76,Debit Card,Standard
+261,ORD-00261,06-01-2024 00:00,CUST-1302,Neha Sharma,Lucknow,Uttar Pradesh,North,Technology,Electronics,Headphones,11200,4,0,2602.29,Net Banking,Standard
+262,ORD-00262,09-12-2024 00:00,CUST-1279,Diya Patel,Delhi,Delhi,North,Furniture,Home & Office,Study Table,11700,2,0.1,1758.23,Net Banking,Standard
+263,ORD-00263,31-07-2024 00:00,CUST-1233,Vivaan Nair,Ahmedabad,Gujarat,West,Home Appliances,Appliances,Mixer Grinder,9120,3,0.05,1405.62,Credit Card,Standard
+264,ORD-00264,08-11-2024 00:00,CUST-1088,Arjun Singh,Mumbai,Maharashtra,West,Technology,Electronics,Monitor,25000,2,0,3612.83,UPI,Express
+265,ORD-00265,07-12-2025 00:00,CUST-1053,Vihaan Mishra,Bhubaneswar,Odisha,East,Technology,Electronics,Keyboard,1400,1,0,310.96,UPI,Express
+266,ORD-00266,18-03-2024 00:00,CUST-1265,Vihaan Mishra,Bengaluru,Karnataka,South,Office Supplies,Stationery,Printer Paper,960,2,0,259.48,UPI,Standard
+267,ORD-00267,02-01-2025 00:00,CUST-1209,Ananya Joshi,Chennai,Tamil Nadu,South,Furniture,Home & Office,Bookshelf,17680,4,0.15,1006.68,UPI,Standard
+268,ORD-00268,28-06-2025 00:00,CUST-1327,Vihaan Das,Mumbai,Maharashtra,West,Furniture,Home & Office,Bookshelf,11700,3,0.25,-337.04,Credit Card,Standard
+269,ORD-00269,11-10-2024 00:00,CUST-1024,Rahul Mehta,Hyderabad,Telangana,South,Furniture,Home & Office,Office Chair,39000,5,0,6397.52,UPI,Same Day
+270,ORD-00270,08-11-2025 00:00,CUST-1243,Neha Mehta,Lucknow,Uttar Pradesh,North,Technology,Electronics,Laptop,132600,3,0.15,8639.87,Credit Card,Standard
+271,ORD-00271,03-11-2025 00:00,CUST-1206,Ananya Mishra,Lucknow,Uttar Pradesh,North,Home Appliances,Appliances,Mixer Grinder,8640,3,0.1,923.4,UPI,Standard
+272,ORD-00272,19-05-2025 00:00,CUST-1201,Rahul Singh,Delhi,Delhi,North,Furniture,Home & Office,Sofa,21600,1,0.1,904.93,Debit Card,Express
+273,ORD-00273,18-05-2024 00:00,CUST-1219,Aditya Kumar,Jaipur,Rajasthan,North,Office Supplies,Stationery,Desk Organizer,1530,2,0.1,224.62,Credit Card,Express
+274,ORD-00274,09-02-2025 00:00,CUST-1208,Ananya Singh,Lucknow,Uttar Pradesh,North,Technology,Electronics,Smartphone,18700,1,0.15,1491.31,Credit Card,Standard
+275,ORD-00275,14-06-2025 00:00,CUST-1254,Rahul Patel,Ahmedabad,Gujarat,West,Home Appliances,Appliances,Mixer Grinder,6080,2,0.05,809.29,UPI,Standard
+276,ORD-00276,01-11-2025 00:00,CUST-1083,Neha Nair,Patna,Bihar,East,Furniture,Home & Office,Sofa,22800,1,0.05,1562.76,Debit Card,Express
+277,ORD-00277,22-02-2025 00:00,CUST-1336,Rohan Verma,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Stapler,440,2,0,117.37,Credit Card,Standard
+278,ORD-00278,13-04-2025 00:00,CUST-1175,Aadhya Joshi,Hyderabad,Telangana,South,Office Supplies,Stationery,Desk Organizer,722.5,1,0.15,123.71,UPI,Standard
+279,ORD-00279,13-03-2025 00:00,CUST-1187,Neha Reddy,Patna,Bihar,East,Home Appliances,Appliances,Mixer Grinder,8640,3,0.1,802.53,UPI,Standard
+280,ORD-00280,19-08-2024 00:00,CUST-1080,Ananya Das,Bhubaneswar,Odisha,East,Technology,Electronics,Laptop,98800,2,0.05,13139.15,UPI,Express
+281,ORD-00281,01-08-2024 00:00,CUST-1320,Priya Singh,Bhubaneswar,Odisha,East,Technology,Electronics,Headphones,11900,5,0.15,1581.65,Debit Card,Express
+282,ORD-00282,19-01-2025 00:00,CUST-1205,Kiran Das,Bengaluru,Karnataka,South,Home Appliances,Appliances,Vacuum Cleaner,33820,4,0.05,3432.48,Credit Card,Standard
+283,ORD-00283,14-01-2025 00:00,CUST-1185,Riya Iyer,Pune,Maharashtra,West,Technology,Electronics,Laptop,78000,2,0.25,-1368.45,UPI,Standard
+284,ORD-00284,25-06-2024 00:00,CUST-1333,Arjun Kumar,Ahmedabad,Gujarat,West,Office Supplies,Stationery,Desk Organizer,722.5,1,0.15,119.81,Credit Card,Standard
+285,ORD-00285,18-08-2025 00:00,CUST-1262,Aadhya Sharma,Jaipur,Rajasthan,North,Office Supplies,Stationery,Notebook Pack,630,2,0.1,126.2,UPI,Express
+286,ORD-00286,28-02-2024 00:00,CUST-1196,Vihaan Singh,Patna,Bihar,East,Technology,Electronics,Monitor,31875,3,0.15,3374.96,Debit Card,Express
+287,ORD-00287,09-11-2025 00:00,CUST-1010,Ananya Sharma,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Electric Kettle,6000,4,0,1362.36,Credit Card,Standard
+288,ORD-00288,29-05-2024 00:00,CUST-1141,Neha Reddy,Chennai,Tamil Nadu,South,Furniture,Home & Office,Office Chair,18720,3,0.2,404.83,UPI,Same Day
+289,ORD-00289,28-12-2024 00:00,CUST-1330,Priya Gupta,Chennai,Tamil Nadu,South,Furniture,Home & Office,Sofa,108000,5,0.1,5398.54,Debit Card,Standard
+290,ORD-00290,15-03-2024 00:00,CUST-1082,Rohan Joshi,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Stapler,627,3,0.05,145.02,Credit Card,Express
+291,ORD-00291,03-03-2024 00:00,CUST-1070,Ananya Verma,Mumbai,Maharashtra,West,Furniture,Home & Office,Study Table,22100,4,0.15,2010.52,Cash,Standard
+292,ORD-00292,02-03-2025 00:00,CUST-1148,Meera Kumar,Patna,Bihar,East,Office Supplies,Stationery,Notebook Pack,665,2,0.05,170.06,UPI,Standard
+293,ORD-00293,31-08-2025 00:00,CUST-1183,Arjun Joshi,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Desk Organizer,1530,2,0.1,336.08,UPI,Express
+294,ORD-00294,26-08-2025 00:00,CUST-1303,Rohan Joshi,Kolkata,West Bengal,East,Office Supplies,Stationery,Printer Paper,384,1,0.2,54.81,Debit Card,Express
+295,ORD-00295,18-02-2024 00:00,CUST-1285,Arjun Nair,Patna,Bihar,East,Furniture,Home & Office,Office Chair,21060,3,0.1,2715.63,Credit Card,Standard
+296,ORD-00296,10-07-2025 00:00,CUST-1139,Kavya Joshi,Hyderabad,Telangana,South,Home Appliances,Appliances,Air Fryer,11780,2,0.05,1078.61,Net Banking,Standard
+297,ORD-00297,23-06-2025 00:00,CUST-1215,Ishaan Singh,Delhi,Delhi,North,Furniture,Home & Office,Study Table,11700,2,0.1,837.48,Credit Card,Standard
+298,ORD-00298,26-07-2025 00:00,CUST-1120,Vivaan Singh,Kolkata,West Bengal,East,Office Supplies,Stationery,Notebook Pack,1120,4,0.2,158.24,UPI,Express
+299,ORD-00299,19-09-2024 00:00,CUST-1090,Vivaan Verma,Hyderabad,Telangana,South,Office Supplies,Stationery,Notebook Pack,560,2,0.2,75.38,Cash,Express
+300,ORD-00300,10-05-2024 00:00,CUST-1012,Meera Das,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Pen Set,288,2,0.2,39.08,Credit Card,Express
+301,ORD-00301,12-02-2025 00:00,CUST-1313,Kiran Mishra,Lucknow,Uttar Pradesh,North,Furniture,Home & Office,Bookshelf,5200,1,0,869.86,UPI,Standard
+302,ORD-00302,26-08-2025 00:00,CUST-1080,Diya Das,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Vacuum Cleaner,13350,2,0.25,-444.5,Credit Card,Express
+303,ORD-00303,02-07-2024 00:00,CUST-1059,Vihaan Nair,Pune,Maharashtra,West,Furniture,Home & Office,Study Table,16575,3,0.15,1408.38,Net Banking,Standard
+304,ORD-00304,31-05-2025 00:00,CUST-1117,Vivaan Das,Mumbai,Maharashtra,West,Furniture,Home & Office,Office Chair,7020,1,0.1,645.91,Debit Card,Standard
+305,ORD-00305,23-12-2025 00:00,CUST-1062,Vihaan Patel,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Air Fryer,17670,3,0.05,1709.52,UPI,Standard
+306,ORD-00306,23-12-2025 00:00,CUST-1254,Diya Joshi,Bengaluru,Karnataka,South,Technology,Electronics,Laptop,208000,4,0,37110.74,Net Banking,Express
+307,ORD-00307,18-01-2025 00:00,CUST-1229,Aarav Reddy,Lucknow,Uttar Pradesh,North,Furniture,Home & Office,Study Table,32500,5,0,5271.46,Cash,Standard
+308,ORD-00308,05-03-2024 00:00,CUST-1347,Vihaan Sharma,Lucknow,Uttar Pradesh,North,Home Appliances,Appliances,Vacuum Cleaner,7565,1,0.15,232.5,Debit Card,Standard
+309,ORD-00309,23-04-2025 00:00,CUST-1091,Vivaan Singh,Jaipur,Rajasthan,North,Furniture,Home & Office,Office Chair,7800,1,0,1114.22,UPI,Standard
+310,ORD-00310,10-07-2025 00:00,CUST-1189,Ira Reddy,Lucknow,Uttar Pradesh,North,Office Supplies,Stationery,Desk Organizer,3825,5,0.1,895.17,Debit Card,Same Day
+311,ORD-00311,12-08-2025 00:00,CUST-1220,Ishaan Mishra,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Pen Set,306,2,0.15,56.4,Credit Card,Standard
+312,ORD-00312,25-11-2024 00:00,CUST-1086,Rohan Patel,Jaipur,Rajasthan,North,Technology,Electronics,Smartphone,37400,2,0.15,2922.86,UPI,Express
+313,ORD-00313,31-05-2024 00:00,CUST-1010,Sai Gupta,Lucknow,Uttar Pradesh,North,Technology,Electronics,Keyboard,2660,2,0.05,561.19,Cash,Standard
+314,ORD-00314,07-05-2025 00:00,CUST-1335,Arjun Kumar,Lucknow,Uttar Pradesh,North,Technology,Electronics,Headphones,14280,6,0.15,2202.38,Net Banking,Express
+315,ORD-00315,04-04-2024 00:00,CUST-1162,Sneha Rao,Hyderabad,Telangana,South,Furniture,Home & Office,Bookshelf,17680,4,0.15,811.37,UPI,Standard
+316,ORD-00316,22-03-2025 00:00,CUST-1152,Ananya Singh,Bengaluru,Karnataka,South,Office Supplies,Stationery,Printer Paper,912,2,0.05,180.1,UPI,Standard
+317,ORD-00317,25-02-2024 00:00,CUST-1134,Priya Mehta,Kolkata,West Bengal,East,Furniture,Home & Office,Bookshelf,8840,2,0.15,786.67,Cash,Express
+318,ORD-00318,29-11-2025 00:00,CUST-1161,Priya Reddy,Ahmedabad,Gujarat,West,Office Supplies,Stationery,Notebook Pack,630,2,0.1,140.07,Credit Card,Standard
+319,ORD-00319,07-09-2025 00:00,CUST-1326,Aarav Sharma,Pune,Maharashtra,West,Furniture,Home & Office,Study Table,5850,1,0.1,410.15,UPI,Standard
+320,ORD-00320,04-10-2025 00:00,CUST-1141,Vihaan Reddy,Hyderabad,Telangana,South,Technology,Electronics,Laptop,104000,2,0,17328.34,Credit Card,Standard
+321,ORD-00321,08-12-2024 00:00,CUST-1009,Vihaan Patel,Delhi,Delhi,North,Technology,Electronics,Keyboard,7000,5,0,1541.61,Cash,Standard
+322,ORD-00322,16-04-2025 00:00,CUST-1031,Kavya Nair,Jaipur,Rajasthan,North,Home Appliances,Appliances,Air Fryer,35340,6,0.05,3149.07,Credit Card,Same Day
+323,ORD-00323,12-08-2024 00:00,CUST-1133,Diya Verma,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Electric Kettle,3375,3,0.25,150.22,Credit Card,Express
+324,ORD-00324,28-09-2025 00:00,CUST-1236,Sai Joshi,Chennai,Tamil Nadu,South,Furniture,Home & Office,Office Chair,15600,2,0,3210.06,UPI,Express
+325,ORD-00325,22-07-2025 00:00,CUST-1057,Sai Rao,Patna,Bihar,East,Technology,Electronics,Headphones,8400,3,0,1707.59,Credit Card,Standard
+326,ORD-00326,06-09-2024 00:00,CUST-1073,Rahul Gupta,Lucknow,Uttar Pradesh,North,Office Supplies,Stationery,Pen Set,288,2,0.2,50.65,UPI,Standard
+327,ORD-00327,29-10-2025 00:00,CUST-1346,Meera Kumar,Hyderabad,Telangana,South,Technology,Electronics,Laptop,44200,1,0.15,2263.83,Credit Card,Standard
+328,ORD-00328,28-01-2025 00:00,CUST-1307,Aadhya Verma,Kolkata,West Bengal,East,Home Appliances,Appliances,Air Fryer,5270,1,0.15,240,Credit Card,Standard
+329,ORD-00329,17-05-2025 00:00,CUST-1087,Rohan Reddy,Chennai,Tamil Nadu,South,Technology,Electronics,Smartphone,93500,5,0.15,3314,Credit Card,Standard
+330,ORD-00330,07-11-2025 00:00,CUST-1100,Vihaan Rao,Delhi,Delhi,North,Furniture,Home & Office,Sofa,45600,2,0.05,3674.11,UPI,Same Day
+331,ORD-00331,13-11-2025 00:00,CUST-1229,Vihaan Singh,Delhi,Delhi,North,Office Supplies,Stationery,Notebook Pack,892.5,3,0.15,153.49,UPI,Standard
+332,ORD-00332,08-06-2025 00:00,CUST-1085,Arjun Singh,Jaipur,Rajasthan,North,Technology,Electronics,Monitor,11250,1,0.1,1503.08,Debit Card,Express
+333,ORD-00333,12-04-2024 00:00,CUST-1198,Neha Mishra,Mumbai,Maharashtra,West,Furniture,Home & Office,Sofa,40800,2,0.15,136.56,UPI,Express
+334,ORD-00334,12-04-2025 00:00,CUST-1261,Priya Reddy,Jaipur,Rajasthan,North,Technology,Electronics,Smartphone,18700,1,0.15,621.44,UPI,Express
+335,ORD-00335,07-07-2024 00:00,CUST-1267,Rahul Mishra,Mumbai,Maharashtra,West,Home Appliances,Appliances,Electric Kettle,4275,3,0.05,821.44,UPI,Standard
+336,ORD-00336,14-11-2024 00:00,CUST-1260,Diya Reddy,Hyderabad,Telangana,South,Furniture,Home & Office,Study Table,11700,2,0.1,1535.98,UPI,Express
+337,ORD-00337,04-01-2024 00:00,CUST-1277,Aditya Mishra,Jaipur,Rajasthan,North,Furniture,Home & Office,Study Table,6175,1,0.05,703.96,Debit Card,Standard
+338,ORD-00338,27-10-2025 00:00,CUST-1223,Diya Gupta,Bengaluru,Karnataka,South,Technology,Electronics,Keyboard,2240,2,0.2,176.91,Debit Card,Same Day
+339,ORD-00339,08-05-2024 00:00,CUST-1322,Kiran Rao,Ahmedabad,Gujarat,West,Office Supplies,Stationery,Desk Organizer,680,1,0.2,105.15,Debit Card,Standard
+340,ORD-00340,23-09-2025 00:00,CUST-1054,Kiran Gupta,Ahmedabad,Gujarat,West,Office Supplies,Stationery,Notebook Pack,332.5,1,0.05,94.97,UPI,Express
+341,ORD-00341,21-08-2024 00:00,CUST-1144,Ishaan Sharma,Pune,Maharashtra,West,Furniture,Home & Office,Sofa,20400,1,0.15,866.72,Cash,Express
+342,ORD-00342,28-01-2025 00:00,CUST-1318,Rahul Kumar,Lucknow,Uttar Pradesh,North,Home Appliances,Appliances,Mixer Grinder,5760,2,0.1,774.77,UPI,Standard
+343,ORD-00343,01-07-2024 00:00,CUST-1267,Ira Das,Jaipur,Rajasthan,North,Office Supplies,Stationery,Stapler,418,2,0.05,91.22,Net Banking,Express
+344,ORD-00344,03-05-2024 00:00,CUST-1338,Ishaan Nair,Bhubaneswar,Odisha,East,Home Appliances,Appliances,Electric Kettle,3000,2,0,572.84,UPI,Standard
+345,ORD-00345,16-11-2025 00:00,CUST-1336,Kavya Iyer,Patna,Bihar,East,Technology,Electronics,Laptop,132600,3,0.15,11442.91,Debit Card,Standard
+346,ORD-00346,18-01-2024 00:00,CUST-1090,Aadhya Singh,Patna,Bihar,East,Technology,Electronics,Monitor,31875,3,0.15,3936.33,UPI,Express
+347,ORD-00347,15-08-2025 00:00,CUST-1057,Vivaan Patel,Mumbai,Maharashtra,West,Technology,Electronics,Monitor,23750,2,0.05,4740.24,UPI,Standard
+348,ORD-00348,03-07-2024 00:00,CUST-1331,Meera Sharma,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Desk Organizer,1360,2,0.2,134.92,Debit Card,Express
+349,ORD-00349,20-02-2025 00:00,CUST-1272,Aadhya Mishra,Bhubaneswar,Odisha,East,Technology,Electronics,Laptop,98800,2,0.05,15302.28,UPI,Express
+350,ORD-00350,23-10-2024 00:00,CUST-1250,Vihaan Singh,Jaipur,Rajasthan,North,Office Supplies,Stationery,Notebook Pack,1330,4,0.05,324.22,UPI,Standard
+351,ORD-00351,16-10-2024 00:00,CUST-1025,Rahul Mishra,Hyderabad,Telangana,South,Furniture,Home & Office,Office Chair,6240,1,0.2,277.57,Cash,Standard
+352,ORD-00352,09-02-2024 00:00,CUST-1242,Kiran Singh,Lucknow,Uttar Pradesh,North,Office Supplies,Stationery,Notebook Pack,332.5,1,0.05,99.39,Cash,Express
+353,ORD-00353,06-05-2024 00:00,CUST-1238,Meera Sharma,Lucknow,Uttar Pradesh,North,Home Appliances,Appliances,Electric Kettle,1200,1,0.2,110.78,Credit Card,Same Day
+354,ORD-00354,08-07-2025 00:00,CUST-1061,Aditya Verma,Mumbai,Maharashtra,West,Furniture,Home & Office,Sofa,24000,1,0,4089.59,UPI,Standard
+355,ORD-00355,31-07-2024 00:00,CUST-1194,Sai Das,Hyderabad,Telangana,South,Technology,Electronics,Smartphone,56100,3,0.15,3177.38,UPI,Standard
+356,ORD-00356,19-02-2025 00:00,CUST-1323,Kiran Nair,Patna,Bihar,East,Office Supplies,Stationery,Printer Paper,2040,5,0.15,323.77,UPI,Standard
+357,ORD-00357,03-06-2024 00:00,CUST-1124,Meera Patel,Chennai,Tamil Nadu,South,Technology,Electronics,Monitor,31875,3,0.15,4504.09,Debit Card,Standard
+358,ORD-00358,21-03-2025 00:00,CUST-1116,Sai Rao,Bengaluru,Karnataka,South,Technology,Electronics,Laptop,44200,1,0.15,3056.52,UPI,Express
+359,ORD-00359,17-12-2025 00:00,CUST-1227,Aditya Das,Lucknow,Uttar Pradesh,North,Technology,Electronics,Smartphone,39600,2,0.1,6129.85,UPI,Standard
+360,ORD-00360,12-01-2024 00:00,CUST-1100,Rohan Das,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Mixer Grinder,6080,2,0.05,927.27,Net Banking,Standard
+361,ORD-00361,06-04-2024 00:00,CUST-1121,Aditya Mishra,Chennai,Tamil Nadu,South,Furniture,Home & Office,Study Table,20800,4,0.2,1360.74,Credit Card,Standard
+362,ORD-00362,23-11-2025 00:00,CUST-1282,Vihaan Sharma,Ahmedabad,Gujarat,West,Technology,Electronics,Smartphone,20900,1,0.05,2886.77,UPI,Express
+363,ORD-00363,05-08-2024 00:00,CUST-1119,Ishaan Mishra,Bengaluru,Karnataka,South,Furniture,Home & Office,Sofa,22800,1,0.05,2192.36,UPI,Same Day
+364,ORD-00364,16-08-2024 00:00,CUST-1249,Diya Das,Jaipur,Rajasthan,North,Office Supplies,Stationery,Desk Organizer,2167.5,3,0.15,392.51,UPI,Standard
+365,ORD-00365,08-04-2025 00:00,CUST-1097,Aarav Singh,Jaipur,Rajasthan,North,Technology,Electronics,Laptop,49400,1,0.05,7164.49,Credit Card,Standard
+366,ORD-00366,06-04-2024 00:00,CUST-1253,Aarav Mishra,Ahmedabad,Gujarat,West,Furniture,Home & Office,Bookshelf,9360,2,0.1,1058.11,Debit Card,Standard
+367,ORD-00367,21-09-2025 00:00,CUST-1330,Rohan Sharma,Ahmedabad,Gujarat,West,Technology,Electronics,Laptop,98800,2,0.05,15747.7,UPI,Standard
+368,ORD-00368,22-08-2024 00:00,CUST-1328,Aadhya Sharma,Bengaluru,Karnataka,South,Home Appliances,Appliances,Vacuum Cleaner,16020,2,0.1,1386.24,Debit Card,Standard
+369,ORD-00369,11-03-2024 00:00,CUST-1005,Kavya Singh,Chennai,Tamil Nadu,South,Technology,Electronics,Smartphone,37400,2,0.15,1155.84,Net Banking,Standard
+370,ORD-00370,08-03-2024 00:00,CUST-1079,Vivaan Kumar,Bhubaneswar,Odisha,East,Furniture,Home & Office,Bookshelf,24700,5,0.05,3273.99,UPI,Standard
+371,ORD-00371,31-08-2024 00:00,CUST-1103,Ananya Patel,Delhi,Delhi,North,Home Appliances,Appliances,Vacuum Cleaner,16910,2,0.05,1551.3,UPI,Standard
+372,ORD-00372,25-11-2024 00:00,CUST-1207,Priya Reddy,Lucknow,Uttar Pradesh,North,Office Supplies,Stationery,Notebook Pack,945,3,0.1,187.65,UPI,Standard
+373,ORD-00373,26-05-2024 00:00,CUST-1197,Neha Iyer,Ahmedabad,Gujarat,West,Furniture,Home & Office,Bookshelf,8840,2,0.15,336.55,UPI,Standard
+374,ORD-00374,22-09-2025 00:00,CUST-1116,Ananya Gupta,Jaipur,Rajasthan,North,Technology,Electronics,Monitor,31875,3,0.15,3153.51,Net Banking,Standard
+375,ORD-00375,25-09-2025 00:00,CUST-1178,Priya Gupta,Bhubaneswar,Odisha,East,Technology,Electronics,Smartphone,44000,2,0,7645.28,Cash,Standard
+376,ORD-00376,11-04-2024 00:00,CUST-1195,Rohan Mishra,Bhubaneswar,Odisha,East,Home Appliances,Appliances,Air Fryer,5270,1,0.15,162.86,Credit Card,Standard
+377,ORD-00377,03-10-2025 00:00,CUST-1341,Neha Reddy,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Printer Paper,408,1,0.15,69.52,UPI,Express
+378,ORD-00378,15-12-2024 00:00,CUST-1293,Kiran Joshi,Jaipur,Rajasthan,North,Technology,Electronics,Keyboard,2240,2,0.2,173.83,Credit Card,Standard
+379,ORD-00379,01-10-2025 00:00,CUST-1231,Aadhya Iyer,Delhi,Delhi,North,Technology,Electronics,Monitor,11250,1,0.1,1370.58,UPI,Express
+380,ORD-00380,16-02-2024 00:00,CUST-1298,Aditya Nair,Kolkata,West Bengal,East,Technology,Electronics,Laptop,197600,4,0.05,27306.51,UPI,Standard
+381,ORD-00381,09-05-2025 00:00,CUST-1324,Rohan Mishra,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Air Fryer,22320,4,0.1,1548.36,UPI,Standard
+382,ORD-00382,20-04-2024 00:00,CUST-1113,Rahul Patel,Delhi,Delhi,North,Furniture,Home & Office,Study Table,5850,1,0.1,721.82,UPI,Standard
+383,ORD-00383,15-03-2024 00:00,CUST-1238,Aarav Rao,Bhubaneswar,Odisha,East,Furniture,Home & Office,Office Chair,22230,3,0.05,2125.04,Credit Card,Standard
+384,ORD-00384,22-01-2024 00:00,CUST-1274,Vivaan Joshi,Bengaluru,Karnataka,South,Home Appliances,Appliances,Air Fryer,24800,5,0.2,288.83,Credit Card,Express
+385,ORD-00385,11-09-2024 00:00,CUST-1263,Aadhya Iyer,Bengaluru,Karnataka,South,Technology,Electronics,Monitor,45000,4,0.1,5185.31,Cash,Standard
+386,ORD-00386,02-01-2025 00:00,CUST-1144,Diya Verma,Ahmedabad,Gujarat,West,Furniture,Home & Office,Study Table,11700,2,0.1,837.06,Cash,Standard
+387,ORD-00387,26-07-2024 00:00,CUST-1294,Rahul Patel,Ahmedabad,Gujarat,West,Office Supplies,Stationery,Notebook Pack,595,2,0.15,127.2,Credit Card,Standard
+388,ORD-00388,25-12-2025 00:00,CUST-1214,Ira Mehta,Bengaluru,Karnataka,South,Home Appliances,Appliances,Air Fryer,5270,1,0.15,75.65,Credit Card,Express
+389,ORD-00389,19-10-2025 00:00,CUST-1001,Ira Gupta,Pune,Maharashtra,West,Office Supplies,Stationery,Printer Paper,1224,3,0.15,143.87,Net Banking,Express
+390,ORD-00390,04-12-2024 00:00,CUST-1248,Neha Mehta,Mumbai,Maharashtra,West,Home Appliances,Appliances,Air Fryer,27900,6,0.25,-1074.78,Credit Card,Standard
+391,ORD-00391,21-02-2024 00:00,CUST-1183,Rahul Das,Delhi,Delhi,North,Office Supplies,Stationery,Pen Set,720,4,0,216.84,Credit Card,Standard
+392,ORD-00392,11-11-2025 00:00,CUST-1170,Aarav Patel,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Stapler,220,1,0,43.59,Debit Card,Express
+393,ORD-00393,19-03-2025 00:00,CUST-1055,Priya Verma,Hyderabad,Telangana,South,Office Supplies,Stationery,Stapler,352,2,0.2,52.07,UPI,Standard
+394,ORD-00394,21-04-2025 00:00,CUST-1350,Riya Das,Ahmedabad,Gujarat,West,Furniture,Home & Office,Sofa,19200,1,0.2,413.32,UPI,Standard
+395,ORD-00395,23-07-2024 00:00,CUST-1175,Priya Rao,Mumbai,Maharashtra,West,Office Supplies,Stationery,Stapler,990,5,0.1,190.51,Credit Card,Same Day
+396,ORD-00396,10-10-2025 00:00,CUST-1285,Arjun Iyer,Hyderabad,Telangana,South,Home Appliances,Appliances,Electric Kettle,5400,4,0.1,844.14,Debit Card,Standard
+397,ORD-00397,19-06-2024 00:00,CUST-1113,Ira Mehta,Mumbai,Maharashtra,West,Furniture,Home & Office,Study Table,11050,2,0.15,894.55,UPI,Express
+398,ORD-00398,01-04-2025 00:00,CUST-1253,Aditya Gupta,Kolkata,West Bengal,East,Furniture,Home & Office,Bookshelf,22100,5,0.15,1238.44,Debit Card,Standard
+399,ORD-00399,21-11-2024 00:00,CUST-1283,Kavya Verma,Kolkata,West Bengal,East,Furniture,Home & Office,Office Chair,7800,1,0,1535.77,Net Banking,Same Day
+400,ORD-00400,23-06-2024 00:00,CUST-1046,Rahul Sharma,Ahmedabad,Gujarat,West,Technology,Electronics,Smartphone,41800,2,0.05,4423.1,UPI,Standard
+401,ORD-00401,23-03-2025 00:00,CUST-1230,Rohan Singh,Hyderabad,Telangana,South,Technology,Electronics,Smartphone,39600,2,0.1,3373.76,Debit Card,Standard
+402,ORD-00402,14-09-2024 00:00,CUST-1338,Aditya Joshi,Chennai,Tamil Nadu,South,Furniture,Home & Office,Study Table,18525,3,0.05,3252.57,Debit Card,Standard
+403,ORD-00403,20-07-2025 00:00,CUST-1225,Priya Singh,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Stapler,220,1,0,69.89,Credit Card,Standard
+404,ORD-00404,10-08-2024 00:00,CUST-1076,Ira Sharma,Bengaluru,Karnataka,South,Office Supplies,Stationery,Notebook Pack,1260,4,0.1,255.42,Net Banking,Standard
+405,ORD-00405,16-11-2024 00:00,CUST-1123,Rahul Iyer,Bengaluru,Karnataka,South,Office Supplies,Stationery,Printer Paper,912,2,0.05,233.39,UPI,Standard
+406,ORD-00406,29-01-2025 00:00,CUST-1030,Priya Sharma,Hyderabad,Telangana,South,Technology,Electronics,Headphones,2520,1,0.1,420.52,UPI,Same Day
+407,ORD-00407,14-12-2024 00:00,CUST-1085,Sneha Nair,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Printer Paper,912,2,0.05,196.96,Credit Card,Standard
+408,ORD-00408,09-09-2025 00:00,CUST-1122,Rohan Singh,Jaipur,Rajasthan,North,Technology,Electronics,Laptop,166400,4,0.2,11595.26,UPI,Standard
+409,ORD-00409,15-02-2024 00:00,CUST-1149,Kavya Iyer,Lucknow,Uttar Pradesh,North,Technology,Electronics,Headphones,5320,2,0.05,1214.06,Cash,Standard
+410,ORD-00410,12-09-2024 00:00,CUST-1211,Sneha Nair,Pune,Maharashtra,West,Technology,Electronics,Smartphone,19800,1,0.1,1723.14,UPI,Standard
+411,ORD-00411,18-12-2024 00:00,CUST-1310,Priya Sharma,Bengaluru,Karnataka,South,Furniture,Home & Office,Bookshelf,4680,1,0.1,551.26,UPI,Standard
+412,ORD-00412,24-06-2024 00:00,CUST-1257,Kavya Mehta,Lucknow,Uttar Pradesh,North,Furniture,Home & Office,Sofa,81600,4,0.15,5920.3,Net Banking,Express
+413,ORD-00413,05-10-2024 00:00,CUST-1328,Meera Joshi,Lucknow,Uttar Pradesh,North,Office Supplies,Stationery,Stapler,374,2,0.15,58.87,Credit Card,Express
+414,ORD-00414,22-07-2025 00:00,CUST-1088,Arjun Verma,Kolkata,West Bengal,East,Home Appliances,Appliances,Air Fryer,15810,3,0.15,408.13,Credit Card,Standard
+415,ORD-00415,21-10-2025 00:00,CUST-1090,Riya Patel,Hyderabad,Telangana,South,Home Appliances,Appliances,Mixer Grinder,8160,3,0.15,761.58,UPI,Express
+416,ORD-00416,10-08-2025 00:00,CUST-1251,Kavya Patel,Delhi,Delhi,North,Technology,Electronics,Laptop,41600,1,0.2,1916.14,UPI,Standard
+417,ORD-00417,06-07-2025 00:00,CUST-1163,Aarav Verma,Ahmedabad,Gujarat,West,Office Supplies,Stationery,Desk Organizer,1615,2,0.05,381.46,UPI,Same Day
+418,ORD-00418,14-12-2024 00:00,CUST-1088,Arjun Iyer,Mumbai,Maharashtra,West,Technology,Electronics,Smartphone,18700,1,0.15,1009.65,Debit Card,Express
+419,ORD-00419,23-04-2025 00:00,CUST-1239,Aadhya Rao,Patna,Bihar,East,Home Appliances,Appliances,Electric Kettle,5100,4,0.15,855.08,UPI,Express
+420,ORD-00420,17-03-2024 00:00,CUST-1293,Meera Verma,Patna,Bihar,East,Technology,Electronics,Keyboard,6650,5,0.05,1196.06,Cash,Standard
+421,ORD-00421,07-11-2025 00:00,CUST-1078,Aditya Das,Pune,Maharashtra,West,Office Supplies,Stationery,Notebook Pack,700,2,0,192.87,Debit Card,Express
+422,ORD-00422,24-12-2024 00:00,CUST-1096,Priya Patel,Kolkata,West Bengal,East,Furniture,Home & Office,Office Chair,7410,1,0.05,833.5,UPI,Standard
+423,ORD-00423,26-11-2024 00:00,CUST-1328,Neha Das,Jaipur,Rajasthan,North,Office Supplies,Stationery,Desk Organizer,3060,4,0.1,567.57,UPI,Standard
+424,ORD-00424,14-08-2024 00:00,CUST-1098,Diya Singh,Pune,Maharashtra,West,Furniture,Home & Office,Office Chair,18720,3,0.2,311.32,Credit Card,Standard
+425,ORD-00425,04-02-2025 00:00,CUST-1095,Riya Gupta,Lucknow,Uttar Pradesh,North,Furniture,Home & Office,Study Table,10400,2,0.2,34.22,Debit Card,Standard
+426,ORD-00426,17-02-2025 00:00,CUST-1154,Diya Kumar,Ahmedabad,Gujarat,West,Technology,Electronics,Laptop,156000,3,0,25615.92,Debit Card,Express
+427,ORD-00427,10-01-2025 00:00,CUST-1336,Priya Kumar,Jaipur,Rajasthan,North,Office Supplies,Stationery,Notebook Pack,595,2,0.15,108.25,UPI,Standard
+428,ORD-00428,04-01-2025 00:00,CUST-1137,Aditya Gupta,Mumbai,Maharashtra,West,Furniture,Home & Office,Sofa,68400,3,0.05,7192.5,Debit Card,Standard
+429,ORD-00429,12-01-2024 00:00,CUST-1237,Sai Das,Ahmedabad,Gujarat,West,Technology,Electronics,Headphones,4480,2,0.2,328.56,UPI,Express
+430,ORD-00430,03-05-2025 00:00,CUST-1072,Riya Nair,Ahmedabad,Gujarat,West,Furniture,Home & Office,Sofa,24000,1,0,2390.61,UPI,Same Day
+431,ORD-00431,14-04-2024 00:00,CUST-1252,Sai Mishra,Bengaluru,Karnataka,South,Furniture,Home & Office,Study Table,27625,5,0.15,1245.1,UPI,Same Day
+432,ORD-00432,04-03-2024 00:00,CUST-1090,Ira Das,Bhubaneswar,Odisha,East,Home Appliances,Appliances,Electric Kettle,1275,1,0.15,123.02,Cash,Express
+433,ORD-00433,26-06-2025 00:00,CUST-1047,Rahul Rao,Mumbai,Maharashtra,West,Furniture,Home & Office,Sofa,24000,1,0,2937.08,Credit Card,Standard
+434,ORD-00434,04-01-2025 00:00,CUST-1309,Aarav Gupta,Lucknow,Uttar Pradesh,North,Office Supplies,Stationery,Pen Set,306,2,0.15,55.75,Net Banking,Standard
+435,ORD-00435,06-02-2025 00:00,CUST-1182,Aadhya Kumar,Pune,Maharashtra,West,Technology,Electronics,Keyboard,2380,2,0.15,280.56,Net Banking,Standard
+436,ORD-00436,17-07-2024 00:00,CUST-1197,Vivaan Verma,Patna,Bihar,East,Technology,Electronics,Smartphone,37400,2,0.15,1815.73,Credit Card,Standard
+437,ORD-00437,20-06-2024 00:00,CUST-1174,Diya Gupta,Delhi,Delhi,North,Technology,Electronics,Monitor,11875,1,0.05,1919.6,UPI,Standard
+438,ORD-00438,07-11-2025 00:00,CUST-1213,Ira Reddy,Hyderabad,Telangana,South,Technology,Electronics,Smartphone,17600,1,0.2,-542.15,Net Banking,Standard
+439,ORD-00439,24-03-2024 00:00,CUST-1331,Arjun Mishra,Ahmedabad,Gujarat,West,Home Appliances,Appliances,Air Fryer,18600,3,0,1992.17,Cash,Standard
+440,ORD-00440,12-02-2024 00:00,CUST-1046,Ishaan Reddy,Pune,Maharashtra,West,Technology,Electronics,Keyboard,3990,3,0.05,613.27,Credit Card,Standard
+441,ORD-00441,17-05-2024 00:00,CUST-1334,Kavya Reddy,Ahmedabad,Gujarat,West,Technology,Electronics,Monitor,11250,1,0.1,1835.61,UPI,Standard
+442,ORD-00442,21-04-2025 00:00,CUST-1229,Arjun Kumar,Chennai,Tamil Nadu,South,Furniture,Home & Office,Sofa,21600,1,0.1,596.43,UPI,Standard
+443,ORD-00443,13-11-2024 00:00,CUST-1347,Ira Reddy,Hyderabad,Telangana,South,Furniture,Home & Office,Office Chair,35100,6,0.25,-69.28,UPI,Standard
+444,ORD-00444,25-06-2024 00:00,CUST-1159,Sai Iyer,Bengaluru,Karnataka,South,Technology,Electronics,Headphones,5320,2,0.05,946.88,Net Banking,Standard
+445,ORD-00445,07-08-2024 00:00,CUST-1174,Sai Kumar,Delhi,Delhi,North,Technology,Electronics,Laptop,52000,1,0,8513.32,UPI,Same Day
+446,ORD-00446,05-02-2025 00:00,CUST-1192,Ishaan Mehta,Bengaluru,Karnataka,South,Office Supplies,Stationery,Printer Paper,432,1,0.1,85.43,UPI,Standard
+447,ORD-00447,30-10-2024 00:00,CUST-1279,Riya Gupta,Mumbai,Maharashtra,West,Home Appliances,Appliances,Air Fryer,26350,5,0.15,1244.15,Net Banking,Standard
+448,ORD-00448,11-05-2024 00:00,CUST-1192,Kiran Joshi,Pune,Maharashtra,West,Office Supplies,Stationery,Printer Paper,432,1,0.1,84.49,UPI,Express
+449,ORD-00449,15-10-2025 00:00,CUST-1048,Meera Kumar,Ahmedabad,Gujarat,West,Office Supplies,Stationery,Desk Organizer,3825,5,0.1,712.77,UPI,Standard
+450,ORD-00450,01-03-2024 00:00,CUST-1235,Ishaan Joshi,Lucknow,Uttar Pradesh,North,Home Appliances,Appliances,Mixer Grinder,5760,2,0.1,810.65,UPI,Same Day
+451,ORD-00451,27-03-2024 00:00,CUST-1339,Arjun Reddy,Pune,Maharashtra,West,Office Supplies,Stationery,Pen Set,540,3,0,148.03,Debit Card,Standard
+452,ORD-00452,22-06-2025 00:00,CUST-1064,Sneha Patel,Lucknow,Uttar Pradesh,North,Home Appliances,Appliances,Vacuum Cleaner,15130,2,0.15,765.7,UPI,Standard
+453,ORD-00453,15-11-2024 00:00,CUST-1055,Sai Mehta,Jaipur,Rajasthan,North,Office Supplies,Stationery,Notebook Pack,665,2,0.05,169.57,UPI,Standard
+454,ORD-00454,04-10-2025 00:00,CUST-1216,Ira Mehta,Patna,Bihar,East,Furniture,Home & Office,Office Chair,7800,1,0,1523.27,Net Banking,Standard
+455,ORD-00455,20-04-2024 00:00,CUST-1207,Diya Iyer,Hyderabad,Telangana,South,Furniture,Home & Office,Office Chair,19890,3,0.15,1080.26,Debit Card,Standard
+456,ORD-00456,09-12-2024 00:00,CUST-1034,Aadhya Das,Mumbai,Maharashtra,West,Home Appliances,Appliances,Air Fryer,15810,3,0.15,731.59,UPI,Express
+457,ORD-00457,12-10-2025 00:00,CUST-1269,Sneha Iyer,Kolkata,West Bengal,East,Furniture,Home & Office,Study Table,5850,1,0.1,464.71,Credit Card,Same Day
+458,ORD-00458,04-02-2025 00:00,CUST-1135,Kiran Gupta,Kolkata,West Bengal,East,Home Appliances,Appliances,Electric Kettle,9000,6,0,2022.13,Debit Card,Same Day
+459,ORD-00459,10-04-2025 00:00,CUST-1150,Aditya Das,Lucknow,Uttar Pradesh,North,Office Supplies,Stationery,Notebook Pack,630,2,0.1,128.66,Net Banking,Express
+460,ORD-00460,05-05-2024 00:00,CUST-1186,Diya Kumar,Kolkata,West Bengal,East,Furniture,Home & Office,Office Chair,7020,1,0.1,844.05,UPI,Express
+461,ORD-00461,27-07-2025 00:00,CUST-1088,Ira Singh,Ahmedabad,Gujarat,West,Furniture,Home & Office,Sofa,43200,2,0.1,3276.14,UPI,Same Day
+462,ORD-00462,27-01-2024 00:00,CUST-1073,Ishaan Nair,Bengaluru,Karnataka,South,Furniture,Home & Office,Office Chair,14820,2,0.05,1680.55,Debit Card,Standard
+463,ORD-00463,04-06-2025 00:00,CUST-1188,Ishaan Mishra,Bengaluru,Karnataka,South,Furniture,Home & Office,Study Table,9750,2,0.25,-103.5,UPI,Express
+464,ORD-00464,03-04-2024 00:00,CUST-1346,Rahul Reddy,Delhi,Delhi,North,Office Supplies,Stationery,Pen Set,432,3,0.2,78.47,Debit Card,Standard
+465,ORD-00465,23-12-2024 00:00,CUST-1037,Arjun Reddy,Patna,Bihar,East,Office Supplies,Stationery,Desk Organizer,850,1,0,195.82,Debit Card,Standard
+466,ORD-00466,19-03-2025 00:00,CUST-1182,Neha Reddy,Bhubaneswar,Odisha,East,Technology,Electronics,Headphones,2240,1,0.2,171.47,UPI,Express
+467,ORD-00467,10-09-2025 00:00,CUST-1262,Priya Gupta,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Notebook Pack,997.5,3,0.05,257.32,UPI,Express
+468,ORD-00468,23-06-2024 00:00,CUST-1040,Ishaan Sharma,Pune,Maharashtra,West,Furniture,Home & Office,Study Table,12350,2,0.05,1702.57,Cash,Express
+469,ORD-00469,07-12-2024 00:00,CUST-1118,Ira Singh,Hyderabad,Telangana,South,Technology,Electronics,Monitor,11875,1,0.05,1657.38,UPI,Standard
+470,ORD-00470,26-10-2024 00:00,CUST-1012,Kavya Patel,Mumbai,Maharashtra,West,Home Appliances,Appliances,Air Fryer,15810,3,0.15,265.15,Credit Card,Express
+471,ORD-00471,02-12-2024 00:00,CUST-1275,Priya Mehta,Delhi,Delhi,North,Office Supplies,Stationery,Desk Organizer,3060,4,0.1,582.5,UPI,Express
+472,ORD-00472,15-08-2024 00:00,CUST-1281,Aadhya Das,Bengaluru,Karnataka,South,Technology,Electronics,Monitor,25000,2,0,4650.19,Net Banking,Standard
+473,ORD-00473,07-09-2025 00:00,CUST-1335,Diya Kumar,Bengaluru,Karnataka,South,Furniture,Home & Office,Bookshelf,3900,1,0.25,-99.99,Net Banking,Express
+474,ORD-00474,30-05-2025 00:00,CUST-1286,Ira Verma,Delhi,Delhi,North,Furniture,Home & Office,Study Table,22100,4,0.15,1399.93,UPI,Standard
+475,ORD-00475,05-01-2025 00:00,CUST-1102,Aditya Singh,Pune,Maharashtra,West,Home Appliances,Appliances,Vacuum Cleaner,26700,3,0,2792.15,UPI,Express
+476,ORD-00476,12-11-2025 00:00,CUST-1076,Sai Sharma,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Vacuum Cleaner,48060,6,0.1,4255.64,UPI,Standard
+477,ORD-00477,13-01-2025 00:00,CUST-1156,Kiran Gupta,Kolkata,West Bengal,East,Furniture,Home & Office,Office Chair,21060,3,0.1,1637.89,Debit Card,Same Day
+478,ORD-00478,20-08-2024 00:00,CUST-1044,Aarav Singh,Pune,Maharashtra,West,Technology,Electronics,Smartphone,41800,2,0.05,4824.21,Credit Card,Express
+479,ORD-00479,18-06-2024 00:00,CUST-1002,Aarav Joshi,Mumbai,Maharashtra,West,Office Supplies,Stationery,Printer Paper,1152,3,0.2,135.86,Credit Card,Express
+480,ORD-00480,23-10-2025 00:00,CUST-1021,Aarav Mehta,Delhi,Delhi,North,Office Supplies,Stationery,Desk Organizer,765,1,0.1,151.42,Net Banking,Same Day
+481,ORD-00481,18-11-2025 00:00,CUST-1024,Sai Sharma,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Electric Kettle,2400,2,0.2,194.38,UPI,Standard
+482,ORD-00482,01-03-2025 00:00,CUST-1044,Ishaan Mishra,Kolkata,West Bengal,East,Technology,Electronics,Laptop,98800,2,0.05,11637.18,Debit Card,Express
+483,ORD-00483,15-06-2025 00:00,CUST-1065,Aadhya Verma,Delhi,Delhi,North,Office Supplies,Stationery,Pen Set,153,1,0.15,25.04,Debit Card,Same Day
+484,ORD-00484,11-01-2025 00:00,CUST-1260,Neha Mishra,Mumbai,Maharashtra,West,Furniture,Home & Office,Bookshelf,4680,1,0.1,445.98,Debit Card,Standard
+485,ORD-00485,08-10-2024 00:00,CUST-1052,Diya Das,Ahmedabad,Gujarat,West,Office Supplies,Stationery,Pen Set,342,2,0.05,101.87,UPI,Standard
+486,ORD-00486,02-06-2024 00:00,CUST-1069,Rahul Iyer,Hyderabad,Telangana,South,Office Supplies,Stationery,Desk Organizer,3400,4,0,863.64,UPI,Standard
+487,ORD-00487,18-03-2024 00:00,CUST-1107,Priya Patel,Bhubaneswar,Odisha,East,Home Appliances,Appliances,Air Fryer,5270,1,0.15,127.25,Debit Card,Standard
+488,ORD-00488,29-06-2024 00:00,CUST-1154,Kiran Mehta,Jaipur,Rajasthan,North,Furniture,Home & Office,Bookshelf,4420,1,0.15,279.69,Debit Card,Express
+489,ORD-00489,06-01-2025 00:00,CUST-1164,Ananya Verma,Bengaluru,Karnataka,South,Technology,Electronics,Monitor,30000,3,0.2,1687.69,UPI,Standard
+490,ORD-00490,17-04-2025 00:00,CUST-1053,Rohan Sharma,Bengaluru,Karnataka,South,Office Supplies,Stationery,Printer Paper,408,1,0.15,61.72,UPI,Standard
+491,ORD-00491,28-07-2024 00:00,CUST-1215,Priya Patel,Mumbai,Maharashtra,West,Technology,Electronics,Keyboard,1260,1,0.1,189.63,UPI,Standard
+492,ORD-00492,28-07-2024 00:00,CUST-1316,Aarav Das,Bengaluru,Karnataka,South,Technology,Electronics,Headphones,10640,4,0.05,2659.17,Net Banking,Standard
+493,ORD-00493,13-08-2024 00:00,CUST-1015,Kavya Reddy,Mumbai,Maharashtra,West,Technology,Electronics,Keyboard,2240,2,0.2,156.25,Credit Card,Standard
+494,ORD-00494,26-12-2024 00:00,CUST-1008,Neha Rao,Ahmedabad,Gujarat,West,Furniture,Home & Office,Bookshelf,15600,4,0.25,-153.22,Credit Card,Standard
+495,ORD-00495,11-05-2025 00:00,CUST-1016,Ananya Iyer,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Printer Paper,1728,4,0.1,291.92,Cash,Standard
+496,ORD-00496,23-09-2025 00:00,CUST-1231,Rohan Kumar,Chennai,Tamil Nadu,South,Technology,Electronics,Smartphone,125400,6,0.05,16955.05,Debit Card,Standard
+497,ORD-00497,15-11-2025 00:00,CUST-1188,Diya Gupta,Ahmedabad,Gujarat,West,Office Supplies,Stationery,Printer Paper,408,1,0.15,35.47,Debit Card,Express
+498,ORD-00498,04-06-2025 00:00,CUST-1099,Rahul Das,Hyderabad,Telangana,South,Home Appliances,Appliances,Air Fryer,18600,3,0,3125.86,Credit Card,Express
+499,ORD-00499,03-06-2024 00:00,CUST-1095,Arjun Joshi,Patna,Bihar,East,Technology,Electronics,Laptop,93600,2,0.1,7948.59,Debit Card,Standard
+500,ORD-00500,06-05-2025 00:00,CUST-1162,Neha Patel,Ahmedabad,Gujarat,West,Office Supplies,Stationery,Desk Organizer,765,1,0.1,130.71,Debit Card,Standard
+501,ORD-00501,02-07-2025 00:00,CUST-1308,Riya Gupta,Jaipur,Rajasthan,North,Furniture,Home & Office,Sofa,24000,1,0,3038.91,UPI,Express
+502,ORD-00502,16-12-2025 00:00,CUST-1145,Aarav Das,Hyderabad,Telangana,South,Technology,Electronics,Keyboard,3360,3,0.2,352.49,Debit Card,Express
+503,ORD-00503,05-09-2025 00:00,CUST-1270,Priya Das,Hyderabad,Telangana,South,Furniture,Home & Office,Bookshelf,8840,2,0.15,129.48,UPI,Express
+504,ORD-00504,01-11-2024 00:00,CUST-1129,Meera Gupta,Bhubaneswar,Odisha,East,Technology,Electronics,Laptop,52000,1,0,10423.49,UPI,Standard
+505,ORD-00505,29-05-2025 00:00,CUST-1254,Arjun Sharma,Patna,Bihar,East,Technology,Electronics,Laptop,52000,1,0,9911.52,Debit Card,Standard
+506,ORD-00506,22-04-2024 00:00,CUST-1254,Sneha Kumar,Lucknow,Uttar Pradesh,North,Office Supplies,Stationery,Pen Set,153,1,0.15,54.07,UPI,Express
+507,ORD-00507,13-03-2024 00:00,CUST-1265,Priya Iyer,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Stapler,198,1,0.1,49.07,Net Banking,Standard
+508,ORD-00508,28-05-2025 00:00,CUST-1067,Kavya Reddy,Pune,Maharashtra,West,Home Appliances,Appliances,Vacuum Cleaner,35600,4,0,5773.28,Debit Card,Express
+509,ORD-00509,21-11-2025 00:00,CUST-1236,Vivaan Rao,Bhubaneswar,Odisha,East,Home Appliances,Appliances,Air Fryer,16740,3,0.1,1486.12,Net Banking,Standard
+510,ORD-00510,28-09-2025 00:00,CUST-1071,Arjun Patel,Ahmedabad,Gujarat,West,Office Supplies,Stationery,Notebook Pack,262.5,1,0.25,17.22,UPI,Standard
+511,ORD-00511,27-11-2024 00:00,CUST-1346,Rohan Verma,Jaipur,Rajasthan,North,Home Appliances,Appliances,Air Fryer,15810,3,0.15,75.87,UPI,Standard
+512,ORD-00512,18-03-2024 00:00,CUST-1107,Kavya Iyer,Patna,Bihar,East,Home Appliances,Appliances,Electric Kettle,4050,3,0.1,620.21,UPI,Standard
+513,ORD-00513,10-02-2025 00:00,CUST-1076,Priya Reddy,Ahmedabad,Gujarat,West,Furniture,Home & Office,Study Table,27625,5,0.15,2065.72,Debit Card,Express
+514,ORD-00514,27-09-2025 00:00,CUST-1093,Priya Kumar,Mumbai,Maharashtra,West,Technology,Electronics,Laptop,46800,1,0.1,3665.23,Debit Card,Standard
+515,ORD-00515,14-09-2025 00:00,CUST-1062,Aarav Gupta,Pune,Maharashtra,West,Office Supplies,Stationery,Notebook Pack,332.5,1,0.05,81.05,UPI,Standard
+516,ORD-00516,21-02-2025 00:00,CUST-1076,Kavya Joshi,Patna,Bihar,East,Home Appliances,Appliances,Mixer Grinder,5760,2,0.1,482.86,UPI,Standard
+517,ORD-00517,29-04-2025 00:00,CUST-1309,Sai Rao,Ahmedabad,Gujarat,West,Home Appliances,Appliances,Electric Kettle,1350,1,0.1,163.43,Net Banking,Standard
+518,ORD-00518,29-04-2024 00:00,CUST-1143,Diya Iyer,Bengaluru,Karnataka,South,Office Supplies,Stationery,Notebook Pack,1330,4,0.05,345.94,UPI,Standard
+519,ORD-00519,27-01-2024 00:00,CUST-1039,Ishaan Mehta,Jaipur,Rajasthan,North,Technology,Electronics,Laptop,52000,1,0,9939.71,Debit Card,Same Day
+520,ORD-00520,28-08-2024 00:00,CUST-1159,Ira Kumar,Pune,Maharashtra,West,Technology,Electronics,Smartphone,74800,4,0.15,2210.31,Debit Card,Express
+521,ORD-00521,09-11-2024 00:00,CUST-1141,Aadhya Mishra,Pune,Maharashtra,West,Office Supplies,Stationery,Pen Set,324,2,0.1,78.55,Credit Card,Standard
+522,ORD-00522,03-10-2025 00:00,CUST-1104,Vivaan Iyer,Pune,Maharashtra,West,Technology,Electronics,Headphones,2520,1,0.1,404.92,Debit Card,Standard
+523,ORD-00523,10-07-2024 00:00,CUST-1199,Vivaan Das,Jaipur,Rajasthan,North,Home Appliances,Appliances,Electric Kettle,1425,1,0.05,274.41,UPI,Standard
+524,ORD-00524,16-05-2024 00:00,CUST-1215,Sai Kumar,Delhi,Delhi,North,Technology,Electronics,Headphones,2660,1,0.05,513.9,Credit Card,Standard
+525,ORD-00525,27-04-2024 00:00,CUST-1121,Rahul Rao,Mumbai,Maharashtra,West,Home Appliances,Appliances,Mixer Grinder,2560,1,0.2,266.96,UPI,Standard
+526,ORD-00526,01-08-2024 00:00,CUST-1079,Arjun Sharma,Jaipur,Rajasthan,North,Technology,Electronics,Laptop,148200,3,0.05,24256.95,Credit Card,Standard
+527,ORD-00527,15-10-2024 00:00,CUST-1069,Kiran Verma,Bhubaneswar,Odisha,East,Technology,Electronics,Headphones,5320,2,0.05,667.17,Credit Card,Standard
+528,ORD-00528,06-04-2025 00:00,CUST-1327,Kiran Das,Patna,Bihar,East,Technology,Electronics,Headphones,5040,2,0.1,741.46,Credit Card,Standard
+529,ORD-00529,27-01-2025 00:00,CUST-1076,Riya Sharma,Jaipur,Rajasthan,North,Office Supplies,Stationery,Desk Organizer,2167.5,3,0.15,337.34,Credit Card,Standard
+530,ORD-00530,29-07-2025 00:00,CUST-1029,Meera Mishra,Bengaluru,Karnataka,South,Furniture,Home & Office,Study Table,5525,1,0.15,357.1,Net Banking,Standard
+531,ORD-00531,17-10-2024 00:00,CUST-1112,Aadhya Gupta,Patna,Bihar,East,Home Appliances,Appliances,Mixer Grinder,9600,3,0,1620.93,UPI,Standard
+532,ORD-00532,10-11-2025 00:00,CUST-1064,Kavya Mehta,Patna,Bihar,East,Technology,Electronics,Smartphone,19800,1,0.1,2541.39,Credit Card,Standard
+533,ORD-00533,11-11-2024 00:00,CUST-1286,Aadhya Gupta,Bengaluru,Karnataka,South,Furniture,Home & Office,Study Table,17550,3,0.1,1810.75,Credit Card,Standard
+534,ORD-00534,30-05-2024 00:00,CUST-1330,Ira Das,Lucknow,Uttar Pradesh,North,Furniture,Home & Office,Study Table,13000,2,0,2820.72,Credit Card,Standard
+535,ORD-00535,18-09-2024 00:00,CUST-1233,Kiran Patel,Lucknow,Uttar Pradesh,North,Technology,Electronics,Keyboard,3780,3,0.1,526.5,Credit Card,Express
+536,ORD-00536,26-07-2025 00:00,CUST-1105,Meera Joshi,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Notebook Pack,892.5,3,0.15,172.89,UPI,Standard
+537,ORD-00537,20-08-2025 00:00,CUST-1308,Sai Nair,Chennai,Tamil Nadu,South,Technology,Electronics,Laptop,98800,2,0.05,17017.02,UPI,Standard
+538,ORD-00538,27-03-2024 00:00,CUST-1272,Ishaan Reddy,Jaipur,Rajasthan,North,Technology,Electronics,Monitor,10625,1,0.15,874.35,UPI,Same Day
+539,ORD-00539,14-01-2025 00:00,CUST-1009,Sai Kumar,Ahmedabad,Gujarat,West,Office Supplies,Stationery,Desk Organizer,765,1,0.1,142.32,Debit Card,Express
+540,ORD-00540,26-10-2025 00:00,CUST-1084,Priya Kumar,Chennai,Tamil Nadu,South,Technology,Electronics,Smartphone,37400,2,0.15,2417.23,Debit Card,Standard
+541,ORD-00541,01-06-2025 00:00,CUST-1078,Kavya Patel,Delhi,Delhi,North,Furniture,Home & Office,Sofa,64800,3,0.1,8387.51,Credit Card,Standard
+542,ORD-00542,16-09-2024 00:00,CUST-1296,Riya Mishra,Pune,Maharashtra,West,Home Appliances,Appliances,Mixer Grinder,2720,1,0.15,209.44,UPI,Standard
+543,ORD-00543,10-12-2024 00:00,CUST-1243,Riya Verma,Ahmedabad,Gujarat,West,Technology,Electronics,Monitor,23750,2,0.05,3852.58,Debit Card,Standard
+544,ORD-00544,06-04-2025 00:00,CUST-1308,Priya Reddy,Mumbai,Maharashtra,West,Technology,Electronics,Headphones,7560,3,0.1,1272.33,Debit Card,Standard
+545,ORD-00545,06-08-2025 00:00,CUST-1136,Ananya Mehta,Chennai,Tamil Nadu,South,Furniture,Home & Office,Office Chair,37050,5,0.05,5289.08,Debit Card,Same Day
+546,ORD-00546,15-03-2024 00:00,CUST-1057,Vihaan Iyer,Pune,Maharashtra,West,Furniture,Home & Office,Bookshelf,4160,1,0.2,167.86,UPI,Standard
+547,ORD-00547,22-08-2024 00:00,CUST-1266,Aadhya Singh,Lucknow,Uttar Pradesh,North,Technology,Electronics,Keyboard,3570,3,0.15,398.28,UPI,Standard
+548,ORD-00548,02-10-2025 00:00,CUST-1066,Riya Mishra,Lucknow,Uttar Pradesh,North,Office Supplies,Stationery,Pen Set,720,4,0,203.9,Credit Card,Express
+549,ORD-00549,05-02-2024 00:00,CUST-1230,Riya Kumar,Jaipur,Rajasthan,North,Office Supplies,Stationery,Stapler,627,3,0.05,126.09,Cash,Standard
+550,ORD-00550,15-11-2025 00:00,CUST-1086,Ira Patel,Hyderabad,Telangana,South,Home Appliances,Appliances,Air Fryer,10540,2,0.15,549.03,Credit Card,Standard
+551,ORD-00551,03-06-2024 00:00,CUST-1130,Kavya Singh,Hyderabad,Telangana,South,Technology,Electronics,Laptop,104000,2,0,16802.35,UPI,Standard
+552,ORD-00552,17-05-2025 00:00,CUST-1145,Ishaan Verma,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Pen Set,342,2,0.05,83.85,Net Banking,Standard
+553,ORD-00553,19-04-2025 00:00,CUST-1108,Arjun Verma,Mumbai,Maharashtra,West,Technology,Electronics,Smartphone,37400,2,0.15,1103.82,UPI,Standard
+554,ORD-00554,07-09-2024 00:00,CUST-1125,Sneha Gupta,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Pen Set,513,3,0.05,129.73,UPI,Standard
+555,ORD-00555,04-09-2024 00:00,CUST-1269,Meera Mehta,Hyderabad,Telangana,South,Office Supplies,Stationery,Printer Paper,480,1,0,125.3,Debit Card,Express
+556,ORD-00556,17-08-2025 00:00,CUST-1187,Vivaan Iyer,Pune,Maharashtra,West,Technology,Electronics,Monitor,10625,1,0.15,756.08,Credit Card,Standard
+557,ORD-00557,23-12-2024 00:00,CUST-1322,Ishaan Singh,Jaipur,Rajasthan,North,Furniture,Home & Office,Bookshelf,16640,4,0.2,276.96,Credit Card,Standard
+558,ORD-00558,09-11-2024 00:00,CUST-1009,Rahul Das,Mumbai,Maharashtra,West,Office Supplies,Stationery,Pen Set,144,1,0.2,27.47,Credit Card,Standard
+559,ORD-00559,25-09-2024 00:00,CUST-1310,Vihaan Iyer,Bhubaneswar,Odisha,East,Technology,Electronics,Keyboard,3990,3,0.05,700.5,Credit Card,Standard
+560,ORD-00560,20-04-2024 00:00,CUST-1291,Neha Nair,Patna,Bihar,East,Technology,Electronics,Headphones,2100,1,0.25,181.47,Credit Card,Standard
+561,ORD-00561,28-01-2025 00:00,CUST-1193,Kavya Patel,Kolkata,West Bengal,East,Technology,Electronics,Laptop,93600,2,0.1,11746.04,UPI,Standard
+562,ORD-00562,12-11-2024 00:00,CUST-1180,Arjun Das,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Electric Kettle,4275,3,0.05,781.73,UPI,Standard
+563,ORD-00563,15-06-2024 00:00,CUST-1345,Aditya Iyer,Ahmedabad,Gujarat,West,Furniture,Home & Office,Bookshelf,4680,1,0.1,421.21,Debit Card,Standard
+564,ORD-00564,29-10-2024 00:00,CUST-1019,Sneha Nair,Delhi,Delhi,North,Furniture,Home & Office,Study Table,29250,5,0.1,3543.52,Cash,Standard
+565,ORD-00565,19-08-2025 00:00,CUST-1121,Aarav Rao,Pune,Maharashtra,West,Office Supplies,Stationery,Stapler,330,2,0.25,25.24,Debit Card,Express
+566,ORD-00566,12-12-2025 00:00,CUST-1104,Arjun Gupta,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Stapler,198,1,0.1,58.21,UPI,Standard
+567,ORD-00567,24-02-2025 00:00,CUST-1061,Vivaan Reddy,Delhi,Delhi,North,Office Supplies,Stationery,Printer Paper,1224,3,0.15,156.55,Cash,Standard
+568,ORD-00568,16-08-2025 00:00,CUST-1178,Sai Das,Kolkata,West Bengal,East,Technology,Electronics,Keyboard,3990,3,0.05,704.29,Credit Card,Standard
+569,ORD-00569,15-04-2025 00:00,CUST-1321,Meera Kumar,Ahmedabad,Gujarat,West,Technology,Electronics,Monitor,71250,6,0.05,13076.03,Credit Card,Express
+570,ORD-00570,11-12-2025 00:00,CUST-1014,Aarav Das,Delhi,Delhi,North,Technology,Electronics,Smartphone,17600,1,0.2,-242.25,UPI,Same Day
+571,ORD-00571,08-07-2024 00:00,CUST-1314,Vivaan Rao,Mumbai,Maharashtra,West,Office Supplies,Stationery,Notebook Pack,560,2,0.2,73.78,UPI,Standard
+572,ORD-00572,20-04-2025 00:00,CUST-1002,Vivaan Iyer,Hyderabad,Telangana,South,Technology,Electronics,Smartphone,39600,2,0.1,4190.72,Cash,Same Day
+573,ORD-00573,31-12-2024 00:00,CUST-1228,Arjun Reddy,Chennai,Tamil Nadu,South,Furniture,Home & Office,Bookshelf,14820,3,0.05,2346.15,UPI,Express
+574,ORD-00574,03-09-2025 00:00,CUST-1017,Riya Sharma,Jaipur,Rajasthan,North,Office Supplies,Stationery,Stapler,220,1,0,52.09,Credit Card,Standard
+575,ORD-00575,21-11-2024 00:00,CUST-1002,Ishaan Sharma,Jaipur,Rajasthan,North,Furniture,Home & Office,Bookshelf,15600,3,0,2115.21,Credit Card,Express
+576,ORD-00576,17-08-2024 00:00,CUST-1239,Aditya Mishra,Delhi,Delhi,North,Office Supplies,Stationery,Printer Paper,408,1,0.15,57.44,Credit Card,Standard
+577,ORD-00577,30-06-2025 00:00,CUST-1091,Ananya Patel,Kolkata,West Bengal,East,Furniture,Home & Office,Sofa,24000,1,0,2529.57,UPI,Standard
+578,ORD-00578,31-08-2024 00:00,CUST-1026,Rahul Verma,Patna,Bihar,East,Technology,Electronics,Monitor,23750,2,0.05,5100.53,Credit Card,Standard
+579,ORD-00579,26-06-2024 00:00,CUST-1103,Neha Reddy,Pune,Maharashtra,West,Technology,Electronics,Smartphone,22000,1,0,2999.12,UPI,Standard
+580,ORD-00580,06-08-2025 00:00,CUST-1002,Aarav Verma,Ahmedabad,Gujarat,West,Technology,Electronics,Laptop,49400,1,0.05,6644.42,Credit Card,Standard
+581,ORD-00581,09-07-2025 00:00,CUST-1065,Sai Reddy,Lucknow,Uttar Pradesh,North,Office Supplies,Stationery,Desk Organizer,765,1,0.1,159.18,UPI,Standard
+582,ORD-00582,20-10-2025 00:00,CUST-1229,Meera Joshi,Mumbai,Maharashtra,West,Furniture,Home & Office,Sofa,45600,2,0.05,5975.58,Credit Card,Standard
+583,ORD-00583,11-10-2024 00:00,CUST-1264,Kiran Nair,Mumbai,Maharashtra,West,Office Supplies,Stationery,Pen Set,648,4,0.1,139,UPI,Express
+584,ORD-00584,29-08-2024 00:00,CUST-1310,Neha Verma,Jaipur,Rajasthan,North,Technology,Electronics,Headphones,5600,2,0,1495.06,Net Banking,Standard
+585,ORD-00585,11-12-2024 00:00,CUST-1289,Rohan Singh,Patna,Bihar,East,Home Appliances,Appliances,Air Fryer,22320,4,0.1,1766.98,Debit Card,Standard
+586,ORD-00586,17-02-2025 00:00,CUST-1106,Rahul Reddy,Lucknow,Uttar Pradesh,North,Home Appliances,Appliances,Electric Kettle,8550,6,0.05,1171.3,Debit Card,Standard
+587,ORD-00587,17-09-2025 00:00,CUST-1117,Rohan Mehta,Mumbai,Maharashtra,West,Office Supplies,Stationery,Desk Organizer,1360,2,0.2,182.46,Credit Card,Same Day
+588,ORD-00588,15-04-2025 00:00,CUST-1033,Priya Iyer,Hyderabad,Telangana,South,Technology,Electronics,Headphones,5040,2,0.1,762.81,UPI,Express
+589,ORD-00589,28-01-2024 00:00,CUST-1065,Sai Singh,Patna,Bihar,East,Technology,Electronics,Headphones,2520,1,0.1,423.26,UPI,Standard
+590,ORD-00590,29-01-2025 00:00,CUST-1143,Neha Verma,Bengaluru,Karnataka,South,Home Appliances,Appliances,Mixer Grinder,6400,2,0,1163.41,UPI,Standard
+591,ORD-00591,24-01-2025 00:00,CUST-1323,Sai Mehta,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Printer Paper,912,2,0.05,189.81,UPI,Standard
+592,ORD-00592,22-10-2024 00:00,CUST-1244,Neha Iyer,Pune,Maharashtra,West,Office Supplies,Stationery,Printer Paper,1224,3,0.15,190.25,UPI,Express
+593,ORD-00593,01-06-2025 00:00,CUST-1025,Rahul Patel,Delhi,Delhi,North,Technology,Electronics,Smartphone,56100,3,0.15,3467.07,Net Banking,Express
+594,ORD-00594,22-01-2025 00:00,CUST-1317,Meera Nair,Jaipur,Rajasthan,North,Office Supplies,Stationery,Desk Organizer,3825,5,0.1,667.31,Net Banking,Express
+595,ORD-00595,23-01-2024 00:00,CUST-1316,Ananya Mehta,Bengaluru,Karnataka,South,Technology,Electronics,Monitor,37500,4,0.25,94.91,Net Banking,Standard
+596,ORD-00596,11-03-2025 00:00,CUST-1011,Sai Kumar,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Vacuum Cleaner,22695,3,0.15,229.26,Debit Card,Standard
+597,ORD-00597,04-03-2025 00:00,CUST-1244,Vivaan Mehta,Kolkata,West Bengal,East,Technology,Electronics,Headphones,10640,4,0.05,1774.89,UPI,Standard
+598,ORD-00598,21-10-2024 00:00,CUST-1197,Aditya Gupta,Ahmedabad,Gujarat,West,Home Appliances,Appliances,Mixer Grinder,4800,2,0.25,-240.4,Credit Card,Standard
+599,ORD-00599,06-08-2024 00:00,CUST-1015,Ira Patel,Mumbai,Maharashtra,West,Office Supplies,Stationery,Notebook Pack,997.5,3,0.05,246.47,Credit Card,Express
+600,ORD-00600,04-01-2025 00:00,CUST-1080,Meera Iyer,Pune,Maharashtra,West,Technology,Electronics,Monitor,47500,4,0.05,8240.47,UPI,Express
+601,ORD-00601,06-08-2024 00:00,CUST-1336,Sneha Gupta,Ahmedabad,Gujarat,West,Technology,Electronics,Laptop,49400,1,0.05,7240.09,Debit Card,Standard
+602,ORD-00602,04-11-2025 00:00,CUST-1333,Aarav Nair,Patna,Bihar,East,Office Supplies,Stationery,Stapler,704,4,0.2,109.68,Credit Card,Express
+603,ORD-00603,19-08-2024 00:00,CUST-1033,Rahul Patel,Ahmedabad,Gujarat,West,Office Supplies,Stationery,Printer Paper,1824,4,0.05,412.77,UPI,Express
+604,ORD-00604,26-04-2024 00:00,CUST-1337,Ira Das,Kolkata,West Bengal,East,Office Supplies,Stationery,Printer Paper,408,1,0.15,42.36,Credit Card,Standard
+605,ORD-00605,29-01-2024 00:00,CUST-1062,Aarav Rao,Delhi,Delhi,North,Office Supplies,Stationery,Stapler,990,5,0.1,205.61,UPI,Standard
+606,ORD-00606,12-04-2025 00:00,CUST-1038,Aditya Joshi,Lucknow,Uttar Pradesh,North,Technology,Electronics,Laptop,156000,3,0,32492.56,UPI,Standard
+607,ORD-00607,05-05-2025 00:00,CUST-1023,Vivaan Reddy,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Desk Organizer,4037.5,5,0.05,955.29,UPI,Standard
+608,ORD-00608,18-01-2025 00:00,CUST-1010,Aarav Verma,Delhi,Delhi,North,Home Appliances,Appliances,Vacuum Cleaner,8455,1,0.05,470.1,Net Banking,Express
+609,ORD-00609,21-08-2025 00:00,CUST-1262,Kiran Iyer,Chennai,Tamil Nadu,South,Furniture,Home & Office,Bookshelf,8840,2,0.15,900.52,Net Banking,Standard
+610,ORD-00610,30-10-2025 00:00,CUST-1009,Riya Reddy,Patna,Bihar,East,Technology,Electronics,Smartphone,22000,1,0,3561.69,Debit Card,Express
+611,ORD-00611,21-01-2025 00:00,CUST-1141,Meera Das,Pune,Maharashtra,West,Technology,Electronics,Keyboard,5040,4,0.1,661.86,Credit Card,Standard
+612,ORD-00612,17-09-2024 00:00,CUST-1062,Riya Gupta,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Air Fryer,6200,1,0,1178.68,UPI,Standard
+613,ORD-00613,25-11-2024 00:00,CUST-1321,Neha Joshi,Lucknow,Uttar Pradesh,North,Technology,Electronics,Headphones,5320,2,0.05,1163.07,UPI,Express
+614,ORD-00614,17-08-2025 00:00,CUST-1294,Aadhya Nair,Delhi,Delhi,North,Furniture,Home & Office,Study Table,18525,3,0.05,3388.11,UPI,Same Day
+615,ORD-00615,29-04-2025 00:00,CUST-1210,Ira Singh,Delhi,Delhi,North,Office Supplies,Stationery,Pen Set,342,2,0.05,103.9,Debit Card,Standard
+616,ORD-00616,10-10-2025 00:00,CUST-1123,Neha Iyer,Mumbai,Maharashtra,West,Technology,Electronics,Smartphone,18700,1,0.15,953.64,UPI,Express
+617,ORD-00617,01-08-2024 00:00,CUST-1128,Rahul Kumar,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Electric Kettle,1500,1,0,274.25,Debit Card,Standard
+618,ORD-00618,21-06-2025 00:00,CUST-1052,Kiran Iyer,Hyderabad,Telangana,South,Home Appliances,Appliances,Mixer Grinder,2880,1,0.1,215.29,UPI,Same Day
+619,ORD-00619,11-03-2025 00:00,CUST-1264,Sneha Mehta,Lucknow,Uttar Pradesh,North,Home Appliances,Appliances,Air Fryer,16740,3,0.1,1222.16,Debit Card,Same Day
+620,ORD-00620,31-05-2024 00:00,CUST-1172,Sai Singh,Delhi,Delhi,North,Technology,Electronics,Keyboard,3780,3,0.1,644.42,UPI,Standard
+621,ORD-00621,25-06-2024 00:00,CUST-1145,Diya Sharma,Jaipur,Rajasthan,North,Home Appliances,Appliances,Mixer Grinder,5760,2,0.1,675.61,Net Banking,Same Day
+622,ORD-00622,23-01-2025 00:00,CUST-1021,Riya Sharma,Delhi,Delhi,North,Furniture,Home & Office,Office Chair,21060,3,0.1,2398.42,Debit Card,Standard
+623,ORD-00623,06-11-2025 00:00,CUST-1080,Sneha Sharma,Jaipur,Rajasthan,North,Office Supplies,Stationery,Stapler,352,2,0.2,63.44,Credit Card,Standard
+624,ORD-00624,01-02-2025 00:00,CUST-1004,Vivaan Sharma,Jaipur,Rajasthan,North,Office Supplies,Stationery,Stapler,561,3,0.15,95.82,UPI,Standard
+625,ORD-00625,13-06-2025 00:00,CUST-1025,Aditya Rao,Hyderabad,Telangana,South,Furniture,Home & Office,Office Chair,6630,1,0.15,423.35,UPI,Standard
+626,ORD-00626,02-05-2024 00:00,CUST-1275,Rahul Singh,Pune,Maharashtra,West,Office Supplies,Stationery,Desk Organizer,1530,2,0.1,337.53,UPI,Standard
+627,ORD-00627,23-07-2024 00:00,CUST-1156,Sneha Patel,Hyderabad,Telangana,South,Home Appliances,Appliances,Mixer Grinder,9120,3,0.05,1467.96,Net Banking,Express
+628,ORD-00628,25-04-2024 00:00,CUST-1147,Aarav Patel,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Desk Organizer,765,1,0.1,143.1,Debit Card,Standard
+629,ORD-00629,13-03-2025 00:00,CUST-1292,Riya Das,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Desk Organizer,2040,3,0.2,265.44,Credit Card,Same Day
+630,ORD-00630,27-02-2025 00:00,CUST-1265,Neha Patel,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Printer Paper,768,2,0.2,100.36,Credit Card,Standard
+631,ORD-00631,30-08-2025 00:00,CUST-1069,Vivaan Reddy,Bengaluru,Karnataka,South,Technology,Electronics,Monitor,30000,3,0.2,1864.71,Credit Card,Express
+632,ORD-00632,30-04-2024 00:00,CUST-1044,Ishaan Joshi,Lucknow,Uttar Pradesh,North,Technology,Electronics,Laptop,208000,5,0.2,3467.39,UPI,Standard
+633,ORD-00633,01-12-2025 00:00,CUST-1146,Riya Singh,Kolkata,West Bengal,East,Furniture,Home & Office,Office Chair,31200,5,0.2,1295.73,Debit Card,Standard
+634,ORD-00634,21-08-2024 00:00,CUST-1037,Aditya Reddy,Patna,Bihar,East,Office Supplies,Stationery,Desk Organizer,722.5,1,0.15,136.95,UPI,Express
+635,ORD-00635,28-08-2024 00:00,CUST-1312,Sneha Iyer,Bengaluru,Karnataka,South,Technology,Electronics,Monitor,40000,4,0.2,2410.34,Net Banking,Standard
+636,ORD-00636,21-04-2024 00:00,CUST-1239,Rohan Singh,Mumbai,Maharashtra,West,Home Appliances,Appliances,Mixer Grinder,12800,4,0,2844.74,Debit Card,Same Day
+637,ORD-00637,02-05-2024 00:00,CUST-1225,Priya Sharma,Pune,Maharashtra,West,Office Supplies,Stationery,Notebook Pack,1120,4,0.2,165.47,UPI,Same Day
+638,ORD-00638,26-10-2024 00:00,CUST-1013,Vihaan Reddy,Patna,Bihar,East,Home Appliances,Appliances,Mixer Grinder,5440,2,0.15,395.97,Credit Card,Standard
+639,ORD-00639,30-06-2025 00:00,CUST-1019,Meera Nair,Ahmedabad,Gujarat,West,Technology,Electronics,Laptop,41600,1,0.2,-3067.08,UPI,Standard
+640,ORD-00640,14-04-2025 00:00,CUST-1281,Ishaan Kumar,Pune,Maharashtra,West,Office Supplies,Stationery,Stapler,836,4,0.05,204.95,UPI,Express
+641,ORD-00641,02-05-2025 00:00,CUST-1031,Aditya Verma,Delhi,Delhi,North,Office Supplies,Stationery,Stapler,990,6,0.25,39.9,UPI,Express
+642,ORD-00642,15-08-2025 00:00,CUST-1285,Ishaan Reddy,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Desk Organizer,1445,2,0.15,199.84,UPI,Express
+643,ORD-00643,15-03-2024 00:00,CUST-1318,Rahul Singh,Jaipur,Rajasthan,North,Furniture,Home & Office,Bookshelf,14040,3,0.1,1335.97,Debit Card,Standard
+644,ORD-00644,25-03-2025 00:00,CUST-1247,Kiran Das,Delhi,Delhi,North,Office Supplies,Stationery,Stapler,880,4,0,238.22,UPI,Express
+645,ORD-00645,05-01-2025 00:00,CUST-1278,Ishaan Nair,Lucknow,Uttar Pradesh,North,Furniture,Home & Office,Bookshelf,9880,2,0.05,1693.28,Debit Card,Express
+646,ORD-00646,15-12-2024 00:00,CUST-1129,Ishaan Das,Lucknow,Uttar Pradesh,North,Technology,Electronics,Keyboard,1190,1,0.15,187.17,Debit Card,Express
+647,ORD-00647,07-10-2025 00:00,CUST-1229,Neha Das,Mumbai,Maharashtra,West,Furniture,Home & Office,Study Table,13000,2,0,1869.73,Credit Card,Standard
+648,ORD-00648,17-07-2024 00:00,CUST-1095,Ira Mishra,Pune,Maharashtra,West,Furniture,Home & Office,Bookshelf,9360,2,0.1,862.7,UPI,Standard
+649,ORD-00649,02-12-2025 00:00,CUST-1303,Riya Joshi,Kolkata,West Bengal,East,Home Appliances,Appliances,Vacuum Cleaner,8455,1,0.05,781.54,Credit Card,Standard
+650,ORD-00650,21-11-2024 00:00,CUST-1211,Sneha Rao,Delhi,Delhi,North,Technology,Electronics,Keyboard,1190,1,0.15,82.39,UPI,Express
+651,ORD-00651,08-12-2024 00:00,CUST-1069,Aadhya Patel,Lucknow,Uttar Pradesh,North,Technology,Electronics,Smartphone,62700,3,0.05,4861.62,UPI,Standard
+652,ORD-00652,02-02-2025 00:00,CUST-1250,Aadhya Mehta,Jaipur,Rajasthan,North,Technology,Electronics,Laptop,49400,1,0.05,7756.69,Cash,Standard
+653,ORD-00653,04-10-2024 00:00,CUST-1056,Kiran Singh,Bengaluru,Karnataka,South,Technology,Electronics,Keyboard,5600,4,0,1392.79,Credit Card,Express
+654,ORD-00654,21-01-2025 00:00,CUST-1041,Arjun Joshi,Bengaluru,Karnataka,South,Office Supplies,Stationery,Printer Paper,1728,4,0.1,281.85,UPI,Standard
+655,ORD-00655,24-07-2025 00:00,CUST-1309,Rahul Reddy,Kolkata,West Bengal,East,Furniture,Home & Office,Study Table,17550,3,0.1,2327.63,Cash,Standard
+656,ORD-00656,07-02-2025 00:00,CUST-1093,Rahul Verma,Delhi,Delhi,North,Technology,Electronics,Monitor,31875,3,0.15,2710.72,UPI,Standard
+657,ORD-00657,27-05-2025 00:00,CUST-1106,Ira Joshi,Bengaluru,Karnataka,South,Office Supplies,Stationery,Stapler,440,2,0,133.92,Net Banking,Standard
+658,ORD-00658,24-03-2024 00:00,CUST-1109,Aarav Kumar,Patna,Bihar,East,Technology,Electronics,Headphones,2660,1,0.05,556.3,Credit Card,Express
+659,ORD-00659,05-12-2025 00:00,CUST-1209,Aadhya Kumar,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Desk Organizer,722.5,1,0.15,92.45,UPI,Express
+660,ORD-00660,22-01-2025 00:00,CUST-1122,Priya Gupta,Pune,Maharashtra,West,Office Supplies,Stationery,Stapler,396,2,0.1,74.28,Debit Card,Standard
+661,ORD-00661,03-03-2024 00:00,CUST-1109,Vihaan Iyer,Bengaluru,Karnataka,South,Office Supplies,Stationery,Printer Paper,480,1,0,97.32,Debit Card,Standard
+662,ORD-00662,24-02-2024 00:00,CUST-1218,Ira Das,Kolkata,West Bengal,East,Technology,Electronics,Smartphone,79200,4,0.1,5363.23,Cash,Same Day
+663,ORD-00663,11-05-2025 00:00,CUST-1121,Aditya Das,Hyderabad,Telangana,South,Office Supplies,Stationery,Printer Paper,408,1,0.15,57.82,Net Banking,Standard
+664,ORD-00664,31-03-2025 00:00,CUST-1015,Riya Reddy,Lucknow,Uttar Pradesh,North,Furniture,Home & Office,Bookshelf,7800,2,0.25,53.24,Debit Card,Same Day
+665,ORD-00665,06-12-2024 00:00,CUST-1132,Ananya Joshi,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Notebook Pack,892.5,3,0.15,180.27,Credit Card,Standard
+666,ORD-00666,10-03-2025 00:00,CUST-1022,Ananya Mehta,Delhi,Delhi,North,Technology,Electronics,Keyboard,2380,2,0.15,345.38,Net Banking,Express
+667,ORD-00667,09-12-2025 00:00,CUST-1220,Diya Joshi,Lucknow,Uttar Pradesh,North,Technology,Electronics,Laptop,52000,1,0,8707.24,Debit Card,Same Day
+668,ORD-00668,04-12-2024 00:00,CUST-1047,Rahul Patel,Patna,Bihar,East,Home Appliances,Appliances,Air Fryer,19840,4,0.2,889.61,UPI,Same Day
+669,ORD-00669,30-05-2024 00:00,CUST-1160,Ananya Verma,Hyderabad,Telangana,South,Furniture,Home & Office,Office Chair,7800,1,0,1557.44,Net Banking,Standard
+670,ORD-00670,24-06-2025 00:00,CUST-1159,Kiran Nair,Hyderabad,Telangana,South,Furniture,Home & Office,Study Table,5525,1,0.15,430.66,UPI,Standard
+671,ORD-00671,13-11-2024 00:00,CUST-1191,Ananya Sharma,Delhi,Delhi,North,Furniture,Home & Office,Office Chair,29640,4,0.05,4122.45,UPI,Standard
+672,ORD-00672,21-06-2024 00:00,CUST-1223,Kiran Iyer,Kolkata,West Bengal,East,Home Appliances,Appliances,Air Fryer,12400,2,0,1784.83,Net Banking,Standard
+673,ORD-00673,02-08-2025 00:00,CUST-1048,Aarav Patel,Hyderabad,Telangana,South,Technology,Electronics,Keyboard,7000,5,0,1570.11,Net Banking,Standard
+674,ORD-00674,29-05-2025 00:00,CUST-1025,Aditya Singh,Jaipur,Rajasthan,North,Furniture,Home & Office,Sofa,91200,4,0.05,9132.21,UPI,Standard
+675,ORD-00675,16-05-2025 00:00,CUST-1085,Vivaan Reddy,Kolkata,West Bengal,East,Furniture,Home & Office,Office Chair,13260,2,0.15,527.55,Credit Card,Standard
+676,ORD-00676,08-05-2024 00:00,CUST-1023,Priya Das,Patna,Bihar,East,Furniture,Home & Office,Study Table,11050,2,0.15,941.95,UPI,Express
+677,ORD-00677,16-07-2024 00:00,CUST-1339,Rohan Singh,Bhubaneswar,Odisha,East,Furniture,Home & Office,Sofa,144000,6,0,25587.49,UPI,Standard
+678,ORD-00678,15-12-2024 00:00,CUST-1145,Priya Verma,Mumbai,Maharashtra,West,Home Appliances,Appliances,Air Fryer,16740,3,0.1,1284.56,UPI,Standard
+679,ORD-00679,31-12-2024 00:00,CUST-1120,Rohan Das,Pune,Maharashtra,West,Office Supplies,Stationery,Notebook Pack,332.5,1,0.05,79.06,UPI,Standard
+680,ORD-00680,31-08-2024 00:00,CUST-1093,Meera Patel,Jaipur,Rajasthan,North,Office Supplies,Stationery,Printer Paper,912,2,0.05,216.2,UPI,Standard
+681,ORD-00681,19-05-2025 00:00,CUST-1034,Ananya Mehta,Hyderabad,Telangana,South,Technology,Electronics,Monitor,33750,3,0.1,4509.94,UPI,Same Day
+682,ORD-00682,19-08-2025 00:00,CUST-1253,Arjun Reddy,Lucknow,Uttar Pradesh,North,Office Supplies,Stationery,Printer Paper,912,2,0.05,204.54,Credit Card,Standard
+683,ORD-00683,14-07-2024 00:00,CUST-1242,Sai Verma,Bengaluru,Karnataka,South,Home Appliances,Appliances,Mixer Grinder,6080,2,0.05,1037.32,Debit Card,Standard
+684,ORD-00684,20-06-2025 00:00,CUST-1245,Rahul Nair,Ahmedabad,Gujarat,West,Furniture,Home & Office,Office Chair,42120,6,0.1,4221.49,Credit Card,Same Day
+685,ORD-00685,19-01-2025 00:00,CUST-1131,Ananya Joshi,Lucknow,Uttar Pradesh,North,Furniture,Home & Office,Sofa,48000,2,0,5477.04,Debit Card,Standard
+686,ORD-00686,05-03-2024 00:00,CUST-1092,Arjun Reddy,Lucknow,Uttar Pradesh,North,Office Supplies,Stationery,Notebook Pack,945,3,0.1,214.91,UPI,Standard
+687,ORD-00687,15-07-2025 00:00,CUST-1276,Vivaan Das,Bengaluru,Karnataka,South,Furniture,Home & Office,Study Table,5850,1,0.1,981.24,Credit Card,Standard
+688,ORD-00688,25-12-2024 00:00,CUST-1238,Aditya Joshi,Hyderabad,Telangana,South,Technology,Electronics,Headphones,5320,2,0.05,1016.02,UPI,Express
+689,ORD-00689,08-09-2024 00:00,CUST-1087,Ananya Patel,Pune,Maharashtra,West,Office Supplies,Stationery,Stapler,198,1,0.1,46.4,Credit Card,Standard
+690,ORD-00690,29-10-2025 00:00,CUST-1052,Vihaan Iyer,Hyderabad,Telangana,South,Office Supplies,Stationery,Notebook Pack,700,2,0,231.97,Credit Card,Standard
+691,ORD-00691,02-12-2024 00:00,CUST-1287,Riya Nair,Bhubaneswar,Odisha,East,Furniture,Home & Office,Sofa,22800,1,0.05,1360.87,Debit Card,Express
+692,ORD-00692,28-12-2024 00:00,CUST-1063,Priya Reddy,Delhi,Delhi,North,Office Supplies,Stationery,Notebook Pack,297.5,1,0.15,55.81,Cash,Same Day
+693,ORD-00693,15-09-2024 00:00,CUST-1292,Sai Verma,Jaipur,Rajasthan,North,Furniture,Home & Office,Office Chair,7020,1,0.1,993.74,Net Banking,Express
+694,ORD-00694,25-08-2025 00:00,CUST-1086,Aadhya Rao,Chennai,Tamil Nadu,South,Furniture,Home & Office,Bookshelf,20800,4,0,3403.85,Credit Card,Express
+695,ORD-00695,14-05-2024 00:00,CUST-1014,Riya Singh,Bengaluru,Karnataka,South,Office Supplies,Stationery,Pen Set,162,1,0.1,46.95,UPI,Standard
+696,ORD-00696,14-10-2024 00:00,CUST-1230,Meera Kumar,Lucknow,Uttar Pradesh,North,Technology,Electronics,Monitor,37500,3,0,7302.35,Credit Card,Standard
+697,ORD-00697,28-12-2025 00:00,CUST-1177,Priya Mehta,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Desk Organizer,4037.5,5,0.05,890.62,Cash,Same Day
+698,ORD-00698,23-11-2025 00:00,CUST-1279,Diya Mishra,Patna,Bihar,East,Technology,Electronics,Laptop,176800,4,0.15,9735.01,UPI,Standard
+699,ORD-00699,08-09-2025 00:00,CUST-1253,Vivaan Iyer,Delhi,Delhi,North,Technology,Electronics,Smartphone,18700,1,0.15,1796.83,Debit Card,Standard
+700,ORD-00700,24-08-2024 00:00,CUST-1054,Ananya Rao,Bhubaneswar,Odisha,East,Home Appliances,Appliances,Vacuum Cleaner,24030,3,0.1,1347.23,Credit Card,Standard
+701,ORD-00701,19-12-2025 00:00,CUST-1303,Kiran Joshi,Hyderabad,Telangana,South,Furniture,Home & Office,Bookshelf,4680,1,0.1,375.17,Credit Card,Standard
+702,ORD-00702,19-02-2024 00:00,CUST-1336,Neha Nair,Hyderabad,Telangana,South,Furniture,Home & Office,Office Chair,14040,2,0.1,995.1,Credit Card,Standard
+703,ORD-00703,01-12-2024 00:00,CUST-1306,Diya Kumar,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Pen Set,720,5,0.2,143.18,Debit Card,Same Day
+704,ORD-00704,02-11-2024 00:00,CUST-1242,Ananya Gupta,Lucknow,Uttar Pradesh,North,Furniture,Home & Office,Bookshelf,12480,3,0.2,156.34,UPI,Standard
+705,ORD-00705,11-09-2024 00:00,CUST-1178,Rohan Das,Mumbai,Maharashtra,West,Home Appliances,Appliances,Mixer Grinder,6080,2,0.05,897.59,UPI,Express
+706,ORD-00706,20-10-2025 00:00,CUST-1072,Sai Sharma,Pune,Maharashtra,West,Furniture,Home & Office,Office Chair,13260,2,0.15,781.63,Cash,Express
+707,ORD-00707,07-09-2025 00:00,CUST-1104,Priya Rao,Mumbai,Maharashtra,West,Technology,Electronics,Smartphone,83600,4,0.05,12255.9,Net Banking,Express
+708,ORD-00708,11-11-2024 00:00,CUST-1308,Ananya Patel,Kolkata,West Bengal,East,Technology,Electronics,Laptop,52000,1,0,10521.96,UPI,Express
+709,ORD-00709,20-12-2025 00:00,CUST-1211,Aarav Das,Mumbai,Maharashtra,West,Technology,Electronics,Smartphone,56100,3,0.15,2677.33,Net Banking,Standard
+710,ORD-00710,17-08-2024 00:00,CUST-1184,Aditya Patel,Hyderabad,Telangana,South,Technology,Electronics,Laptop,44200,1,0.15,4569.6,Debit Card,Standard
+711,ORD-00711,03-11-2024 00:00,CUST-1152,Vivaan Gupta,Bengaluru,Karnataka,South,Office Supplies,Stationery,Pen Set,810,5,0.1,189.12,UPI,Express
+712,ORD-00712,24-03-2025 00:00,CUST-1185,Rohan Sharma,Lucknow,Uttar Pradesh,North,Furniture,Home & Office,Bookshelf,13260,3,0.15,474.57,UPI,Standard
+713,ORD-00713,04-04-2024 00:00,CUST-1144,Priya Singh,Ahmedabad,Gujarat,West,Technology,Electronics,Headphones,5600,2,0,1419.15,Credit Card,Standard
+714,ORD-00714,26-09-2025 00:00,CUST-1202,Kiran Joshi,Mumbai,Maharashtra,West,Home Appliances,Appliances,Mixer Grinder,5120,2,0.2,513.53,UPI,Standard
+715,ORD-00715,01-07-2024 00:00,CUST-1240,Rohan Gupta,Lucknow,Uttar Pradesh,North,Furniture,Home & Office,Office Chair,22230,3,0.05,2675.13,UPI,Express
+716,ORD-00716,20-12-2025 00:00,CUST-1254,Vihaan Mehta,Lucknow,Uttar Pradesh,North,Furniture,Home & Office,Office Chair,13260,2,0.15,636.36,Debit Card,Standard
+717,ORD-00717,31-01-2024 00:00,CUST-1088,Rahul Nair,Delhi,Delhi,North,Home Appliances,Appliances,Electric Kettle,3375,3,0.25,-47.4,Credit Card,Same Day
+718,ORD-00718,12-05-2025 00:00,CUST-1016,Diya Iyer,Delhi,Delhi,North,Technology,Electronics,Laptop,187200,4,0.1,28458.62,Debit Card,Standard
+719,ORD-00719,24-12-2025 00:00,CUST-1341,Aadhya Sharma,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Notebook Pack,1330,4,0.05,307.8,Cash,Standard
+720,ORD-00720,22-04-2025 00:00,CUST-1057,Sai Gupta,Jaipur,Rajasthan,North,Home Appliances,Appliances,Air Fryer,24800,4,0,3565.98,UPI,Standard
+721,ORD-00721,06-05-2025 00:00,CUST-1203,Neha Mishra,Bhubaneswar,Odisha,East,Furniture,Home & Office,Study Table,22100,4,0.15,1345.97,UPI,Standard
+722,ORD-00722,10-10-2025 00:00,CUST-1052,Aarav Gupta,Delhi,Delhi,North,Office Supplies,Stationery,Notebook Pack,297.5,1,0.15,55,Debit Card,Express
+723,ORD-00723,06-07-2025 00:00,CUST-1340,Aditya Iyer,Hyderabad,Telangana,South,Technology,Electronics,Laptop,104000,2,0,16534.38,Cash,Standard
+724,ORD-00724,16-07-2024 00:00,CUST-1030,Rahul Sharma,Bengaluru,Karnataka,South,Furniture,Home & Office,Office Chair,5850,1,0.25,-205.37,Credit Card,Standard
+725,ORD-00725,05-12-2024 00:00,CUST-1177,Vihaan Verma,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Notebook Pack,840,3,0.2,76.98,Credit Card,Standard
+726,ORD-00726,21-02-2024 00:00,CUST-1196,Ananya Kumar,Bhubaneswar,Odisha,East,Technology,Electronics,Laptop,148200,3,0.05,29026.64,Net Banking,Standard
+727,ORD-00727,09-08-2025 00:00,CUST-1299,Aditya Gupta,Chennai,Tamil Nadu,South,Furniture,Home & Office,Study Table,5200,1,0.2,488.06,UPI,Standard
+728,ORD-00728,21-01-2025 00:00,CUST-1242,Rahul Verma,Patna,Bihar,East,Furniture,Home & Office,Sofa,43200,2,0.1,1013.49,Debit Card,Standard
+729,ORD-00729,18-10-2025 00:00,CUST-1152,Diya Mishra,Jaipur,Rajasthan,North,Office Supplies,Stationery,Printer Paper,1296,3,0.1,233.05,Cash,Express
+730,ORD-00730,22-11-2025 00:00,CUST-1063,Aarav Mishra,Jaipur,Rajasthan,North,Office Supplies,Stationery,Printer Paper,912,2,0.05,194.35,Net Banking,Standard
+731,ORD-00731,07-05-2025 00:00,CUST-1153,Rahul Kumar,Mumbai,Maharashtra,West,Office Supplies,Stationery,Pen Set,540,4,0.25,42.61,UPI,Standard
+732,ORD-00732,29-02-2024 00:00,CUST-1041,Vivaan Reddy,Pune,Maharashtra,West,Technology,Electronics,Headphones,2800,1,0,735.05,Net Banking,Standard
+733,ORD-00733,02-02-2025 00:00,CUST-1251,Vihaan Mishra,Chennai,Tamil Nadu,South,Technology,Electronics,Keyboard,1260,1,0.1,240.71,UPI,Standard
+734,ORD-00734,12-05-2024 00:00,CUST-1094,Aarav Nair,Bhubaneswar,Odisha,East,Technology,Electronics,Laptop,197600,4,0.05,28347.16,UPI,Same Day
+735,ORD-00735,23-12-2025 00:00,CUST-1071,Riya Verma,Jaipur,Rajasthan,North,Office Supplies,Stationery,Printer Paper,1224,3,0.15,196.94,Credit Card,Express
+736,ORD-00736,25-11-2024 00:00,CUST-1246,Ira Joshi,Mumbai,Maharashtra,West,Technology,Electronics,Headphones,10080,4,0.1,1734.7,UPI,Standard
+737,ORD-00737,21-06-2025 00:00,CUST-1026,Ira Rao,Jaipur,Rajasthan,North,Technology,Electronics,Laptop,41600,1,0.2,809.41,Cash,Express
+738,ORD-00738,01-01-2025 00:00,CUST-1132,Sai Nair,Delhi,Delhi,North,Furniture,Home & Office,Sofa,54000,3,0.25,-1335.79,UPI,Express
+739,ORD-00739,26-08-2024 00:00,CUST-1090,Vivaan Patel,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Vacuum Cleaner,22695,3,0.15,1991.37,Net Banking,Standard
+740,ORD-00740,27-06-2024 00:00,CUST-1153,Sneha Verma,Mumbai,Maharashtra,West,Furniture,Home & Office,Study Table,19500,3,0,3389.23,UPI,Standard
+741,ORD-00741,04-03-2025 00:00,CUST-1208,Aarav Mishra,Jaipur,Rajasthan,North,Home Appliances,Appliances,Electric Kettle,5700,4,0.05,865.98,Net Banking,Standard
+742,ORD-00742,30-11-2024 00:00,CUST-1021,Aarav Kumar,Ahmedabad,Gujarat,West,Furniture,Home & Office,Sofa,81600,4,0.15,3670.8,UPI,Standard
+743,ORD-00743,28-12-2024 00:00,CUST-1082,Ishaan Gupta,Lucknow,Uttar Pradesh,North,Furniture,Home & Office,Sofa,54000,3,0.25,-794.92,Credit Card,Standard
+744,ORD-00744,13-11-2024 00:00,CUST-1056,Vivaan Singh,Delhi,Delhi,North,Office Supplies,Stationery,Pen Set,144,1,0.2,18.13,Debit Card,Express
+745,ORD-00745,01-04-2025 00:00,CUST-1219,Ananya Nair,Lucknow,Uttar Pradesh,North,Home Appliances,Appliances,Air Fryer,11160,2,0.1,835.3,UPI,Standard
+746,ORD-00746,22-01-2024 00:00,CUST-1097,Priya Das,Pune,Maharashtra,West,Technology,Electronics,Smartphone,59400,3,0.1,5912.61,Net Banking,Express
+747,ORD-00747,03-12-2024 00:00,CUST-1006,Sai Singh,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Mixer Grinder,8160,3,0.15,842.95,UPI,Standard
+748,ORD-00748,11-07-2025 00:00,CUST-1035,Aditya Rao,Bengaluru,Karnataka,South,Technology,Electronics,Smartphone,59400,3,0.1,2332.88,UPI,Standard
+749,ORD-00749,21-01-2024 00:00,CUST-1154,Sai Nair,Kolkata,West Bengal,East,Home Appliances,Appliances,Electric Kettle,1275,1,0.15,131.25,UPI,Standard
+750,ORD-00750,13-07-2024 00:00,CUST-1238,Ananya Gupta,Jaipur,Rajasthan,North,Home Appliances,Appliances,Vacuum Cleaner,15130,2,0.15,102.87,Net Banking,Standard
+751,ORD-00751,29-01-2024 00:00,CUST-1163,Kiran Nair,Pune,Maharashtra,West,Office Supplies,Stationery,Stapler,1188,6,0.1,233.5,Credit Card,Standard
+752,ORD-00752,01-01-2025 00:00,CUST-1135,Vivaan Das,Lucknow,Uttar Pradesh,North,Furniture,Home & Office,Office Chair,23400,3,0,4025.7,Credit Card,Express
+753,ORD-00753,05-06-2025 00:00,CUST-1132,Aditya Singh,Kolkata,West Bengal,East,Home Appliances,Appliances,Electric Kettle,2550,2,0.15,215,Credit Card,Express
+754,ORD-00754,13-12-2025 00:00,CUST-1056,Kiran Nair,Hyderabad,Telangana,South,Furniture,Home & Office,Sofa,40800,2,0.15,-465.18,Net Banking,Express
+755,ORD-00755,10-07-2025 00:00,CUST-1149,Vivaan Iyer,Delhi,Delhi,North,Home Appliances,Appliances,Air Fryer,24800,4,0,3368.46,UPI,Standard
+756,ORD-00756,17-10-2024 00:00,CUST-1067,Sneha Mishra,Hyderabad,Telangana,South,Office Supplies,Stationery,Pen Set,135,1,0.25,11.46,Credit Card,Standard
+757,ORD-00757,14-07-2025 00:00,CUST-1006,Rahul Gupta,Delhi,Delhi,North,Furniture,Home & Office,Bookshelf,18720,4,0.1,2567.85,Credit Card,Standard
+758,ORD-00758,01-08-2025 00:00,CUST-1057,Neha Verma,Patna,Bihar,East,Furniture,Home & Office,Sofa,20400,1,0.15,-15.76,Debit Card,Same Day
+759,ORD-00759,10-03-2024 00:00,CUST-1211,Kavya Patel,Lucknow,Uttar Pradesh,North,Furniture,Home & Office,Study Table,6175,1,0.05,889.54,Cash,Same Day
+760,ORD-00760,31-08-2025 00:00,CUST-1143,Vihaan Iyer,Pune,Maharashtra,West,Office Supplies,Stationery,Pen Set,171,1,0.05,53.34,UPI,Standard
+761,ORD-00761,30-08-2024 00:00,CUST-1030,Sai Das,Hyderabad,Telangana,South,Home Appliances,Appliances,Electric Kettle,2700,2,0.1,299.21,UPI,Express
+762,ORD-00762,05-05-2025 00:00,CUST-1199,Diya Das,Delhi,Delhi,North,Office Supplies,Stationery,Printer Paper,912,2,0.05,171.99,UPI,Standard
+763,ORD-00763,12-06-2025 00:00,CUST-1023,Ira Mishra,Lucknow,Uttar Pradesh,North,Technology,Electronics,Headphones,7560,3,0.1,1122.27,Cash,Standard
+764,ORD-00764,28-05-2025 00:00,CUST-1220,Rahul Patel,Mumbai,Maharashtra,West,Office Supplies,Stationery,Pen Set,513,3,0.05,127.93,UPI,Standard
+765,ORD-00765,30-08-2025 00:00,CUST-1211,Ira Rao,Patna,Bihar,East,Technology,Electronics,Headphones,13300,5,0.05,2679.78,UPI,Standard
+766,ORD-00766,17-04-2025 00:00,CUST-1283,Arjun Singh,Kolkata,West Bengal,East,Office Supplies,Stationery,Stapler,1254,6,0.05,250.53,Debit Card,Express
+767,ORD-00767,22-02-2024 00:00,CUST-1123,Riya Mehta,Lucknow,Uttar Pradesh,North,Home Appliances,Appliances,Vacuum Cleaner,25365,3,0.05,3056.91,Debit Card,Standard
+768,ORD-00768,04-12-2024 00:00,CUST-1060,Aarav Mishra,Delhi,Delhi,North,Furniture,Home & Office,Office Chair,6240,1,0.2,91.44,UPI,Express
+769,ORD-00769,30-11-2025 00:00,CUST-1226,Riya Sharma,Delhi,Delhi,North,Office Supplies,Stationery,Desk Organizer,2040,3,0.2,204.38,UPI,Express
+770,ORD-00770,16-11-2025 00:00,CUST-1209,Rohan Mehta,Ahmedabad,Gujarat,West,Furniture,Home & Office,Study Table,11050,2,0.15,583.51,Debit Card,Express
+771,ORD-00771,18-12-2025 00:00,CUST-1042,Sai Iyer,Jaipur,Rajasthan,North,Home Appliances,Appliances,Electric Kettle,3825,3,0.15,537.02,Credit Card,Standard
+772,ORD-00772,26-06-2024 00:00,CUST-1062,Rohan Das,Bhubaneswar,Odisha,East,Furniture,Home & Office,Study Table,11700,2,0.1,1484.64,Credit Card,Standard
+773,ORD-00773,17-01-2025 00:00,CUST-1271,Sai Das,Jaipur,Rajasthan,North,Office Supplies,Stationery,Desk Organizer,1615,2,0.05,342.49,UPI,Express
+774,ORD-00774,27-09-2025 00:00,CUST-1247,Ananya Mehta,Hyderabad,Telangana,South,Office Supplies,Stationery,Notebook Pack,1312.5,5,0.25,118.45,UPI,Express
+775,ORD-00775,20-05-2024 00:00,CUST-1002,Rahul Verma,Jaipur,Rajasthan,North,Technology,Electronics,Laptop,52000,1,0,9534.21,Credit Card,Express
+776,ORD-00776,21-04-2024 00:00,CUST-1137,Vivaan Verma,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Pen Set,612,4,0.15,78.37,Credit Card,Standard
+777,ORD-00777,03-01-2024 00:00,CUST-1285,Priya Reddy,Bhubaneswar,Odisha,East,Furniture,Home & Office,Sofa,24000,1,0,3328.51,Cash,Standard
+778,ORD-00778,16-10-2024 00:00,CUST-1339,Aarav Das,Lucknow,Uttar Pradesh,North,Technology,Electronics,Headphones,5600,2,0,1432.52,Cash,Same Day
+779,ORD-00779,12-08-2025 00:00,CUST-1036,Meera Singh,Pune,Maharashtra,West,Furniture,Home & Office,Bookshelf,9360,2,0.1,819.58,Net Banking,Standard
+780,ORD-00780,15-03-2025 00:00,CUST-1044,Kiran Mehta,Hyderabad,Telangana,South,Technology,Electronics,Keyboard,1260,1,0.1,145.69,Net Banking,Same Day
+781,ORD-00781,23-03-2024 00:00,CUST-1030,Vihaan Nair,Jaipur,Rajasthan,North,Technology,Electronics,Keyboard,1050,1,0.25,70.54,UPI,Standard
+782,ORD-00782,20-12-2024 00:00,CUST-1078,Vivaan Nair,Mumbai,Maharashtra,West,Home Appliances,Appliances,Electric Kettle,2700,2,0.1,372.67,Net Banking,Standard
+783,ORD-00783,20-11-2025 00:00,CUST-1060,Ananya Nair,Jaipur,Rajasthan,North,Furniture,Home & Office,Study Table,6175,1,0.05,791.86,Net Banking,Express
+784,ORD-00784,16-01-2025 00:00,CUST-1248,Arjun Joshi,Patna,Bihar,East,Furniture,Home & Office,Office Chair,22230,3,0.05,3030.1,Credit Card,Standard
+785,ORD-00785,26-11-2024 00:00,CUST-1335,Neha Patel,Patna,Bihar,East,Technology,Electronics,Smartphone,70400,4,0.2,2463.18,Debit Card,Express
+786,ORD-00786,02-05-2024 00:00,CUST-1064,Priya Joshi,Lucknow,Uttar Pradesh,North,Technology,Electronics,Laptop,93600,2,0.1,6295.45,Debit Card,Express
+787,ORD-00787,26-01-2024 00:00,CUST-1118,Kiran Kumar,Mumbai,Maharashtra,West,Furniture,Home & Office,Study Table,6500,1,0,1404.95,Credit Card,Standard
+788,ORD-00788,05-08-2025 00:00,CUST-1225,Rohan Mishra,Mumbai,Maharashtra,West,Technology,Electronics,Headphones,5320,2,0.05,1100.65,Credit Card,Express
+789,ORD-00789,15-02-2024 00:00,CUST-1314,Sai Rao,Delhi,Delhi,North,Office Supplies,Stationery,Pen Set,306,2,0.15,38.52,Credit Card,Standard
+790,ORD-00790,31-07-2024 00:00,CUST-1102,Kiran Joshi,Patna,Bihar,East,Home Appliances,Appliances,Mixer Grinder,18240,6,0.05,3406.27,UPI,Standard
+791,ORD-00791,11-11-2024 00:00,CUST-1148,Aadhya Kumar,Jaipur,Rajasthan,North,Technology,Electronics,Headphones,4760,2,0.15,605.58,Debit Card,Standard
+792,ORD-00792,15-03-2025 00:00,CUST-1268,Aditya Iyer,Ahmedabad,Gujarat,West,Office Supplies,Stationery,Printer Paper,384,1,0.2,64.68,Debit Card,Express
+793,ORD-00793,11-08-2024 00:00,CUST-1258,Aditya Mehta,Jaipur,Rajasthan,North,Furniture,Home & Office,Office Chair,42120,6,0.1,4688.14,Net Banking,Same Day
+794,ORD-00794,25-11-2024 00:00,CUST-1206,Aarav Mishra,Hyderabad,Telangana,South,Technology,Electronics,Headphones,5040,2,0.1,706.57,Credit Card,Express
+795,ORD-00795,25-04-2025 00:00,CUST-1008,Vihaan Rao,Hyderabad,Telangana,South,Furniture,Home & Office,Study Table,11700,2,0.1,1697.21,UPI,Standard
+796,ORD-00796,20-09-2024 00:00,CUST-1323,Ananya Rao,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Vacuum Cleaner,16910,2,0.05,1436.91,UPI,Standard
+797,ORD-00797,28-01-2024 00:00,CUST-1114,Aadhya Kumar,Pune,Maharashtra,West,Technology,Electronics,Monitor,10625,1,0.15,873.03,Credit Card,Standard
+798,ORD-00798,11-10-2024 00:00,CUST-1046,Vivaan Nair,Kolkata,West Bengal,East,Home Appliances,Appliances,Air Fryer,21080,4,0.15,568.96,UPI,Standard
+799,ORD-00799,28-01-2025 00:00,CUST-1141,Ananya Singh,Patna,Bihar,East,Office Supplies,Stationery,Stapler,440,2,0,116.82,Credit Card,Express
+800,ORD-00800,18-11-2025 00:00,CUST-1286,Rohan Kumar,Jaipur,Rajasthan,North,Office Supplies,Stationery,Pen Set,153,1,0.15,16.45,UPI,Standard
+801,ORD-00801,18-11-2024 00:00,CUST-1048,Arjun Iyer,Hyderabad,Telangana,South,Furniture,Home & Office,Sofa,72000,3,0,9852.99,UPI,Same Day
+802,ORD-00802,01-12-2025 00:00,CUST-1069,Sneha Nair,Mumbai,Maharashtra,West,Technology,Electronics,Monitor,22500,2,0.1,2556.93,Debit Card,Standard
+803,ORD-00803,30-09-2024 00:00,CUST-1102,Ira Mishra,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Notebook Pack,892.5,3,0.15,174.39,Net Banking,Standard
+804,ORD-00804,10-09-2025 00:00,CUST-1188,Meera Das,Kolkata,West Bengal,East,Office Supplies,Stationery,Desk Organizer,1360,2,0.2,80.28,UPI,Standard
+805,ORD-00805,14-10-2024 00:00,CUST-1018,Arjun Sharma,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Printer Paper,1632,4,0.15,267.16,Credit Card,Standard
+806,ORD-00806,08-12-2025 00:00,CUST-1320,Ishaan Sharma,Mumbai,Maharashtra,West,Office Supplies,Stationery,Printer Paper,768,2,0.2,70.91,UPI,Express
+807,ORD-00807,18-06-2024 00:00,CUST-1230,Vivaan Reddy,Kolkata,West Bengal,East,Furniture,Home & Office,Study Table,16575,3,0.15,1595.26,UPI,Standard
+808,ORD-00808,17-04-2024 00:00,CUST-1280,Vihaan Nair,Patna,Bihar,East,Home Appliances,Appliances,Electric Kettle,1350,1,0.1,219.72,UPI,Express
+809,ORD-00809,04-08-2025 00:00,CUST-1345,Ananya Rao,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Desk Organizer,2550,3,0,701.71,Credit Card,Express
+810,ORD-00810,24-03-2024 00:00,CUST-1186,Rahul Reddy,Bhubaneswar,Odisha,East,Furniture,Home & Office,Study Table,13000,2,0,2295.09,Credit Card,Standard
+811,ORD-00811,11-02-2025 00:00,CUST-1217,Aarav Mishra,Mumbai,Maharashtra,West,Furniture,Home & Office,Bookshelf,10400,2,0,2520.4,Credit Card,Standard
+812,ORD-00812,28-05-2024 00:00,CUST-1138,Vihaan Mishra,Bengaluru,Karnataka,South,Technology,Electronics,Keyboard,5950,5,0.15,750.65,Credit Card,Standard
+813,ORD-00813,08-04-2025 00:00,CUST-1310,Rohan Verma,Ahmedabad,Gujarat,West,Technology,Electronics,Laptop,88400,2,0.15,6833.28,Debit Card,Standard
+814,ORD-00814,23-01-2024 00:00,CUST-1192,Ananya Iyer,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Mixer Grinder,2560,1,0.2,141.68,Credit Card,Standard
+815,ORD-00815,20-06-2025 00:00,CUST-1046,Meera Singh,Ahmedabad,Gujarat,West,Technology,Electronics,Smartphone,22000,1,0,4369.23,Credit Card,Standard
+816,ORD-00816,26-08-2025 00:00,CUST-1097,Ira Verma,Lucknow,Uttar Pradesh,North,Technology,Electronics,Laptop,140400,3,0.1,16048.65,Net Banking,Standard
+817,ORD-00817,16-04-2024 00:00,CUST-1275,Aarav Joshi,Chennai,Tamil Nadu,South,Technology,Electronics,Headphones,11200,5,0.2,1359.59,Credit Card,Express
+818,ORD-00818,05-08-2024 00:00,CUST-1028,Priya Iyer,Delhi,Delhi,North,Technology,Electronics,Laptop,234000,5,0.1,29594.83,UPI,Same Day
+819,ORD-00819,30-05-2024 00:00,CUST-1277,Aadhya Kumar,Bengaluru,Karnataka,South,Technology,Electronics,Smartphone,44000,2,0,6709.87,UPI,Standard
+820,ORD-00820,07-04-2024 00:00,CUST-1300,Riya Mishra,Hyderabad,Telangana,South,Office Supplies,Stationery,Stapler,792,4,0.1,139.49,Debit Card,Standard
+821,ORD-00821,16-09-2024 00:00,CUST-1181,Ira Singh,Mumbai,Maharashtra,West,Furniture,Home & Office,Bookshelf,10400,2,0,1335.7,Credit Card,Standard
+822,ORD-00822,14-08-2025 00:00,CUST-1034,Diya Patel,Kolkata,West Bengal,East,Office Supplies,Stationery,Desk Organizer,2167.5,3,0.15,392.89,Net Banking,Standard
+823,ORD-00823,01-06-2024 00:00,CUST-1070,Aadhya Patel,Chennai,Tamil Nadu,South,Technology,Electronics,Keyboard,1260,1,0.1,151.15,Cash,Standard
+824,ORD-00824,13-08-2024 00:00,CUST-1292,Neha Sharma,Jaipur,Rajasthan,North,Home Appliances,Appliances,Vacuum Cleaner,22695,3,0.15,668.81,Credit Card,Standard
+825,ORD-00825,13-12-2024 00:00,CUST-1321,Ira Patel,Pune,Maharashtra,West,Technology,Electronics,Keyboard,4760,4,0.15,667.75,UPI,Express
+826,ORD-00826,06-07-2025 00:00,CUST-1166,Sai Nair,Jaipur,Rajasthan,North,Furniture,Home & Office,Bookshelf,9880,2,0.05,1341.63,Credit Card,Same Day
+827,ORD-00827,26-07-2024 00:00,CUST-1283,Vihaan Singh,Delhi,Delhi,North,Office Supplies,Stationery,Desk Organizer,722.5,1,0.15,96.45,UPI,Same Day
+828,ORD-00828,22-02-2025 00:00,CUST-1075,Ishaan Patel,Patna,Bihar,East,Technology,Electronics,Monitor,10625,1,0.15,1386.52,Net Banking,Standard
+829,ORD-00829,18-08-2025 00:00,CUST-1183,Ananya Verma,Ahmedabad,Gujarat,West,Furniture,Home & Office,Study Table,12350,2,0.05,1832.46,Credit Card,Same Day
+830,ORD-00830,17-01-2024 00:00,CUST-1103,Aadhya Patel,Delhi,Delhi,North,Office Supplies,Stationery,Printer Paper,1824,4,0.05,388.3,UPI,Same Day
+831,ORD-00831,21-11-2024 00:00,CUST-1038,Ira Das,Patna,Bihar,East,Office Supplies,Stationery,Notebook Pack,1190,4,0.15,253.15,Debit Card,Standard
+832,ORD-00832,24-02-2024 00:00,CUST-1066,Ananya Mishra,Delhi,Delhi,North,Office Supplies,Stationery,Pen Set,324,2,0.1,48.27,Net Banking,Express
+833,ORD-00833,23-01-2024 00:00,CUST-1191,Rahul Das,Jaipur,Rajasthan,North,Office Supplies,Stationery,Desk Organizer,722.5,1,0.15,130.53,Net Banking,Express
+834,ORD-00834,26-10-2025 00:00,CUST-1021,Sai Patel,Pune,Maharashtra,West,Technology,Electronics,Headphones,5040,2,0.1,785.61,UPI,Express
+835,ORD-00835,18-05-2025 00:00,CUST-1061,Meera Sharma,Kolkata,West Bengal,East,Furniture,Home & Office,Sofa,24000,1,0,2910.54,UPI,Same Day
+836,ORD-00836,24-03-2025 00:00,CUST-1046,Arjun Rao,Delhi,Delhi,North,Office Supplies,Stationery,Notebook Pack,280,1,0.2,39.55,Cash,Standard
+837,ORD-00837,21-10-2025 00:00,CUST-1020,Kavya Rao,Mumbai,Maharashtra,West,Furniture,Home & Office,Study Table,6500,1,0,1247.85,UPI,Standard
+838,ORD-00838,08-04-2025 00:00,CUST-1105,Neha Verma,Lucknow,Uttar Pradesh,North,Home Appliances,Appliances,Mixer Grinder,5120,2,0.2,158.08,UPI,Standard
+839,ORD-00839,08-02-2024 00:00,CUST-1310,Diya Mishra,Ahmedabad,Gujarat,West,Technology,Electronics,Headphones,2380,1,0.15,288.35,Debit Card,Same Day
+840,ORD-00840,19-03-2025 00:00,CUST-1004,Ira Sharma,Bengaluru,Karnataka,South,Furniture,Home & Office,Office Chair,37440,6,0.2,276,UPI,Standard
+841,ORD-00841,13-05-2025 00:00,CUST-1277,Riya Mishra,Bhubaneswar,Odisha,East,Technology,Electronics,Headphones,5320,2,0.05,1109.77,Credit Card,Standard
+842,ORD-00842,29-01-2024 00:00,CUST-1288,Meera Iyer,Pune,Maharashtra,West,Home Appliances,Appliances,Vacuum Cleaner,32040,4,0.1,2371.7,Debit Card,Standard
+843,ORD-00843,21-10-2024 00:00,CUST-1345,Aarav Mishra,Jaipur,Rajasthan,North,Home Appliances,Appliances,Mixer Grinder,5760,2,0.1,579.76,Debit Card,Standard
+844,ORD-00844,16-10-2024 00:00,CUST-1269,Sai Nair,Mumbai,Maharashtra,West,Home Appliances,Appliances,Electric Kettle,3825,3,0.15,358.51,Net Banking,Standard
+845,ORD-00845,06-01-2025 00:00,CUST-1296,Meera Reddy,Lucknow,Uttar Pradesh,North,Office Supplies,Stationery,Stapler,374,2,0.15,71.38,Credit Card,Standard
+846,ORD-00846,02-05-2024 00:00,CUST-1018,Rohan Verma,Patna,Bihar,East,Home Appliances,Appliances,Vacuum Cleaner,32040,4,0.1,3051.12,Credit Card,Standard
+847,ORD-00847,01-06-2025 00:00,CUST-1333,Ira Verma,Bengaluru,Karnataka,South,Furniture,Home & Office,Sofa,45600,2,0.05,3913.97,UPI,Express
+848,ORD-00848,20-06-2025 00:00,CUST-1023,Meera Joshi,Lucknow,Uttar Pradesh,North,Technology,Electronics,Keyboard,2660,2,0.05,436.3,UPI,Standard
+849,ORD-00849,14-12-2025 00:00,CUST-1267,Diya Das,Bengaluru,Karnataka,South,Technology,Electronics,Smartphone,74800,4,0.15,4593.48,Credit Card,Same Day
+850,ORD-00850,22-10-2025 00:00,CUST-1051,Diya Singh,Jaipur,Rajasthan,North,Home Appliances,Appliances,Electric Kettle,2550,2,0.15,321.37,Credit Card,Same Day
+851,ORD-00851,04-07-2024 00:00,CUST-1141,Kavya Mishra,Hyderabad,Telangana,South,Home Appliances,Appliances,Air Fryer,11160,2,0.1,824.26,Net Banking,Same Day
+852,ORD-00852,06-10-2024 00:00,CUST-1159,Ira Gupta,Patna,Bihar,East,Office Supplies,Stationery,Pen Set,720,4,0,206.76,Debit Card,Standard
+853,ORD-00853,23-10-2024 00:00,CUST-1149,Sai Singh,Pune,Maharashtra,West,Technology,Electronics,Laptop,98800,2,0.05,9687.44,UPI,Express
+854,ORD-00854,04-06-2024 00:00,CUST-1057,Aarav Nair,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Stapler,396,2,0.1,77.08,Credit Card,Standard
+855,ORD-00855,29-04-2025 00:00,CUST-1234,Sai Kumar,Ahmedabad,Gujarat,West,Furniture,Home & Office,Study Table,11050,2,0.15,761.09,UPI,Standard
+856,ORD-00856,20-01-2024 00:00,CUST-1270,Sai Sharma,Delhi,Delhi,North,Office Supplies,Stationery,Desk Organizer,1615,2,0.05,424.44,Credit Card,Express
+857,ORD-00857,24-11-2025 00:00,CUST-1094,Neha Gupta,Pune,Maharashtra,West,Technology,Electronics,Smartphone,66000,3,0,9895.73,UPI,Standard
+858,ORD-00858,21-02-2024 00:00,CUST-1259,Priya Das,Kolkata,West Bengal,East,Furniture,Home & Office,Bookshelf,10400,2,0,1842.1,Credit Card,Express
+859,ORD-00859,24-04-2025 00:00,CUST-1204,Kavya Joshi,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Desk Organizer,1445,2,0.15,234.59,Net Banking,Standard
+860,ORD-00860,22-05-2024 00:00,CUST-1149,Sai Iyer,Bhubaneswar,Odisha,East,Home Appliances,Appliances,Vacuum Cleaner,44500,5,0,6846.76,Credit Card,Standard
+861,ORD-00861,20-06-2025 00:00,CUST-1099,Aditya Nair,Patna,Bihar,East,Technology,Electronics,Monitor,37500,3,0,8760.38,Cash,Express
+862,ORD-00862,17-11-2024 00:00,CUST-1031,Diya Patel,Bengaluru,Karnataka,South,Technology,Electronics,Monitor,53125,5,0.15,3595.85,Net Banking,Standard
+863,ORD-00863,19-01-2025 00:00,CUST-1104,Neha Mishra,Lucknow,Uttar Pradesh,North,Office Supplies,Stationery,Printer Paper,912,2,0.05,194.85,Debit Card,Express
+864,ORD-00864,12-05-2025 00:00,CUST-1250,Neha Singh,Delhi,Delhi,North,Technology,Electronics,Smartphone,44000,2,0,7861.34,Debit Card,Standard
+865,ORD-00865,10-10-2025 00:00,CUST-1095,Meera Gupta,Bhubaneswar,Odisha,East,Furniture,Home & Office,Office Chair,6630,1,0.15,154.98,UPI,Express
+866,ORD-00866,15-01-2025 00:00,CUST-1331,Meera Rao,Kolkata,West Bengal,East,Furniture,Home & Office,Study Table,6500,1,0,1288.51,UPI,Standard
+867,ORD-00867,01-02-2025 00:00,CUST-1231,Riya Singh,Mumbai,Maharashtra,West,Furniture,Home & Office,Study Table,35100,6,0.1,3807.03,UPI,Standard
+868,ORD-00868,19-02-2025 00:00,CUST-1277,Vihaan Mishra,Patna,Bihar,East,Technology,Electronics,Headphones,2380,1,0.15,365.29,Debit Card,Standard
+869,ORD-00869,27-10-2024 00:00,CUST-1119,Ishaan Iyer,Lucknow,Uttar Pradesh,North,Office Supplies,Stationery,Pen Set,153,1,0.15,-0.64,Net Banking,Standard
+870,ORD-00870,06-06-2025 00:00,CUST-1038,Aadhya Kumar,Bengaluru,Karnataka,South,Office Supplies,Stationery,Desk Organizer,765,1,0.1,148.23,Debit Card,Standard
+871,ORD-00871,13-05-2025 00:00,CUST-1170,Sai Kumar,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Stapler,187,1,0.15,39.56,Net Banking,Express
+872,ORD-00872,03-07-2025 00:00,CUST-1045,Ishaan Sharma,Jaipur,Rajasthan,North,Technology,Electronics,Monitor,21250,2,0.15,1273.65,UPI,Standard
+873,ORD-00873,15-05-2025 00:00,CUST-1016,Sneha Reddy,Lucknow,Uttar Pradesh,North,Technology,Electronics,Headphones,2800,1,0,619.77,Debit Card,Express
+874,ORD-00874,28-01-2024 00:00,CUST-1096,Vivaan Sharma,Patna,Bihar,East,Home Appliances,Appliances,Mixer Grinder,3040,1,0.05,494.15,UPI,Standard
+875,ORD-00875,21-09-2024 00:00,CUST-1231,Meera Patel,Hyderabad,Telangana,South,Office Supplies,Stationery,Pen Set,288,2,0.2,20.72,Credit Card,Express
+876,ORD-00876,05-12-2024 00:00,CUST-1336,Rahul Mishra,Jaipur,Rajasthan,North,Technology,Electronics,Monitor,23750,2,0.05,4507.4,Debit Card,Same Day
+877,ORD-00877,15-09-2024 00:00,CUST-1291,Vihaan Reddy,Hyderabad,Telangana,South,Office Supplies,Stationery,Stapler,418,2,0.05,84.16,Credit Card,Express
+878,ORD-00878,03-11-2025 00:00,CUST-1310,Kavya Rao,Bhubaneswar,Odisha,East,Home Appliances,Appliances,Air Fryer,4960,1,0.2,-104.69,Credit Card,Express
+879,ORD-00879,18-11-2025 00:00,CUST-1068,Arjun Rao,Delhi,Delhi,North,Home Appliances,Appliances,Mixer Grinder,2880,1,0.1,309.19,UPI,Standard
+880,ORD-00880,25-07-2025 00:00,CUST-1219,Aarav Kumar,Bengaluru,Karnataka,South,Technology,Electronics,Smartphone,41800,2,0.05,5833.5,Debit Card,Standard
+881,ORD-00881,16-06-2025 00:00,CUST-1180,Aarav Nair,Pune,Maharashtra,West,Office Supplies,Stationery,Printer Paper,1368,3,0.05,303.4,UPI,Same Day
+882,ORD-00882,08-12-2025 00:00,CUST-1311,Ananya Nair,Jaipur,Rajasthan,North,Office Supplies,Stationery,Printer Paper,384,1,0.2,45.5,UPI,Standard
+883,ORD-00883,21-08-2024 00:00,CUST-1091,Aditya Joshi,Patna,Bihar,East,Technology,Electronics,Smartphone,56100,3,0.15,2578.3,Credit Card,Express
+884,ORD-00884,17-08-2025 00:00,CUST-1223,Arjun Mehta,Chennai,Tamil Nadu,South,Technology,Electronics,Smartphone,19800,1,0.1,1648.48,Net Banking,Express
+885,ORD-00885,07-01-2025 00:00,CUST-1156,Ananya Mishra,Patna,Bihar,East,Home Appliances,Appliances,Electric Kettle,2400,2,0.2,131.07,Debit Card,Standard
+886,ORD-00886,18-08-2025 00:00,CUST-1234,Sai Reddy,Patna,Bihar,East,Home Appliances,Appliances,Vacuum Cleaner,32040,4,0.1,1459.07,Net Banking,Standard
+887,ORD-00887,28-03-2024 00:00,CUST-1168,Aarav Verma,Pune,Maharashtra,West,Technology,Electronics,Keyboard,1050,1,0.25,8.91,UPI,Standard
+888,ORD-00888,07-08-2025 00:00,CUST-1191,Ishaan Mishra,Kolkata,West Bengal,East,Office Supplies,Stationery,Pen Set,576,4,0.2,50.25,Debit Card,Express
+889,ORD-00889,14-03-2024 00:00,CUST-1085,Kavya Singh,Pune,Maharashtra,West,Technology,Electronics,Keyboard,3570,3,0.15,305.05,UPI,Standard
+890,ORD-00890,21-07-2024 00:00,CUST-1086,Ishaan Mishra,Patna,Bihar,East,Furniture,Home & Office,Study Table,11700,2,0.1,1542.24,Credit Card,Standard
+891,ORD-00891,19-05-2025 00:00,CUST-1112,Aarav Gupta,Pune,Maharashtra,West,Office Supplies,Stationery,Stapler,176,1,0.2,20.27,UPI,Express
+892,ORD-00892,18-02-2025 00:00,CUST-1295,Meera Mehta,Hyderabad,Telangana,South,Furniture,Home & Office,Bookshelf,8320,2,0.2,392.12,Cash,Standard
+893,ORD-00893,26-12-2024 00:00,CUST-1263,Aarav Singh,Lucknow,Uttar Pradesh,North,Furniture,Home & Office,Study Table,27625,5,0.15,1504.59,Credit Card,Standard
+894,ORD-00894,12-10-2025 00:00,CUST-1227,Diya Mishra,Lucknow,Uttar Pradesh,North,Home Appliances,Appliances,Mixer Grinder,2880,1,0.1,306.76,UPI,Standard
+895,ORD-00895,20-11-2024 00:00,CUST-1344,Ananya Gupta,Pune,Maharashtra,West,Technology,Electronics,Smartphone,39600,2,0.1,2680.18,Cash,Standard
+896,ORD-00896,03-07-2025 00:00,CUST-1343,Ishaan Reddy,Bengaluru,Karnataka,South,Technology,Electronics,Keyboard,7980,6,0.05,1192.09,Credit Card,Standard
+897,ORD-00897,28-01-2025 00:00,CUST-1061,Ira Sharma,Kolkata,West Bengal,East,Home Appliances,Appliances,Mixer Grinder,6400,2,0,940.46,UPI,Same Day
+898,ORD-00898,17-11-2024 00:00,CUST-1028,Rahul Patel,Bengaluru,Karnataka,South,Home Appliances,Appliances,Electric Kettle,2700,2,0.1,422.64,UPI,Express
+899,ORD-00899,27-01-2024 00:00,CUST-1010,Ananya Singh,Lucknow,Uttar Pradesh,North,Office Supplies,Stationery,Pen Set,144,1,0.2,11.48,UPI,Standard
+900,ORD-00900,24-10-2025 00:00,CUST-1045,Arjun Nair,Patna,Bihar,East,Office Supplies,Stationery,Stapler,990,5,0.1,154.57,Debit Card,Standard
+901,ORD-00901,20-11-2025 00:00,CUST-1069,Rahul Rao,Delhi,Delhi,North,Office Supplies,Stationery,Stapler,1045,5,0.05,267.99,Credit Card,Standard
+902,ORD-00902,08-11-2025 00:00,CUST-1281,Ishaan Das,Jaipur,Rajasthan,North,Home Appliances,Appliances,Mixer Grinder,12160,4,0.05,1911.74,UPI,Express
+903,ORD-00903,17-08-2024 00:00,CUST-1091,Riya Singh,Mumbai,Maharashtra,West,Technology,Electronics,Smartphone,20900,1,0.05,1845.56,UPI,Standard
+904,ORD-00904,10-04-2024 00:00,CUST-1180,Arjun Singh,Kolkata,West Bengal,East,Technology,Electronics,Keyboard,2520,2,0.1,360.48,Cash,Express
+905,ORD-00905,06-04-2025 00:00,CUST-1121,Ishaan Kumar,Hyderabad,Telangana,South,Technology,Electronics,Smartphone,39600,2,0.1,2672.81,Credit Card,Express
+906,ORD-00906,29-07-2025 00:00,CUST-1071,Arjun Singh,Lucknow,Uttar Pradesh,North,Home Appliances,Appliances,Vacuum Cleaner,13350,2,0.25,-738.12,Credit Card,Standard
+907,ORD-00907,07-12-2025 00:00,CUST-1201,Sneha Mehta,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Printer Paper,864,2,0.1,152.22,Credit Card,Standard
+908,ORD-00908,25-01-2025 00:00,CUST-1131,Vihaan Rao,Pune,Maharashtra,West,Home Appliances,Appliances,Vacuum Cleaner,16020,2,0.1,855.17,Net Banking,Standard
+909,ORD-00909,03-04-2025 00:00,CUST-1182,Rohan Patel,Patna,Bihar,East,Home Appliances,Appliances,Mixer Grinder,9120,3,0.05,1590.49,UPI,Same Day
+910,ORD-00910,10-09-2025 00:00,CUST-1106,Kiran Singh,Mumbai,Maharashtra,West,Office Supplies,Stationery,Stapler,396,2,0.1,61.44,Cash,Standard
+911,ORD-00911,09-04-2024 00:00,CUST-1213,Vihaan Singh,Patna,Bihar,East,Office Supplies,Stationery,Stapler,220,1,0,74.39,Credit Card,Express
+912,ORD-00912,23-11-2025 00:00,CUST-1115,Kiran Rao,Mumbai,Maharashtra,West,Office Supplies,Stationery,Printer Paper,2280,5,0.05,495.44,UPI,Same Day
+913,ORD-00913,14-11-2024 00:00,CUST-1074,Aarav Reddy,Jaipur,Rajasthan,North,Technology,Electronics,Keyboard,6300,5,0.1,975.98,Cash,Standard
+914,ORD-00914,22-02-2025 00:00,CUST-1021,Aarav Mishra,Lucknow,Uttar Pradesh,North,Furniture,Home & Office,Sofa,90000,5,0.25,-6697.82,UPI,Standard
+915,ORD-00915,30-07-2025 00:00,CUST-1019,Riya Joshi,Bengaluru,Karnataka,South,Furniture,Home & Office,Office Chair,15600,2,0,2405.38,Debit Card,Standard
+916,ORD-00916,26-01-2025 00:00,CUST-1266,Rahul Joshi,Kolkata,West Bengal,East,Technology,Electronics,Monitor,23750,2,0.05,4217.94,Cash,Express
+917,ORD-00917,28-02-2025 00:00,CUST-1069,Ananya Patel,Patna,Bihar,East,Home Appliances,Appliances,Vacuum Cleaner,25365,3,0.05,1761.59,Cash,Express
+918,ORD-00918,15-10-2025 00:00,CUST-1148,Priya Gupta,Mumbai,Maharashtra,West,Furniture,Home & Office,Sofa,57600,3,0.2,-2231.65,Credit Card,Standard
+919,ORD-00919,21-03-2024 00:00,CUST-1059,Ira Kumar,Delhi,Delhi,North,Technology,Electronics,Monitor,20000,2,0.2,1727.5,Debit Card,Same Day
+920,ORD-00920,20-03-2024 00:00,CUST-1241,Rohan Sharma,Ahmedabad,Gujarat,West,Technology,Electronics,Keyboard,2380,2,0.15,234.75,UPI,Express
+921,ORD-00921,17-04-2024 00:00,CUST-1163,Diya Rao,Pune,Maharashtra,West,Technology,Electronics,Keyboard,4200,3,0,998.81,UPI,Same Day
+922,ORD-00922,25-08-2025 00:00,CUST-1011,Ananya Verma,Bhubaneswar,Odisha,East,Technology,Electronics,Smartphone,41800,2,0.05,4693.8,Net Banking,Standard
+923,ORD-00923,14-07-2025 00:00,CUST-1191,Rahul Patel,Ahmedabad,Gujarat,West,Technology,Electronics,Laptop,41600,1,0.2,2912.75,Debit Card,Standard
+924,ORD-00924,22-04-2025 00:00,CUST-1068,Vihaan Patel,Kolkata,West Bengal,East,Furniture,Home & Office,Study Table,19500,3,0,3236.17,Debit Card,Express
+925,ORD-00925,26-09-2024 00:00,CUST-1257,Rohan Iyer,Chennai,Tamil Nadu,South,Furniture,Home & Office,Study Table,5850,1,0.1,760.07,Net Banking,Standard
+926,ORD-00926,10-08-2024 00:00,CUST-1009,Ira Joshi,Jaipur,Rajasthan,North,Technology,Electronics,Laptop,41600,1,0.2,1313.58,UPI,Standard
+927,ORD-00927,13-04-2025 00:00,CUST-1041,Ira Verma,Kolkata,West Bengal,East,Office Supplies,Stationery,Stapler,880,4,0,233.24,Credit Card,Standard
+928,ORD-00928,04-10-2024 00:00,CUST-1042,Ishaan Nair,Delhi,Delhi,North,Home Appliances,Appliances,Vacuum Cleaner,25365,3,0.05,1774.24,Credit Card,Standard
+929,ORD-00929,09-10-2025 00:00,CUST-1202,Ananya Nair,Pune,Maharashtra,West,Office Supplies,Stationery,Pen Set,432,3,0.2,65.67,Credit Card,Standard
+930,ORD-00930,13-07-2024 00:00,CUST-1061,Kavya Gupta,Chennai,Tamil Nadu,South,Technology,Electronics,Keyboard,2100,2,0.25,176.3,Credit Card,Express
+931,ORD-00931,24-03-2024 00:00,CUST-1246,Ira Mehta,Ahmedabad,Gujarat,West,Furniture,Home & Office,Office Chair,7020,1,0.1,577.2,Cash,Express
+932,ORD-00932,10-11-2024 00:00,CUST-1206,Sai Patel,Delhi,Delhi,North,Technology,Electronics,Monitor,40000,4,0.2,3519.69,Debit Card,Express
+933,ORD-00933,14-05-2025 00:00,CUST-1176,Sai Joshi,Lucknow,Uttar Pradesh,North,Office Supplies,Stationery,Notebook Pack,997.5,3,0.05,218.33,Cash,Express
+934,ORD-00934,11-05-2024 00:00,CUST-1099,Aditya Iyer,Pune,Maharashtra,West,Technology,Electronics,Smartphone,74800,4,0.15,2199.62,Credit Card,Express
+935,ORD-00935,13-02-2025 00:00,CUST-1208,Diya Rao,Hyderabad,Telangana,South,Home Appliances,Appliances,Air Fryer,6200,1,0,914.89,Debit Card,Express
+936,ORD-00936,23-07-2024 00:00,CUST-1329,Aarav Iyer,Ahmedabad,Gujarat,West,Office Supplies,Stationery,Pen Set,153,1,0.15,17.59,Credit Card,Express
+937,ORD-00937,19-07-2025 00:00,CUST-1239,Kavya Reddy,Bengaluru,Karnataka,South,Furniture,Home & Office,Bookshelf,4420,1,0.15,104.22,UPI,Same Day
+938,ORD-00938,02-01-2025 00:00,CUST-1334,Aarav Verma,Hyderabad,Telangana,South,Technology,Electronics,Smartphone,74800,4,0.15,4962.47,Debit Card,Express
+939,ORD-00939,15-09-2024 00:00,CUST-1177,Rahul Nair,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Pen Set,324,2,0.1,76.46,Credit Card,Express
+940,ORD-00940,14-08-2025 00:00,CUST-1100,Vivaan Kumar,Pune,Maharashtra,West,Technology,Electronics,Laptop,44200,1,0.15,4432.09,Net Banking,Standard
+941,ORD-00941,29-08-2025 00:00,CUST-1193,Rahul Sharma,Hyderabad,Telangana,South,Office Supplies,Stationery,Desk Organizer,2040,3,0.2,227.47,Debit Card,Express
+942,ORD-00942,05-09-2024 00:00,CUST-1142,Aarav Patel,Hyderabad,Telangana,South,Home Appliances,Appliances,Vacuum Cleaner,32040,4,0.1,1843.84,Net Banking,Standard
+943,ORD-00943,21-09-2024 00:00,CUST-1273,Ishaan Kumar,Bengaluru,Karnataka,South,Technology,Electronics,Headphones,2520,1,0.1,385.65,Credit Card,Standard
+944,ORD-00944,28-06-2024 00:00,CUST-1101,Kavya Nair,Patna,Bihar,East,Home Appliances,Appliances,Electric Kettle,2700,2,0.1,285.24,Credit Card,Same Day
+945,ORD-00945,17-06-2024 00:00,CUST-1037,Aadhya Nair,Chennai,Tamil Nadu,South,Furniture,Home & Office,Office Chair,22230,3,0.05,3272.56,UPI,Express
+946,ORD-00946,28-01-2024 00:00,CUST-1263,Rohan Patel,Kolkata,West Bengal,East,Office Supplies,Stationery,Stapler,187,1,0.15,32.67,Cash,Express
+947,ORD-00947,07-04-2025 00:00,CUST-1333,Kavya Sharma,Hyderabad,Telangana,South,Technology,Electronics,Smartphone,20900,1,0.05,3201.12,UPI,Same Day
+948,ORD-00948,09-09-2025 00:00,CUST-1262,Ishaan Singh,Pune,Maharashtra,West,Furniture,Home & Office,Sofa,40800,2,0.15,1861.58,Debit Card,Express
+949,ORD-00949,21-02-2025 00:00,CUST-1051,Rohan Verma,Lucknow,Uttar Pradesh,North,Office Supplies,Stationery,Stapler,561,3,0.15,80.26,UPI,Standard
+950,ORD-00950,27-11-2025 00:00,CUST-1146,Kiran Rao,Bhubaneswar,Odisha,East,Technology,Electronics,Keyboard,2240,2,0.2,219.16,Debit Card,Express
+951,ORD-00951,10-06-2025 00:00,CUST-1141,Riya Kumar,Patna,Bihar,East,Office Supplies,Stationery,Pen Set,810,5,0.1,175.13,Debit Card,Standard
+952,ORD-00952,28-11-2024 00:00,CUST-1188,Aadhya Reddy,Jaipur,Rajasthan,North,Furniture,Home & Office,Study Table,5200,1,0.2,-15.59,Credit Card,Standard
+953,ORD-00953,03-12-2025 00:00,CUST-1016,Ishaan Mehta,Jaipur,Rajasthan,North,Furniture,Home & Office,Bookshelf,18720,4,0.1,2268.76,Debit Card,Express
+954,ORD-00954,25-04-2025 00:00,CUST-1188,Aadhya Rao,Ahmedabad,Gujarat,West,Furniture,Home & Office,Sofa,22800,1,0.05,1491.28,Credit Card,Standard
+955,ORD-00955,26-01-2024 00:00,CUST-1057,Neha Sharma,Lucknow,Uttar Pradesh,North,Technology,Electronics,Headphones,2380,1,0.15,320.7,UPI,Express
+956,ORD-00956,08-07-2025 00:00,CUST-1063,Aditya Patel,Delhi,Delhi,North,Office Supplies,Stationery,Stapler,528,3,0.2,62.53,Debit Card,Standard
+957,ORD-00957,21-08-2025 00:00,CUST-1317,Ishaan Das,Bengaluru,Karnataka,South,Technology,Electronics,Monitor,20000,2,0.2,1092.89,UPI,Express
+958,ORD-00958,03-12-2024 00:00,CUST-1092,Aditya Kumar,Chennai,Tamil Nadu,South,Furniture,Home & Office,Bookshelf,9360,2,0.1,783.2,Cash,Standard
+959,ORD-00959,19-05-2024 00:00,CUST-1133,Aarav Rao,Mumbai,Maharashtra,West,Furniture,Home & Office,Sofa,68400,3,0.05,8931.81,UPI,Same Day
+960,ORD-00960,23-09-2025 00:00,CUST-1121,Aarav Das,Patna,Bihar,East,Technology,Electronics,Smartphone,20900,1,0.05,2325.37,Credit Card,Standard
+961,ORD-00961,03-10-2024 00:00,CUST-1324,Aadhya Rao,Mumbai,Maharashtra,West,Home Appliances,Appliances,Electric Kettle,1275,1,0.15,113.05,Credit Card,Express
+962,ORD-00962,02-03-2024 00:00,CUST-1345,Aarav Mehta,Bengaluru,Karnataka,South,Furniture,Home & Office,Bookshelf,5200,1,0,904.93,Debit Card,Express
+963,ORD-00963,04-05-2025 00:00,CUST-1213,Ira Reddy,Lucknow,Uttar Pradesh,North,Technology,Electronics,Smartphone,52800,3,0.2,-854.56,Debit Card,Standard
+964,ORD-00964,01-05-2024 00:00,CUST-1178,Aditya Joshi,Bengaluru,Karnataka,South,Office Supplies,Stationery,Desk Organizer,1700,2,0,427.12,Credit Card,Standard
+965,ORD-00965,06-12-2024 00:00,CUST-1040,Meera Iyer,Pune,Maharashtra,West,Technology,Electronics,Smartphone,19800,1,0.1,2229.8,Credit Card,Standard
+966,ORD-00966,01-03-2025 00:00,CUST-1013,Ananya Joshi,Chennai,Tamil Nadu,South,Technology,Electronics,Monitor,21250,2,0.15,1981.46,Debit Card,Standard
+967,ORD-00967,22-05-2025 00:00,CUST-1020,Sai Gupta,Bengaluru,Karnataka,South,Technology,Electronics,Keyboard,2800,2,0,680.87,Debit Card,Express
+968,ORD-00968,08-05-2025 00:00,CUST-1347,Aditya Kumar,Delhi,Delhi,North,Home Appliances,Appliances,Vacuum Cleaner,17800,2,0,2295.5,Credit Card,Standard
+969,ORD-00969,27-06-2025 00:00,CUST-1096,Rahul Singh,Ahmedabad,Gujarat,West,Office Supplies,Stationery,Notebook Pack,665,2,0.05,167.07,UPI,Express
+970,ORD-00970,02-05-2025 00:00,CUST-1199,Aarav Mehta,Hyderabad,Telangana,South,Office Supplies,Stationery,Stapler,374,2,0.15,51.9,Credit Card,Express
+971,ORD-00971,28-11-2024 00:00,CUST-1291,Aadhya Patel,Pune,Maharashtra,West,Office Supplies,Stationery,Printer Paper,456,1,0.05,99.94,Credit Card,Standard
+972,ORD-00972,27-10-2025 00:00,CUST-1095,Aditya Joshi,Jaipur,Rajasthan,North,Technology,Electronics,Headphones,7560,3,0.1,1176.83,Cash,Standard
+973,ORD-00973,31-03-2025 00:00,CUST-1339,Vivaan Patel,Bengaluru,Karnataka,South,Technology,Electronics,Smartphone,56100,3,0.15,1561.16,Credit Card,Express
+974,ORD-00974,08-08-2024 00:00,CUST-1209,Aadhya Mehta,Bhubaneswar,Odisha,East,Technology,Electronics,Smartphone,16500,1,0.25,-316.91,UPI,Standard
+975,ORD-00975,01-03-2024 00:00,CUST-1287,Kavya Mehta,Jaipur,Rajasthan,North,Furniture,Home & Office,Sofa,76800,4,0.2,76.15,Credit Card,Standard
+976,ORD-00976,12-12-2024 00:00,CUST-1048,Ira Reddy,Ahmedabad,Gujarat,West,Office Supplies,Stationery,Printer Paper,960,2,0,235.81,UPI,Express
+977,ORD-00977,27-05-2024 00:00,CUST-1276,Ananya Mishra,Delhi,Delhi,North,Technology,Electronics,Laptop,208000,5,0.2,13529.91,Credit Card,Same Day
+978,ORD-00978,08-03-2025 00:00,CUST-1303,Vivaan Nair,Patna,Bihar,East,Technology,Electronics,Keyboard,4760,4,0.15,489,Credit Card,Express
+979,ORD-00979,03-07-2025 00:00,CUST-1307,Ira Mishra,Lucknow,Uttar Pradesh,North,Home Appliances,Appliances,Air Fryer,13950,3,0.25,-483.96,UPI,Standard
+980,ORD-00980,04-02-2025 00:00,CUST-1137,Rohan Patel,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Stapler,187,1,0.15,45.26,Debit Card,Standard
+981,ORD-00981,15-10-2024 00:00,CUST-1210,Arjun Singh,Chennai,Tamil Nadu,South,Technology,Electronics,Headphones,7560,3,0.1,1436.46,Debit Card,Same Day
+982,ORD-00982,18-07-2024 00:00,CUST-1048,Sai Verma,Pune,Maharashtra,West,Technology,Electronics,Smartphone,59400,3,0.1,4827.95,Cash,Standard
+983,ORD-00983,22-08-2024 00:00,CUST-1136,Priya Gupta,Hyderabad,Telangana,South,Technology,Electronics,Monitor,45000,4,0.1,6474.98,UPI,Standard
+984,ORD-00984,09-12-2024 00:00,CUST-1193,Ananya Sharma,Pune,Maharashtra,West,Office Supplies,Stationery,Desk Organizer,3400,4,0,863.56,UPI,Express
+985,ORD-00985,05-02-2024 00:00,CUST-1172,Aditya Sharma,Lucknow,Uttar Pradesh,North,Technology,Electronics,Smartphone,52800,3,0.2,688.3,Credit Card,Standard
+986,ORD-00986,31-05-2025 00:00,CUST-1272,Ira Mehta,Bengaluru,Karnataka,South,Office Supplies,Stationery,Stapler,187,1,0.15,44.26,UPI,Standard
+987,ORD-00987,17-01-2025 00:00,CUST-1106,Diya Verma,Chennai,Tamil Nadu,South,Technology,Electronics,Keyboard,2800,2,0,595.14,Debit Card,Standard
+988,ORD-00988,02-09-2024 00:00,CUST-1143,Neha Nair,Patna,Bihar,East,Technology,Electronics,Headphones,10080,4,0.1,1343.57,Credit Card,Express
+989,ORD-00989,29-06-2025 00:00,CUST-1093,Rohan Mehta,Pune,Maharashtra,West,Furniture,Home & Office,Sofa,45600,2,0.05,3678.3,Credit Card,Express
+990,ORD-00990,20-07-2024 00:00,CUST-1155,Kiran Nair,Bengaluru,Karnataka,South,Furniture,Home & Office,Bookshelf,8840,2,0.15,769.88,UPI,Standard
+991,ORD-00991,01-09-2025 00:00,CUST-1337,Neha Sharma,Mumbai,Maharashtra,West,Technology,Electronics,Keyboard,4200,4,0.25,98.45,Credit Card,Same Day
+992,ORD-00992,28-04-2025 00:00,CUST-1025,Rohan Sharma,Chennai,Tamil Nadu,South,Technology,Electronics,Smartphone,56100,3,0.15,1699.51,Debit Card,Standard
+993,ORD-00993,16-11-2024 00:00,CUST-1176,Ira Nair,Chennai,Tamil Nadu,South,Technology,Electronics,Laptop,78000,2,0.25,-1522.91,Debit Card,Express
+994,ORD-00994,17-02-2025 00:00,CUST-1086,Riya Nair,Bengaluru,Karnataka,South,Office Supplies,Stationery,Pen Set,306,2,0.15,51.77,UPI,Standard
+995,ORD-00995,31-10-2024 00:00,CUST-1188,Kiran Sharma,Mumbai,Maharashtra,West,Home Appliances,Appliances,Vacuum Cleaner,32040,4,0.1,3052.78,UPI,Standard
+996,ORD-00996,01-03-2024 00:00,CUST-1251,Ishaan Singh,Bengaluru,Karnataka,South,Home Appliances,Appliances,Air Fryer,16740,3,0.1,1707.29,Net Banking,Standard
+997,ORD-00997,13-12-2025 00:00,CUST-1342,Rohan Patel,Lucknow,Uttar Pradesh,North,Technology,Electronics,Headphones,2520,1,0.1,419.28,UPI,Standard
+998,ORD-00998,30-01-2024 00:00,CUST-1293,Ira Verma,Ahmedabad,Gujarat,West,Home Appliances,Appliances,Mixer Grinder,4800,2,0.25,-41.97,UPI,Standard
+999,ORD-00999,26-12-2024 00:00,CUST-1247,Meera Sharma,Bengaluru,Karnataka,South,Technology,Electronics,Monitor,11250,1,0.1,1568.44,Credit Card,Express
+1000,ORD-01000,24-02-2024 00:00,CUST-1341,Riya Rao,Bhubaneswar,Odisha,East,Technology,Electronics,Smartphone,74800,4,0.15,3397.09,Net Banking,Standard
+1001,ORD-01001,09-07-2024 00:00,CUST-1170,Aarav Joshi,Patna,Bihar,East,Home Appliances,Appliances,Electric Kettle,4050,3,0.1,549.95,UPI,Standard
+1002,ORD-01002,19-09-2024 00:00,CUST-1140,Kavya Verma,Pune,Maharashtra,West,Home Appliances,Appliances,Electric Kettle,5400,4,0.1,591.87,Credit Card,Standard
+1003,ORD-01003,03-08-2024 00:00,CUST-1049,Aarav Sharma,Bengaluru,Karnataka,South,Technology,Electronics,Smartphone,39600,2,0.1,2339.25,UPI,Standard
+1004,ORD-01004,25-11-2024 00:00,CUST-1032,Sai Joshi,Patna,Bihar,East,Furniture,Home & Office,Study Table,15600,3,0.2,1030.47,Cash,Express
+1005,ORD-01005,28-05-2024 00:00,CUST-1293,Vihaan Joshi,Patna,Bihar,East,Technology,Electronics,Keyboard,4480,4,0.2,207.26,UPI,Standard
+1006,ORD-01006,16-07-2024 00:00,CUST-1237,Meera Rao,Pune,Maharashtra,West,Office Supplies,Stationery,Desk Organizer,1615,2,0.05,380.38,Debit Card,Express
+1007,ORD-01007,17-02-2025 00:00,CUST-1241,Kavya Nair,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Pen Set,171,1,0.05,59.61,UPI,Standard
+1008,ORD-01008,06-10-2025 00:00,CUST-1094,Rohan Rao,Bengaluru,Karnataka,South,Technology,Electronics,Keyboard,5040,4,0.1,645.31,Credit Card,Standard
+1009,ORD-01009,24-11-2025 00:00,CUST-1210,Sai Mishra,Hyderabad,Telangana,South,Technology,Electronics,Headphones,5040,2,0.1,777.57,UPI,Standard
+1010,ORD-01010,04-05-2024 00:00,CUST-1256,Ishaan Joshi,Ahmedabad,Gujarat,West,Office Supplies,Stationery,Pen Set,513,3,0.05,146.85,Credit Card,Same Day
+1011,ORD-01011,09-01-2024 00:00,CUST-1167,Aditya Das,Pune,Maharashtra,West,Furniture,Home & Office,Sofa,38400,2,0.2,-355.63,Credit Card,Express
+1012,ORD-01012,14-03-2025 00:00,CUST-1306,Meera Kumar,Jaipur,Rajasthan,North,Home Appliances,Appliances,Vacuum Cleaner,14240,2,0.2,321.05,Credit Card,Standard
+1013,ORD-01013,02-06-2024 00:00,CUST-1257,Diya Rao,Jaipur,Rajasthan,North,Technology,Electronics,Laptop,93600,2,0.1,10839.04,Credit Card,Express
+1014,ORD-01014,01-07-2025 00:00,CUST-1153,Priya Sharma,Mumbai,Maharashtra,West,Technology,Electronics,Monitor,59375,5,0.05,8262.79,Debit Card,Standard
+1015,ORD-01015,16-07-2024 00:00,CUST-1040,Vihaan Mishra,Ahmedabad,Gujarat,West,Furniture,Home & Office,Office Chair,14820,2,0.05,1959.12,Credit Card,Same Day
+1016,ORD-01016,27-06-2025 00:00,CUST-1081,Aarav Rao,Ahmedabad,Gujarat,West,Technology,Electronics,Smartphone,41800,2,0.05,6539.93,Credit Card,Standard
+1017,ORD-01017,04-06-2024 00:00,CUST-1044,Ananya Rao,Pune,Maharashtra,West,Office Supplies,Stationery,Pen Set,171,1,0.05,43.34,UPI,Standard
+1018,ORD-01018,20-10-2024 00:00,CUST-1171,Aadhya Nair,Bhubaneswar,Odisha,East,Home Appliances,Appliances,Mixer Grinder,5440,2,0.15,351.55,UPI,Standard
+1019,ORD-01019,23-06-2025 00:00,CUST-1345,Aadhya Rao,Patna,Bihar,East,Office Supplies,Stationery,Notebook Pack,945,3,0.1,197.96,Credit Card,Standard
+1020,ORD-01020,15-11-2025 00:00,CUST-1171,Sai Iyer,Delhi,Delhi,North,Technology,Electronics,Monitor,11250,1,0.1,1801.06,Credit Card,Standard
+1021,ORD-01021,01-02-2025 00:00,CUST-1124,Rohan Nair,Patna,Bihar,East,Furniture,Home & Office,Study Table,5200,1,0.2,240.14,UPI,Express
+1022,ORD-01022,08-01-2024 00:00,CUST-1048,Neha Mishra,Patna,Bihar,East,Furniture,Home & Office,Bookshelf,5200,1,0,683.03,Cash,Express
+1023,ORD-01023,11-06-2025 00:00,CUST-1115,Sneha Joshi,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Vacuum Cleaner,15130,2,0.15,343.89,Cash,Express
+1024,ORD-01024,28-07-2025 00:00,CUST-1024,Rahul Reddy,Kolkata,West Bengal,East,Furniture,Home & Office,Sofa,86400,4,0.1,5411.43,UPI,Standard
+1025,ORD-01025,09-06-2024 00:00,CUST-1337,Sneha Nair,Lucknow,Uttar Pradesh,North,Office Supplies,Stationery,Desk Organizer,765,1,0.1,144.77,Credit Card,Standard
+1026,ORD-01026,24-11-2025 00:00,CUST-1291,Neha Mehta,Pune,Maharashtra,West,Office Supplies,Stationery,Notebook Pack,332.5,1,0.05,75.49,Net Banking,Standard
+1027,ORD-01027,18-09-2024 00:00,CUST-1138,Ira Rao,Delhi,Delhi,North,Home Appliances,Appliances,Electric Kettle,2250,2,0.25,91.09,Net Banking,Standard
+1028,ORD-01028,05-05-2024 00:00,CUST-1299,Ira Mehta,Lucknow,Uttar Pradesh,North,Furniture,Home & Office,Bookshelf,20800,5,0.2,-49.63,Cash,Express
+1029,ORD-01029,29-05-2025 00:00,CUST-1300,Kavya Mishra,Jaipur,Rajasthan,North,Technology,Electronics,Monitor,11875,1,0.05,2216.09,Cash,Standard
+1030,ORD-01030,06-02-2024 00:00,CUST-1036,Vihaan Reddy,Hyderabad,Telangana,South,Furniture,Home & Office,Office Chair,28080,4,0.1,2449.85,Credit Card,Express
+1031,ORD-01031,08-08-2025 00:00,CUST-1056,Aditya Rao,Lucknow,Uttar Pradesh,North,Technology,Electronics,Smartphone,44000,2,0,6606.4,UPI,Express
+1032,ORD-01032,26-09-2025 00:00,CUST-1200,Kavya Verma,Pune,Maharashtra,West,Technology,Electronics,Headphones,2520,1,0.1,310.8,UPI,Express
+1033,ORD-01033,09-07-2025 00:00,CUST-1089,Diya Verma,Hyderabad,Telangana,South,Office Supplies,Stationery,Notebook Pack,700,2,0,182.7,UPI,Express
+1034,ORD-01034,03-04-2024 00:00,CUST-1099,Ira Das,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Notebook Pack,297.5,1,0.15,59.48,Credit Card,Standard
+1035,ORD-01035,09-01-2025 00:00,CUST-1219,Ananya Rao,Bengaluru,Karnataka,South,Office Supplies,Stationery,Notebook Pack,332.5,1,0.05,72.91,Net Banking,Standard
+1036,ORD-01036,09-08-2025 00:00,CUST-1110,Ananya Patel,Delhi,Delhi,North,Office Supplies,Stationery,Desk Organizer,850,1,0,233.65,Debit Card,Standard
+1037,ORD-01037,01-01-2024 00:00,CUST-1245,Meera Iyer,Pune,Maharashtra,West,Office Supplies,Stationery,Stapler,187,1,0.15,29.26,Debit Card,Express
+1038,ORD-01038,03-05-2024 00:00,CUST-1228,Vihaan Gupta,Mumbai,Maharashtra,West,Home Appliances,Appliances,Mixer Grinder,9600,3,0,1628,Debit Card,Standard
+1039,ORD-01039,23-01-2024 00:00,CUST-1246,Arjun Verma,Kolkata,West Bengal,East,Technology,Electronics,Smartphone,74800,4,0.15,4265.14,UPI,Express
+1040,ORD-01040,14-04-2024 00:00,CUST-1077,Aditya Patel,Patna,Bihar,East,Office Supplies,Stationery,Stapler,1320,6,0,411.21,Credit Card,Standard
+1041,ORD-01041,09-12-2025 00:00,CUST-1168,Arjun Kumar,Ahmedabad,Gujarat,West,Home Appliances,Appliances,Mixer Grinder,5120,2,0.2,119.35,UPI,Express
+1042,ORD-01042,28-10-2024 00:00,CUST-1074,Neha Verma,Bhubaneswar,Odisha,East,Furniture,Home & Office,Office Chair,19890,3,0.15,1754.83,Debit Card,Express
+1043,ORD-01043,16-05-2024 00:00,CUST-1184,Rahul Gupta,Jaipur,Rajasthan,North,Office Supplies,Stationery,Pen Set,306,2,0.15,39.1,UPI,Express
+1044,ORD-01044,15-10-2025 00:00,CUST-1125,Rahul Das,Jaipur,Rajasthan,North,Furniture,Home & Office,Bookshelf,3900,1,0.25,-183.3,Credit Card,Express
+1045,ORD-01045,11-04-2025 00:00,CUST-1020,Sai Singh,Delhi,Delhi,North,Home Appliances,Appliances,Mixer Grinder,2880,1,0.1,393.57,Debit Card,Standard
+1046,ORD-01046,26-06-2024 00:00,CUST-1292,Riya Gupta,Ahmedabad,Gujarat,West,Office Supplies,Stationery,Printer Paper,912,2,0.05,162.72,Debit Card,Standard
+1047,ORD-01047,21-10-2025 00:00,CUST-1182,Priya Rao,Mumbai,Maharashtra,West,Office Supplies,Stationery,Printer Paper,432,1,0.1,68.57,UPI,Express
+1048,ORD-01048,17-10-2024 00:00,CUST-1185,Ishaan Kumar,Mumbai,Maharashtra,West,Furniture,Home & Office,Bookshelf,4940,1,0.05,670.52,Net Banking,Express
+1049,ORD-01049,10-03-2024 00:00,CUST-1072,Ananya Verma,Delhi,Delhi,North,Technology,Electronics,Keyboard,1260,1,0.1,210.95,UPI,Standard
+1050,ORD-01050,16-05-2024 00:00,CUST-1083,Kavya Kumar,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Mixer Grinder,2880,1,0.1,356.38,Debit Card,Standard
+1051,ORD-01051,24-04-2024 00:00,CUST-1128,Riya Iyer,Bengaluru,Karnataka,South,Technology,Electronics,Headphones,15120,6,0.1,2555.93,Debit Card,Same Day
+1052,ORD-01052,04-02-2025 00:00,CUST-1224,Vivaan Das,Pune,Maharashtra,West,Home Appliances,Appliances,Mixer Grinder,9120,3,0.05,1296.47,Cash,Same Day
+1053,ORD-01053,15-03-2025 00:00,CUST-1310,Rahul Reddy,Pune,Maharashtra,West,Home Appliances,Appliances,Mixer Grinder,9600,3,0,1686.69,UPI,Same Day
+1054,ORD-01054,29-10-2024 00:00,CUST-1223,Neha Singh,Hyderabad,Telangana,South,Office Supplies,Stationery,Desk Organizer,2422.5,3,0.05,588.93,Credit Card,Standard
+1055,ORD-01055,03-12-2024 00:00,CUST-1207,Aadhya Patel,Lucknow,Uttar Pradesh,North,Technology,Electronics,Laptop,98800,2,0.05,16818.18,Cash,Express
+1056,ORD-01056,23-10-2024 00:00,CUST-1049,Kiran Das,Pune,Maharashtra,West,Technology,Electronics,Headphones,12600,5,0.1,2076,UPI,Standard
+1057,ORD-01057,16-03-2024 00:00,CUST-1286,Aadhya Mishra,Delhi,Delhi,North,Technology,Electronics,Keyboard,1260,1,0.1,192.33,Credit Card,Same Day
+1058,ORD-01058,31-08-2025 00:00,CUST-1083,Neha Mishra,Pune,Maharashtra,West,Home Appliances,Appliances,Electric Kettle,4500,3,0,1189.14,Credit Card,Standard
+1059,ORD-01059,20-01-2024 00:00,CUST-1237,Sneha Verma,Jaipur,Rajasthan,North,Technology,Electronics,Smartphone,59400,3,0.1,4527.6,UPI,Express
+1060,ORD-01060,22-01-2024 00:00,CUST-1008,Aadhya Rao,Chennai,Tamil Nadu,South,Technology,Electronics,Laptop,88400,2,0.15,5895.53,Debit Card,Standard
+1061,ORD-01061,24-01-2025 00:00,CUST-1229,Ishaan Reddy,Bengaluru,Karnataka,South,Office Supplies,Stationery,Stapler,418,2,0.05,102.15,Debit Card,Standard
+1062,ORD-01062,17-01-2024 00:00,CUST-1252,Vihaan Rao,Jaipur,Rajasthan,North,Furniture,Home & Office,Study Table,5850,1,0.1,638.31,UPI,Standard
+1063,ORD-01063,17-06-2024 00:00,CUST-1079,Aarav Iyer,Lucknow,Uttar Pradesh,North,Technology,Electronics,Headphones,9520,4,0.15,1561.03,Credit Card,Express
+1064,ORD-01064,29-12-2025 00:00,CUST-1035,Arjun Gupta,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Pen Set,765,5,0.15,184.77,UPI,Standard
+1065,ORD-01065,14-05-2025 00:00,CUST-1186,Kiran Patel,Lucknow,Uttar Pradesh,North,Furniture,Home & Office,Office Chair,6630,1,0.15,454.8,Cash,Standard
+1066,ORD-01066,23-04-2024 00:00,CUST-1129,Diya Kumar,Delhi,Delhi,North,Home Appliances,Appliances,Mixer Grinder,13600,5,0.15,1023.81,UPI,Standard
+1067,ORD-01067,12-04-2024 00:00,CUST-1209,Ananya Mishra,Bengaluru,Karnataka,South,Technology,Electronics,Laptop,156000,3,0,30630.64,Debit Card,Express
+1068,ORD-01068,18-04-2024 00:00,CUST-1127,Ira Mishra,Lucknow,Uttar Pradesh,North,Technology,Electronics,Laptop,221000,5,0.15,12672.34,UPI,Standard
+1069,ORD-01069,29-08-2024 00:00,CUST-1200,Kiran Mehta,Jaipur,Rajasthan,North,Technology,Electronics,Headphones,10080,4,0.1,1809.95,UPI,Express
+1070,ORD-01070,26-12-2025 00:00,CUST-1175,Vivaan Gupta,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Vacuum Cleaner,16020,2,0.1,624.78,Net Banking,Express
+1071,ORD-01071,07-08-2024 00:00,CUST-1300,Ira Mishra,Chennai,Tamil Nadu,South,Office Supplies,Stationery,Notebook Pack,1260,4,0.1,237.42,Credit Card,Standard
+1072,ORD-01072,19-09-2024 00:00,CUST-1293,Sneha Mishra,Kolkata,West Bengal,East,Technology,Electronics,Keyboard,1190,1,0.15,172.16,Cash,Express
+1073,ORD-01073,03-02-2025 00:00,CUST-1325,Vihaan Singh,Mumbai,Maharashtra,West,Home Appliances,Appliances,Air Fryer,11160,2,0.1,1451.13,Debit Card,Standard
+1074,ORD-01074,26-03-2024 00:00,CUST-1010,Rohan Sharma,Pune,Maharashtra,West,Office Supplies,Stationery,Printer Paper,2280,5,0.05,502.87,Net Banking,Express
+1075,ORD-01075,28-12-2024 00:00,CUST-1157,Rohan Das,Chennai,Tamil Nadu,South,Technology,Electronics,Laptop,44200,1,0.15,3904.69,Credit Card,Standard
+1076,ORD-01076,28-06-2024 00:00,CUST-1078,Aarav Kumar,Ahmedabad,Gujarat,West,Technology,Electronics,Smartphone,22000,1,0,3947.86,UPI,Standard
+1077,ORD-01077,05-11-2024 00:00,CUST-1277,Vivaan Verma,Kolkata,West Bengal,East,Home Appliances,Appliances,Air Fryer,15810,3,0.15,810.34,Debit Card,Standard
+1078,ORD-01078,20-04-2025 00:00,CUST-1031,Kiran Mishra,Ahmedabad,Gujarat,West,Technology,Electronics,Monitor,50000,4,0,12313.86,Credit Card,Standard
+1079,ORD-01079,12-08-2024 00:00,CUST-1085,Ira Iyer,Jaipur,Rajasthan,North,Office Supplies,Stationery,Notebook Pack,315,1,0.1,62.67,UPI,Same Day
+1080,ORD-01080,13-10-2024 00:00,CUST-1207,Sai Rao,Hyderabad,Telangana,South,Technology,Electronics,Monitor,11875,1,0.05,1107.49,Credit Card,Standard
+1081,ORD-01081,02-04-2024 00:00,CUST-1282,Diya Joshi,Delhi,Delhi,North,Office Supplies,Stationery,Desk Organizer,2890,4,0.15,422.59,UPI,Same Day
+1082,ORD-01082,30-10-2025 00:00,CUST-1008,Neha Reddy,Bhubaneswar,Odisha,East,Furniture,Home & Office,Sofa,64800,3,0.1,488.12,UPI,Express
+1083,ORD-01083,25-12-2024 00:00,CUST-1103,Sneha Rao,Bengaluru,Karnataka,South,Office Supplies,Stationery,Stapler,396,2,0.1,78.41,Debit Card,Standard
+1084,ORD-01084,27-09-2025 00:00,CUST-1253,Diya Reddy,Pune,Maharashtra,West,Office Supplies,Stationery,Notebook Pack,595,2,0.15,119.34,Debit Card,Express
+1085,ORD-01085,19-08-2024 00:00,CUST-1181,Vivaan Singh,Kolkata,West Bengal,East,Technology,Electronics,Monitor,35625,3,0.05,5952.25,UPI,Standard
+1086,ORD-01086,10-10-2024 00:00,CUST-1083,Priya Patel,Hyderabad,Telangana,South,Home Appliances,Appliances,Air Fryer,6200,1,0,891.66,Credit Card,Standard
+1087,ORD-01087,25-04-2024 00:00,CUST-1142,Vivaan Mehta,Mumbai,Maharashtra,West,Technology,Electronics,Laptop,46800,1,0.1,4623.74,UPI,Express
+1088,ORD-01088,01-01-2025 00:00,CUST-1155,Meera Singh,Lucknow,Uttar Pradesh,North,Technology,Electronics,Laptop,148200,3,0.05,21120.56,UPI,Same Day
+1089,ORD-01089,06-09-2024 00:00,CUST-1002,Rohan Verma,Hyderabad,Telangana,South,Technology,Electronics,Monitor,20000,2,0.2,1917.28,Credit Card,Standard
+1090,ORD-01090,12-05-2024 00:00,CUST-1319,Sai Joshi,Pune,Maharashtra,West,Technology,Electronics,Headphones,5040,2,0.1,860.36,UPI,Express
+1091,ORD-01091,27-11-2025 00:00,CUST-1004,Priya Mishra,Lucknow,Uttar Pradesh,North,Home Appliances,Appliances,Electric Kettle,1350,1,0.1,212.64,Credit Card,Standard
+1092,ORD-01092,25-10-2025 00:00,CUST-1074,Ananya Nair,Hyderabad,Telangana,South,Office Supplies,Stationery,Pen Set,288,2,0.2,47.04,UPI,Standard
+1093,ORD-01093,27-10-2024 00:00,CUST-1056,Arjun Singh,Lucknow,Uttar Pradesh,North,Furniture,Home & Office,Sofa,24000,1,0,3559.18,Credit Card,Standard
+1094,ORD-01094,18-03-2024 00:00,CUST-1021,Kavya Sharma,Chennai,Tamil Nadu,South,Furniture,Home & Office,Study Table,32500,5,0,6604.31,Debit Card,Standard
+1095,ORD-01095,07-03-2024 00:00,CUST-1288,Ananya Nair,Patna,Bihar,East,Technology,Electronics,Headphones,7980,3,0.05,1328.08,Net Banking,Express
+1096,ORD-01096,17-01-2025 00:00,CUST-1084,Ananya Kumar,Hyderabad,Telangana,South,Furniture,Home & Office,Sofa,20400,1,0.15,825.12,Net Banking,Express
+1097,ORD-01097,17-02-2025 00:00,CUST-1321,Meera Verma,Kolkata,West Bengal,East,Technology,Electronics,Laptop,93600,2,0.1,10417.08,Credit Card,Express
+1098,ORD-01098,29-01-2025 00:00,CUST-1243,Kavya Rao,Jaipur,Rajasthan,North,Office Supplies,Stationery,Pen Set,855,5,0.05,201.59,Credit Card,Standard
+1099,ORD-01099,03-01-2024 00:00,CUST-1276,Kavya Singh,Lucknow,Uttar Pradesh,North,Furniture,Home & Office,Sofa,38400,2,0.2,777.24,Net Banking,Standard
+1100,ORD-01100,28-12-2025 00:00,CUST-1198,Aadhya Patel,Mumbai,Maharashtra,West,Technology,Electronics,Smartphone,44000,2,0,6708.79,Credit Card,Standard
+1101,ORD-01101,08-06-2025 00:00,CUST-1341,Aadhya Das,Bengaluru,Karnataka,South,Technology,Electronics,Laptop,156000,3,0,31811.52,UPI,Express
+1102,ORD-01102,21-10-2024 00:00,CUST-1308,Ira Mehta,Ahmedabad,Gujarat,West,Technology,Electronics,Smartphone,20900,1,0.05,2777.59,Debit Card,Same Day
+1103,ORD-01103,10-08-2025 00:00,CUST-1201,Meera Kumar,Hyderabad,Telangana,South,Office Supplies,Stationery,Printer Paper,960,2,0,260.15,Debit Card,Standard
+1104,ORD-01104,09-12-2025 00:00,CUST-1286,Vihaan Mehta,Bengaluru,Karnataka,South,Home Appliances,Appliances,Electric Kettle,2550,2,0.15,225.86,UPI,Standard
+1105,ORD-01105,28-03-2024 00:00,CUST-1158,Kavya Sharma,Pune,Maharashtra,West,Furniture,Home & Office,Sofa,18000,1,0.25,-881.28,UPI,Express
+1106,ORD-01106,31-07-2025 00:00,CUST-1253,Meera Singh,Hyderabad,Telangana,South,Furniture,Home & Office,Sofa,18000,1,0.25,-1440.53,UPI,Express
+1107,ORD-01107,11-09-2024 00:00,CUST-1045,Ananya Singh,Bhubaneswar,Odisha,East,Technology,Electronics,Monitor,12500,1,0,2974.71,Credit Card,Same Day
+1108,ORD-01108,26-03-2025 00:00,CUST-1119,Riya Nair,Kolkata,West Bengal,East,Office Supplies,Stationery,Desk Organizer,1615,2,0.05,403.43,UPI,Standard
+1109,ORD-01109,02-12-2025 00:00,CUST-1058,Arjun Rao,Ahmedabad,Gujarat,West,Technology,Electronics,Monitor,22500,2,0.1,1820.63,UPI,Standard
+1110,ORD-01110,27-05-2025 00:00,CUST-1139,Aadhya Mehta,Mumbai,Maharashtra,West,Technology,Electronics,Smartphone,125400,6,0.05,10404.48,Credit Card,Standard
+1111,ORD-01111,08-03-2024 00:00,CUST-1037,Priya Mehta,Chennai,Tamil Nadu,South,Home Appliances,Appliances,Vacuum Cleaner,22695,3,0.15,838.15,UPI,Standard
+1112,ORD-01112,21-08-2025 00:00,CUST-1076,Kiran Verma,Mumbai,Maharashtra,West,Home Appliances,Appliances,Air Fryer,4960,1,0.2,101.66,Debit Card,Standard
+1113,ORD-01113,15-08-2024 00:00,CUST-1039,Rohan Singh,Kolkata,West Bengal,East,Office Supplies,Stationery,Stapler,1056,6,0.2,142.25,Credit Card,Standard
+1114,ORD-01114,03-12-2025 00:00,CUST-1219,Ira Singh,Bengaluru,Karnataka,South,Furniture,Home & Office,Study Table,18525,3,0.05,2067.96,Credit Card,Same Day
+1115,ORD-01115,26-01-2024 00:00,CUST-1009,Diya Patel,Lucknow,Uttar Pradesh,North,Technology,Electronics,Monitor,33750,3,0.1,3205.11,UPI,Standard
+1116,ORD-01116,08-07-2025 00:00,CUST-1310,Sai Singh,Lucknow,Uttar Pradesh,North,Home Appliances,Appliances,Vacuum Cleaner,15130,2,0.15,352.87,Cash,Standard
+1117,ORD-01117,17-07-2024 00:00,CUST-1037,Ananya Joshi,Patna,Bihar,East,Technology,Electronics,Smartphone,35200,2,0.2,1055.07,UPI,Express
+1118,ORD-01118,01-07-2024 00:00,CUST-1252,Meera Reddy,Delhi,Delhi,North,Technology,Electronics,Laptop,140400,3,0.1,11571.38,Cash,Express
+1119,ORD-01119,10-01-2025 00:00,CUST-1291,Rahul Reddy,Kolkata,West Bengal,East,Office Supplies,Stationery,Stapler,198,1,0.1,43.77,UPI,Express
+1120,ORD-01120,25-03-2024 00:00,CUST-1013,Aadhya Mishra,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Desk Organizer,5100,6,0,1073.91,Debit Card,Same Day
+1121,ORD-01121,02-11-2025 00:00,CUST-1100,Sai Nair,Kolkata,West Bengal,East,Office Supplies,Stationery,Notebook Pack,560,2,0.2,51.06,UPI,Standard
+1122,ORD-01122,17-08-2025 00:00,CUST-1004,Sai Gupta,Mumbai,Maharashtra,West,Home Appliances,Appliances,Electric Kettle,2400,2,0.2,186.8,UPI,Standard
+1123,ORD-01123,16-01-2025 00:00,CUST-1045,Aditya Mishra,Hyderabad,Telangana,South,Technology,Electronics,Laptop,49400,1,0.05,7208.65,UPI,Standard
+1124,ORD-01124,23-10-2025 00:00,CUST-1170,Ishaan Mehta,Bhubaneswar,Odisha,East,Technology,Electronics,Keyboard,5040,4,0.1,881.52,Debit Card,Standard
+1125,ORD-01125,28-11-2025 00:00,CUST-1289,Arjun Verma,Bengaluru,Karnataka,South,Technology,Electronics,Smartphone,44000,2,0,6613.77,UPI,Standard
+1126,ORD-01126,30-10-2024 00:00,CUST-1167,Diya Iyer,Ahmedabad,Gujarat,West,Office Supplies,Stationery,Notebook Pack,1400,4,0,456.34,UPI,Standard
+1127,ORD-01127,27-02-2024 00:00,CUST-1261,Priya Das,Kolkata,West Bengal,East,Technology,Electronics,Headphones,2520,1,0.1,423.39,UPI,Same Day
+1128,ORD-01128,03-09-2025 00:00,CUST-1313,Kiran Verma,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Stapler,198,1,0.1,47.07,UPI,Standard
+1129,ORD-01129,20-06-2025 00:00,CUST-1257,Ishaan Singh,Lucknow,Uttar Pradesh,North,Technology,Electronics,Keyboard,1190,1,0.15,69.83,UPI,Standard
+1130,ORD-01130,30-09-2024 00:00,CUST-1203,Aditya Mishra,Bengaluru,Karnataka,South,Technology,Electronics,Monitor,23750,2,0.05,4924.28,UPI,Standard
+1131,ORD-01131,11-05-2024 00:00,CUST-1323,Vivaan Joshi,Ahmedabad,Gujarat,West,Technology,Electronics,Smartphone,18700,1,0.15,931.59,Debit Card,Express
+1132,ORD-01132,18-06-2024 00:00,CUST-1246,Sneha Kumar,Ahmedabad,Gujarat,West,Furniture,Home & Office,Bookshelf,9360,2,0.1,322.97,UPI,Standard
+1133,ORD-01133,25-12-2024 00:00,CUST-1198,Priya Sharma,Ahmedabad,Gujarat,West,Technology,Electronics,Laptop,140400,3,0.1,11759.7,UPI,Express
+1134,ORD-01134,08-11-2024 00:00,CUST-1233,Kiran Mehta,Kolkata,West Bengal,East,Office Supplies,Stationery,Desk Organizer,2167.5,3,0.15,229.91,UPI,Standard
+1135,ORD-01135,16-03-2024 00:00,CUST-1267,Meera Kumar,Pune,Maharashtra,West,Furniture,Home & Office,Sofa,45600,2,0.05,4487.36,Net Banking,Standard
+1136,ORD-01136,11-01-2025 00:00,CUST-1105,Arjun Iyer,Pune,Maharashtra,West,Furniture,Home & Office,Sofa,22800,1,0.05,1244.92,Debit Card,Standard
+1137,ORD-01137,05-09-2025 00:00,CUST-1326,Neha Iyer,Pune,Maharashtra,West,Technology,Electronics,Monitor,37500,4,0.25,927.87,Debit Card,Standard
+1138,ORD-01138,13-03-2024 00:00,CUST-1132,Aditya Sharma,Bhubaneswar,Odisha,East,Furniture,Home & Office,Study Table,26000,5,0.2,845.48,UPI,Standard
+1139,ORD-01139,31-07-2025 00:00,CUST-1103,Arjun Joshi,Ahmedabad,Gujarat,West,Furniture,Home & Office,Office Chair,29640,4,0.05,3417.6,Credit Card,Standard
+1140,ORD-01140,16-11-2024 00:00,CUST-1261,Riya Rao,Hyderabad,Telangana,South,Technology,Electronics,Laptop,104000,2,0,24287.31,Net Banking,Standard
+1141,ORD-01141,30-05-2025 00:00,CUST-1065,Priya Reddy,Patna,Bihar,East,Technology,Electronics,Smartphone,70400,4,0.2,-951.79,UPI,Express
+1142,ORD-01142,02-02-2025 00:00,CUST-1022,Sai Singh,Bhubaneswar,Odisha,East,Furniture,Home & Office,Sofa,61200,3,0.15,2130.6,Cash,Standard
+1143,ORD-01143,29-05-2024 00:00,CUST-1193,Diya Reddy,Delhi,Delhi,North,Office Supplies,Stationery,Stapler,792,4,0.1,159.85,Debit Card,Standard
+1144,ORD-01144,12-02-2024 00:00,CUST-1201,Ananya Iyer,Bengaluru,Karnataka,South,Furniture,Home & Office,Bookshelf,26520,6,0.15,2391.7,Credit Card,Same Day
+1145,ORD-01145,09-05-2024 00:00,CUST-1185,Priya Sharma,Ahmedabad,Gujarat,West,Office Supplies,Stationery,Desk Organizer,765,1,0.1,170.22,UPI,Standard
+1146,ORD-01146,05-12-2024 00:00,CUST-1136,Aadhya Patel,Pune,Maharashtra,West,Home Appliances,Appliances,Vacuum Cleaner,32040,4,0.1,2241.84,Cash,Standard
+1147,ORD-01147,02-05-2025 00:00,CUST-1251,Sneha Mishra,Patna,Bihar,East,Technology,Electronics,Smartphone,49500,3,0.25,-625.48,Credit Card,Express
+1148,ORD-01148,07-12-2024 00:00,CUST-1126,Sai Das,Delhi,Delhi,North,Office Supplies,Stationery,Desk Organizer,3230,4,0.05,665.08,Debit Card,Standard
+1149,ORD-01149,31-01-2025 00:00,CUST-1231,Priya Das,Lucknow,Uttar Pradesh,North,Furniture,Home & Office,Study Table,16575,3,0.15,1785.35,UPI,Express
+1150,ORD-01150,21-01-2025 00:00,CUST-1278,Riya Kumar,Bengaluru,Karnataka,South,Technology,Electronics,Headphones,5040,2,0.1,1020.67,UPI,Standard
+1151,ORD-01151,09-02-2024 00:00,CUST-1272,Kavya Sharma,Hyderabad,Telangana,South,Office Supplies,Stationery,Stapler,418,2,0.05,99.06,Debit Card,Standard
+1152,ORD-01152,14-08-2025 00:00,CUST-1268,Ira Patel,Bengaluru,Karnataka,South,Office Supplies,Stationery,Pen Set,306,2,0.15,84.93,UPI,Express
+1153,ORD-01153,17-09-2025 00:00,CUST-1199,Diya Nair,Patna,Bihar,East,Office Supplies,Stationery,Pen Set,486,3,0.1,126.26,Net Banking,Express
+1154,ORD-01154,26-02-2025 00:00,CUST-1178,Sneha Rao,Patna,Bihar,East,Technology,Electronics,Monitor,35625,3,0.05,4984.9,UPI,Standard
+1155,ORD-01155,06-07-2025 00:00,CUST-1182,Meera Reddy,Bengaluru,Karnataka,South,Technology,Electronics,Monitor,18750,2,0.25,881.94,UPI,Express
+1156,ORD-01156,08-12-2025 00:00,CUST-1149,Aadhya Reddy,Hyderabad,Telangana,South,Technology,Electronics,Laptop,46800,1,0.1,5443.06,Debit Card,Standard
+1157,ORD-01157,26-10-2025 00:00,CUST-1220,Priya Mishra,Jaipur,Rajasthan,North,Technology,Electronics,Headphones,2520,1,0.1,397.36,UPI,Same Day
+1158,ORD-01158,20-01-2025 00:00,CUST-1107,Rohan Das,Patna,Bihar,East,Furniture,Home & Office,Office Chair,11700,2,0.25,-451.74,UPI,Express
+1159,ORD-01159,01-11-2025 00:00,CUST-1097,Sai Patel,Chennai,Tamil Nadu,South,Technology,Electronics,Headphones,4480,2,0.2,411.79,UPI,Express
+1160,ORD-01160,11-09-2025 00:00,CUST-1139,Aditya Sharma,Delhi,Delhi,North,Technology,Electronics,Headphones,6300,3,0.25,450.48,Debit Card,Standard
+1161,ORD-01161,02-01-2025 00:00,CUST-1070,Ananya Singh,Bhubaneswar,Odisha,East,Furniture,Home & Office,Sofa,45600,2,0.05,2850.06,Debit Card,Express
+1162,ORD-01162,19-07-2024 00:00,CUST-1170,Vihaan Mishra,Pune,Maharashtra,West,Technology,Electronics,Keyboard,2660,2,0.05,502.43,UPI,Express
+1163,ORD-01163,08-09-2025 00:00,CUST-1223,Arjun Singh,Jaipur,Rajasthan,North,Technology,Electronics,Headphones,2800,1,0,507.7,UPI,Standard
+1164,ORD-01164,27-07-2024 00:00,CUST-1316,Kiran Rao,Patna,Bihar,East,Furniture,Home & Office,Sofa,91200,4,0.05,9882.63,Debit Card,Standard
+1165,ORD-01165,31-05-2025 00:00,CUST-1216,Rohan Reddy,Bengaluru,Karnataka,South,Technology,Electronics,Monitor,31875,3,0.15,1793.81,UPI,Express
+1166,ORD-01166,29-01-2024 00:00,CUST-1057,Meera Sharma,Delhi,Delhi,North,Office Supplies,Stationery,Printer Paper,768,2,0.2,71.19,Debit Card,Standard
+1167,ORD-01167,26-11-2024 00:00,CUST-1263,Ishaan Gupta,Patna,Bihar,East,Home Appliances,Appliances,Air Fryer,5580,1,0.1,387.53,Cash,Express
+1168,ORD-01168,21-03-2024 00:00,CUST-1244,Arjun Patel,Chennai,Tamil Nadu,South,Furniture,Home & Office,Office Chair,7410,1,0.05,920.63,UPI,Express
+1169,ORD-01169,07-06-2024 00:00,CUST-1335,Rohan Mehta,Kolkata,West Bengal,East,Furniture,Home & Office,Study Table,29250,5,0.1,2861.91,UPI,Express
+1170,ORD-01170,01-08-2024 00:00,CUST-1195,Arjun Verma,Jaipur,Rajasthan,North,Furniture,Home & Office,Office Chair,12480,2,0.2,190.4,UPI,Express
+1171,ORD-01171,27-02-2025 00:00,CUST-1026,Rohan Das,Patna,Bihar,East,Furniture,Home & Office,Bookshelf,16640,4,0.2,787.18,Net Banking,Standard
+1172,ORD-01172,09-05-2025 00:00,CUST-1062,Aadhya Das,Jaipur,Rajasthan,North,Furniture,Home & Office,Sofa,91200,4,0.05,5869.92,Credit Card,Standard
+1173,ORD-01173,13-10-2024 00:00,CUST-1238,Ira Reddy,Pune,Maharashtra,West,Office Supplies,Stationery,Pen Set,486,3,0.1,112.51,Debit Card,Standard
+1174,ORD-01174,24-10-2024 00:00,CUST-1151,Riya Reddy,Delhi,Delhi,North,Furniture,Home & Office,Office Chair,21060,3,0.1,1325.21,Credit Card,Standard
+1175,ORD-01175,17-05-2024 00:00,CUST-1150,Ishaan Gupta,Kolkata,West Bengal,East,Office Supplies,Stationery,Stapler,792,4,0.1,122.73,UPI,Express
+1176,ORD-01176,10-06-2024 00:00,CUST-1307,Aadhya Nair,Lucknow,Uttar Pradesh,North,Office Supplies,Stationery,Printer Paper,1728,4,0.1,377.69,Cash,Same Day
+1177,ORD-01177,13-12-2025 00:00,CUST-1069,Aarav Nair,Kolkata,West Bengal,East,Technology,Electronics,Headphones,11200,4,0,3133.96,UPI,Express
+1178,ORD-01178,11-12-2024 00:00,CUST-1171,Sneha Gupta,Patna,Bihar,East,Office Supplies,Stationery,Stapler,352,2,0.2,34.59,Debit Card,Standard
+1179,ORD-01179,15-06-2025 00:00,CUST-1213,Arjun Singh,Bengaluru,Karnataka,South,Home Appliances,Appliances,Air Fryer,5890,1,0.05,429.92,Debit Card,Standard
+1180,ORD-01180,05-05-2025 00:00,CUST-1192,Neha Joshi,Patna,Bihar,East,Home Appliances,Appliances,Vacuum Cleaner,15130,2,0.15,292.3,Cash,Express
+1181,ORD-01181,17-05-2024 00:00,CUST-1286,Ishaan Gupta,Mumbai,Maharashtra,West,Furniture,Home & Office,Bookshelf,4940,1,0.05,562.31,Net Banking,Standard
+1182,ORD-01182,20-03-2025 00:00,CUST-1245,Riya Reddy,Pune,Maharashtra,West,Technology,Electronics,Headphones,7560,3,0.1,1495.63,Debit Card,Same Day
+1183,ORD-01183,07-06-2024 00:00,CUST-1219,Meera Reddy,Kolkata,West Bengal,East,Technology,Electronics,Headphones,2800,1,0,594.32,UPI,Express
+1184,ORD-01184,03-10-2025 00:00,CUST-1333,Riya Reddy,Mumbai,Maharashtra,West,Office Supplies,Stationery,Pen Set,324,2,0.1,73.88,Credit Card,Standard
+1185,ORD-01185,01-12-2024 00:00,CUST-1297,Meera Verma,Kolkata,West Bengal,East,Office Supplies,Stationery,Stapler,594,3,0.1,126.82,Credit Card,Same Day
+1186,ORD-01186,19-06-2025 00:00,CUST-1025,Aadhya Gupta,Bhubaneswar,Odisha,East,Furniture,Home & Office,Office Chair,6630,1,0.15,291.04,Credit Card,Express
+1187,ORD-01187,25-03-2024 00:00,CUST-1143,Aarav Das,Bhubaneswar,Odisha,East,Office Supplies,Stationery,Desk Organizer,722.5,1,0.15,126.53,Cash,Standard
+1188,ORD-01188,08-03-2025 00:00,CUST-1291,Ishaan Singh,Jaipur,Rajasthan,North,Office Supplies,Stationery,Notebook Pack,630,2,0.1,135.92,UPI,Standard
+1189,ORD-01189,11-04-2025 00:00,CUST-1198,Neha Patel,Kolkata,West Bengal,East,Technology,Electronics,Smartphone,20900,1,0.05,2349.74,Cash,Same Day
+1190,ORD-01190,15-01-2024 00:00,CUST-1272,Ishaan Rao,Lucknow,Uttar Pradesh,North,Office Supplies,Stationery,Printer Paper,1728,4,0.1,273.55,Cash,Standard
+1191,ORD-01191,14-12-2024 00:00,CUST-1137,Rohan Joshi,Ahmedabad,Gujarat,West,Furniture,Home & Office,Sofa,68400,3,0.05,4450.76,UPI,Express
+1192,ORD-01192,08-09-2025 00:00,CUST-1174,Aarav Iyer,Kolkata,West Bengal,East,Furniture,Home & Office,Office Chair,28080,4,0.1,2574,UPI,Express
+1193,ORD-01193,06-02-2025 00:00,CUST-1164,Ishaan Verma,Hyderabad,Telangana,South,Office Supplies,Stationery,Pen Set,648,4,0.1,138.9,UPI,Express
+1194,ORD-01194,08-10-2024 00:00,CUST-1223,Kavya Joshi,Hyderabad,Telangana,South,Office Supplies,Stationery,Notebook Pack,332.5,1,0.05,91.59,Debit Card,Standard
+1195,ORD-01195,21-11-2024 00:00,CUST-1205,Aditya Gupta,Mumbai,Maharashtra,West,Furniture,Home & Office,Sofa,22800,1,0.05,2200.37,Debit Card,Standard
+1196,ORD-01196,12-09-2025 00:00,CUST-1091,Ira Mehta,Ahmedabad,Gujarat,West,Office Supplies,Stationery,Pen Set,135,1,0.25,30.49,UPI,Standard
+1197,ORD-01197,02-09-2025 00:00,CUST-1286,Ananya Das,Hyderabad,Telangana,South,Home Appliances,Appliances,Electric Kettle,2250,2,0.25,55.4,UPI,Standard
+1198,ORD-01198,17-07-2024 00:00,CUST-1036,Diya Das,Patna,Bihar,East,Home Appliances,Appliances,Mixer Grinder,2880,1,0.1,350.3,Credit Card,Standard
+1199,ORD-01199,07-09-2024 00:00,CUST-1328,Aarav Rao,Mumbai,Maharashtra,West,Technology,Electronics,Monitor,22500,2,0.1,2559.48,UPI,Standard
+1200,ORD-01200,14-04-2025 00:00,CUST-1093,Vihaan Patel,Lucknow,Uttar Pradesh,North,Office Supplies,Stationery,Notebook Pack,525,2,0.25,61.31,Credit Card,Standard
